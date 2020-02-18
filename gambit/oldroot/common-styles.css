@@ -1,0 +1,571 @@
+/*************************************
+
+Common Styles used on all Triangle Member Sites
+
+
+**************************************
+*/
+
+
+
+/*---------------------- GLOBAL -- */
+
+
+a IMG {
+ 	border: 0;
+  	}
+
+TABLE {
+	font-size: 11px;
+	}
+
+/*---------------------- MISC FONTS -- */
+	
+H1 { 
+	color: #333; 
+	font-weight: bold;
+	font-size: 30px;
+	margin: 0px;
+	padding: 0px;
+	}
+	
+H2 { 
+	color: #333; 
+	font-weight: bold ;
+	font-size: 18px;
+	margin: 0px;
+	padding: 0px;
+	}
+
+H3 { 
+	color: #333; 
+	font-weight: bold ;
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+	}
+	
+H4 { 
+	color: #333; 
+	font-weight: bold ;
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+	}	
+	
+/*---------------------- Misc -- */
+
+
+IMG.arrow {
+ 	vertical-align: text-bottom;
+ 	border: 0;
+ 	}
+ 
+.button {
+	font: bold italic 12px arial;
+	color: #10378D;
+	border: #10378D;
+	border-style: solid; 
+	border-width: 1px; 
+	padding: 2px;
+	background: #FFFFFF;
+	}
+
+.cb-button {
+	background-color: #F99F24;
+	font-size: 11px;
+	font-weight: bold;
+	border: 1px solid #E57504;
+	color: #fff;
+	}
+/*--------------------- Right Rail --*/
+	
+.topjobs {
+	border: 1px solid #FF9933;
+	text-align: left;
+	background: #fff;
+	margin-top: 10px;
+	}
+.topjobs, .contents a {
+	color: #339;
+	}
+
+.topjobs-head {
+	border-bottom: 1px solid #FF9933; 
+	height: 18px;
+	font: bold 12px arial,verdana; 
+	color: #E85704; 
+	background: #FFD099;
+	}
+/*--------------------- TOP JOBS 9-23-06 -- */
+#TopJobsDisplay {
+	width:300px;
+	margin:10px auto 0 auto;
+		}
+#TopJobsDisplay .head {
+	line-height:18px;
+	padding-left:10px;
+		}
+#TopJobsDisplay .head a {
+	float:right;
+	font: 10px arial;
+	font-weight: bold;
+	padding-right:10px;
+	line-height:18px;
+		}
+#TopJobsDisplay .contents {
+	padding:10px;
+		}
+#TopJobsDisplay .foot {
+	margin-bottom:5px;
+	text-align:center;
+		}
+#TopJobsDisplay .item {
+	font: 11px arial;
+	font-weight: bold;
+	color: #666666;
+	margin-bottom: 8px;
+	line-height: 13px;
+		}
+
+#TopJobsDisplay .category {
+	color: #8E8E8C;
+	font-size: 11px;
+	font-weight: normal;
+		}
+#TopJobsDisplay .company{
+	color:black;
+	font-weight:normal;
+		}
+.adlink {
+	text-align: left;
+	margin: 10px 0 10px 0;
+	border: 1px solid #8FAAD1;
+	}
+
+.adlink-head {
+	border-bottom: 1px solid #8FAAD1; 
+	height: 18px;
+	font: bold 12px arial,verdana; 
+	color: #0E2B53; 
+	background: #A3BCDF;
+	}
+
+.boxtitle {
+	position: relative;
+	left: 10px;
+	top: 2px;
+	}
+
+P.listlinks {
+	font: 11px arial;
+	margin: 8px 0 8px 10px;
+	text-align: left;
+	line-height: 13px;
+	}
+
+a.view300 {
+	font: 10px arial;
+	font-weight: bold;
+	position: relative;
+	left: 175px;
+	top: 2px;
+	}
+	
+a.view270 {
+	font: 10px arial;
+	font-weight: bold;
+	position: relative;
+	left: 150px;
+	top: 2px;
+	}
+
+.boxfoot {
+	text-align: center;
+	font: 10px arial,verdana;
+	color: #666;
+	margin: 5px 0 5px 0;
+	}
+
+
+.printads {
+	margin-top: 10px;
+	border: 1px solid #999;
+	text-align: left;
+	background: #fff;
+	font-size: 11px;
+	}
+
+.printads-head {
+	border-bottom: 1px solid #999; 
+	height: 18px;
+	font: bold 12px arial,verdana; 
+	color: #2F2F2F; 
+	background: #D3D2D0;
+	}
+
+P.listprintads {
+	font: bold 10px arial;
+	margin: 0 0 3px 10px;
+	text-align: left;
+	line-height: 13px;
+	}
+
+a.viewads {
+	font: 10px arial;
+	font-weight: bold;
+	position: relative;
+	left: 75px;
+	top: 2px;
+	}
+	
+.menu-scroll	{	
+    margin-left: 15px;
+    overflow: auto;
+    background-color: #fff;
+    height: 125px;
+    width: 270px;
+    border: #999 1px solid;
+}
+
+/*--------------------- Hot Deals --*/
+
+#HD_right-rail {
+	font-family:Arial, Helvetica, sans-serif;
+	clear:both;
+	color:#13398C;
+	font-size:9pt;
+	font-weight:bold;
+	border:1px solid #8C86AA;
+	width:300px;
+	background-color:white;
+	margin:10px auto 0 auto;
+	}
+#HD_right-rail ul{
+	margin:5px 0;
+	padding:0 10px;
+	list-style:none;
+}
+#HD_right-rail li {
+	text-align:left;
+	border-bottom:1px solid #CECECE;
+	padding:5px 0 5px 0;
+	margin:0;
+	overflow:hidden;
+	zoom:1;
+	}
+#HD_right-rail li img {
+	float:left;
+	margin-right:3px;
+	}
+#HD_right-rail li.HD_over {
+	background-color:#F9F9F9;
+	cursor:pointer;
+}
+#HD_right-rail .make-model {
+	display:block;
+	}
+#HD_right-rail .price {
+	display:block;
+	}
+
+#HD_right-rail .dealer {
+	font-weight:normal;
+	color:black;
+	display:block;
+	margin-top:4px;
+	}
+#HD_right-rail a.poweredbylink {
+	display:block;
+	width:100%;
+	padding:5px 0 10px 0;
+	text-align:center;
+	}
+#HD_right-rail .HD_head {
+	background-color:#C0BDD2;
+	border-bottom:1px solid #8C86AA;
+	padding:3px 7px;
+	overflow:auto;
+	zoom:1;
+	}
+#HD_right-rail .HD_head a {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	padding:0 4px 0 20px;
+	float:right;
+	}
+#HD_right-rail .HD_flt_left {
+	float:left;
+	}
+/*--------------------- Story page --*/
+
+.story-side { 
+	color: #900; 
+	font-weight: bold;
+	}
+	
+.link10:link {
+	font-size: 10px; 
+	text-decoration:none; 
+	} 
+
+.story-body { 
+	color: #333; 
+	font-size: 12px;
+	}
+
+.story-body-bold { 
+	color: #333; 
+	font-weight: bold;
+	font-size: 14px;
+	}
+
+.story-hed { 
+	color: #333; 
+	font-weight: bold ; 
+	font-size: 22px ;
+	}
+
+.story-label { 
+	color: #666; 
+	font-weight: bold ;
+	font-style: italic;
+	font-size: 12px ;
+	}
+
+.story-label14 { 
+	color: #666; 
+	font-weight: bold ;
+	font-style: italic;
+	font-size: 14px ;
+	}
+	
+.story-label18 { 
+	color: #666; 
+	font-weight: bold ;
+	font-style: italic;
+	font-size: 18px ;
+	}
+
+.story-drophed { 
+	color: #666; 
+	font-weight: bold ;
+	font-size: 12px ;
+	}
+	
+.story-byline { 
+	color: #1D1D1D; 
+	font: bold 12px arial;
+	}
+	
+.story-photocut { 
+	color: #333; 
+	font-size: 9px ;
+	}
+	
+.story-photocredit { 
+	color: #333; 
+	font-weight: bold ;
+	font-style: italic;
+	font-size: 9px ;
+	}
+
+.story-shirttail { 
+	color: #666; 
+	font-weight: bold ;
+	font-size: 12px ;
+	}
+
+.story-tagline { 
+	color: #666; 
+	font-style: italic ;
+	font-size: 12px ;
+	}
+	
+.story-image {
+ margin: 10px 0px 0px 0px;
+  }
+  
+.story-gallery {
+  border:1px solid #ccc;
+  padding:5px;
+  margin-top:10px;
+	}
+	
+.story-assets-container {
+  border: 1px solid #ccc; 
+  padding:0;
+  margin: 0 0 20px 15px;
+  float: right;
+}
+
+.story-image-frame {
+  border: 1px solid #000;
+  margin-bottom: 10px;
+}
+
+.storyTop {
+  padding: 0 0 3px 0;
+  margin: 0;
+  }
+  
+.overline {
+  float:left;
+  position:relative;
+  margin: 0;
+  }
+
+.pubdate {
+  position:relative;
+  float:right;
+  margin:0;
+  }
+  
+.text11bold-333 { 
+	color: #333; 
+	font: bold 11px arial,verdana,sans-serif;
+	}
+
+/*---------------------- FOOTER -- */
+
+.footer { 
+	color: #000000; 
+	font: 10px arial, verdana;
+	 }
+ 	
+  
+/*-------- Triangle Promo styles */
+.tripromo{	width:200px;
+			clear:both;
+			font-size:11px;
+			background:url('http://media.newsobserver.com/images/triangle/promo_images/promo_backgroundgrad.gif') repeat-x 0px 59px;
+			}
+
+.tripromo .top-margin{margin-top:10px;} 
+.tripromo .top-margin-strong{margin-top:20px;}
+
+.tripromo .head{height:59px;
+			display:block;
+			}
+.tripromo .body{overflow:hidden;
+			width:184px;
+			padding:0px 6px 8px;
+			border-left:2px solid #a6ce39;border-right:2px solid #a6ce39;
+			background:transparent url('http://media.newsobserver.com/images/triangle/promo_images/promo_toppointy.gif') no-repeat 124px 0px;
+			}
+.tripromo .foot{width:200px;
+			height:28px;
+			background:url('http://media.newsobserver.com/images/triangle/promo_images/promo_bottompointy.gif') repeat-x 0px 0px;
+			}
+
+.tripromo a{color:#4787C8;} .tripromo a:hover, .tripromo h3 a:hover{color:#F7931E;}
+.tripromo .emp{background:url('http://www.triangle.com/images/v2/green-tri-bullet.gif') no-repeat 0px 3px;
+			padding-left:9px;
+			font-weight:bold;
+			}
+
+.tripromo h3{color:#333;
+			font-size:12px;
+			overflow:hidden;
+			border-bottom:1px solid #999;
+			margin-bottom:4px;
+			padding-bottom:2px;
+			}
+.tripromo h3 a{color:#333;}
+
+.tripromo span{color:#808080;}
+.tripromo .imgframe {
+			background:#000;
+			border:1px solid #999;
+			height:75px;
+			margin-bottom:4px;
+			overflow:hidden;
+			width:85px;
+			vertical-align:middle;
+			margin-right:5px;
+			float:left;
+			clear:right;
+			}
+.tripromo .imgframe img, .tripromo .imgframe a {line-height:75px;vertical-align:middle;}
+.tripromo ul.green-triangle {
+			margin-left:0pt;
+			padding-left:0px;
+			margin-top:0px;
+			margin-bottom:3px;
+			} 
+.tripromo ul.green-triangle li{list-style-type:none;
+			width:170px;
+			margin-left:0px;
+			padding-left:10px;
+			margin-bottom:2px;
+			background:url('http://www.triangle.com/images/v2/green-dot-bullet.gif') no-repeat 2px 5px;
+			}
+
+  
+  
+/*---------------------- View Print Ads styles -- */  
+.printadbox{width:300px;margin-top:10px;border:1px solid #999;text-align:left;background:#fff;font-size:11px;}	
+	.printadbox h4{border-bottom:1px solid #999;height:18px;color:#2F2F2F;background:#D3D2D0;padding-left:5px;padding-top:3px;}
+	.printadbox h4 a{font-size:0.75em;font-weight:bold;margin-left:55px;}	
+	.printadbox img{margin-left:20px;margin-top:6px;margin-bottom:6px;}	
+
+		.menu-scroll{overflow:auto;height:125px;width:270px;border:#999 1px solid;}
+			.menu-scroll ul{margin-top:1px;margin-left:0px;margin-right:3px;padding:0px;list-style:none;}	
+			.menu-scroll li{font-size:0.95em;font-weight:bold;margin-left:8px;margin-bottom:4px;margin-right:8px;}
+			.menu-scroll a{text-decoration:none;}
+			
+
+form.vpa_search {margin-left:15px;margin-top:10px;margin-bottom:10px;padding-top:24px;background:#fff url('http://www.triangle.com/images/right_rail/vpa_greensearch.gif') no-repeat left top;}
+	.vpa_searchtext {border:1px solid #ccc;width:185px;padding:2px;color:#4787C8;}
+
+.tributton {font-style:normal;width:75px;background:#4787C8;border:2px outset #333;color:#FFF;cursor:pointer;font-size:12px;font-weight:bold;height:22px;margin-bottom:0px;}
+	.tributton:hover {background: #F7931E;}
+
+/*
+ * photostore.css
+ */
+div.story-image div.story-photo { margin-left: auto; margin-right: auto; text-align: center; }
+
+table.photo-lead td,
+table.image-lead td { font-size: 10px; }
+
+div.story-image div.by-line { text-align: center; }
+
+@media screen {
+	div.Photo-Buttons {
+	    margin: 0 auto 1em auto; padding: 0; text-align: center;
+	    font-family: verdana, arial; font-size: 11px;
+		width: auto;
+	}
+
+	div.Buy-It-Now,
+	div.More-Photos {
+	    margin: 0 0 0 1em; padding: 0; text-align: center;
+		height: 22px; line-height: 22px; width: auto;
+		display: inline;
+	}
+
+	a.Buy-Photo, a.More-Photos,
+	a.Buy-Photo:link, a.More-Photos:link,
+	a.Buy-Photo:visited, a.More-Photos:visited,
+	a.Buy-Photo:active, a.More-Photos:active {
+	    margin: 0 auto; padding: 10px 25px;
+	    text-decoration: none; border: none; outline: none;
+	    font-family: verdana, arial; font-size: 10px;
+		color: white;
+	    width: 100px;
+	    height: 22px; line-height: 22px;
+	    background: url(http://media.newsobserver.com/images/greybutton.gif) no-repeat center center;
+	}
+
+	a.Buy-Photo:hover   { background: url(http://media.newsobserver.com/images/redbutton.gif) no-repeat center center; }
+	a.More-Photos:hover { background: url(http://media.newsobserver.com/images/darkgreybutton.gif) no-repeat center center; }
+
+	a.Buy-Photo span,
+	a.More-Photos span  { height: 22px; line-height: 22px; color: white;	}
+}
+@media print {
+   	div.Photo-Buttons,
+	div.Buy-It-Now,
+	div.More-Photos { display: none; }
+}

@@ -1,0 +1,58 @@
+[Event "Wendy's LXXIII "]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "4"]
+[White "McCartney, Patrick"]
+[Black "Chumachenko, Andrey"]
+[Result "1/2-1/2"]
+[ECO "A03"]
+[WhiteElo "2000"]
+[BlackElo "2452"]
+[Annotator "Patrick McCartney"]
+[PlyCount "92"]
+
+{Annotations by Patrick McCartney.} 1. f4 d5 2. Nf3 Nf6 3. e3 Bg4 4. Be2 Nbd7
+5. d3 {Black has no problems here gaining equality, and White should instead
+play 5.O-O Bxf3 6.Bxf3 e5 7.d4 with a slight pull.} Bxf3 6. Bxf3 e5 7. Nc3 {
+While trading towards the center is usually a good thing, in this line, it
+tends to open up the dark squares for Black more than anythingelse} c6 8. O-O
+Bd6 9. e4 {If effect preventing Black from having the luxury of opening the
+b8-h2 diagonal as 9...exf4? 10.exd5 is far superior for White while after 9...
+d4 10.Ne2, Black can only open up the diagonal at the cost of trading off the
+dark-squared bishops or else relinquishing control of it by moving his bishop
+away. After the move played in the game, the attack on the bishop gives White
+the needed tempo to close off the diagonal.} dxe4 10. dxe4 Qc7 11. f5 Bc5+ 12.
+Kh1 O-O-O 13. Qe1 h5 14. Na4 Be7 15. Be3 Ng4 16. Bg1 Bg5 17. c4 {In hindsight,
+I don't really like this move for White. It gives Black the d4-square whenever
+he wants it, and doesn't help to further develop White's pieces. I think
+better here would have been 17.Rd1 or 17.Qc3. I don't like 17.Qb4 though
+because Black can then force the Bishops off the board with 17...Be3.} Nb6 {
+And in return, I don't like this move for Black. It allows White to trade off
+the one piece that is hanging out there doing almost nothing. In my opinion, I
+think Black does best to stall a move and play 17...Kb8, waiting to see what
+White does next, and use that to determine whether to retreat the g4-knight to
+f6, or perhaps attempt to break open the center with ...g6, even with White
+having the Bishoppair} 18. Nxb6+ axb6 19. Rd1 Rxd1 20. Bxd1 Nf6 21. c5 {
+White appears to have a fairly significant advantage here.} b5 22. a4 bxa4 23.
+Qb4 {Probably the wrong way to go about it. 23.Bxa4 intending 24.b4 is
+stronger, and should keep some advantage. With White's time-cosuming approach
+to recapturing the pawn, Black once again equalizes.} Rd8 24. Qxa4 {
+Once again, White should take with the Bishop.} Rd2 25. Rf2 Rd4 26. Qc2 Qa5 27.
+Rf1 Rxe4 28. Bxh5 Re1 29. Rxe1 Qxe1 30. Qd1 Qxd1 31. Bxd1 Bc1 32. Bb3 {
+I don't like 32.b3 Ba3 for White at all. Black will evenually net a pawn
+anyway, and so I'd rather give him the b-pawn, and spend the extra time
+getting my king out and advancing the kingside pawns.} Nd5 33. g4 Bxb2 34. h4
+f6 35. Kg2 Bc1 36. Kf3 Nc3 37. Be3 Bxe3 38. Kxe3 Kd7 39. g5 Ke7 40. Kd3 Nb5 {
+After the game, I asked Andrey why he didn't play 40...Nd5, and he pointed out
+that 41.Bxd5! cxd5 42.g6 forces Black to keep his king on the Kingside and
+can't make progress due to White's extra pawn on that side. Note that the same
+thing would apply back on move 38. 38...Nd5 (instead of 38.Kd7) 39.Bxd5! cxd5
+40.g5! followed by 41.g6 leading to the same thing. Note that in this case, 40.
+..fxg5 actually loses to 41.f6.} 41. Be6 Nd4 {Black pointed out that his other
+major candidate move here was 41...g6, but after my 42.Bc8 gxf5 43.g6!
+response to that, all we could find was 43...Kf8 44.h5 Kg7 45.Bxf5 Nd4 46.Bc8
+Nb3 with a similar perpetual to that which happened in the game.} 42. Bc8 Nb3
+43. Kc4 Nd2+ 44. Kd3 Nb3 45. Kc4 Nd4 46. Kd3 Nb3 {If Black tries 46...Nf3 (or
+44...Nf3), then 47.gxf6 Kxf6 48.Bxb7 Nxh4 49.Bxc6 Nxf5 50.Bd7 Nd4 51.Ke4 and
+it's hard to see Black making progress once the White King gets to d5.} 1/2-1/2
+
