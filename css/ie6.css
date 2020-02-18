@@ -1,0 +1,79 @@
+body {
+background-color: white;
+margin: 0px;
+padding: 0px;
+}
+
+
+#columnleft {
+position: relative;
+float: left;
+width: 500px;
+margin: 5px 0px 10px 15px;
+border: 0px solid red; 
+}
+
+#columnright {
+position: relative;
+float: left;
+width: 400px;
+margin: 0px 0px 20px 10px;
+border: 0px solid black;
+}
+
+#bmenu
+{
+margin: 0px 0px 0px 100px;	/* sets the bottom menu at 225 pixels from the left */
+position: relative;
+float: left;
+width: 650px;               /* sets the width of the bottom menu container */
+border: 0px solid red;      /* to see the bottom menu container, set this value to 1px */
+}
+
+
+#tmenu
+{
+position: relative;
+float: left;
+margin: 0px 0px 0px 75px;  /* positions the top menu 175 pixels from the left side of the container border */
+width: 750px;               /* makes the width of the menu container 700px */
+border: 0px solid red;      /* add a 1px value to see the border for this element */
+}
+
+#bannermenu
+{
+position: relative;
+float: left;
+height: 50px;
+margin: 10px 0px 10px 0px;  /* positions the top menu 175 pixels from the left side of the container border */
+width: 925px;               /* makes the width of the menu container 800px */
+border: 0px solid red;      /* add a 1px value to see the border for this element */
+font-size: 18px;
+}
+
+#bannermenu ul{
+position: relative;
+float: left;
+margin: 0px 0px 0px 0px;
+}
+
+#bannermenu ul li {
+display: inline;
+}
+
+#bannermenu ul li a{
+float: left;
+color: blue;
+padding: 5px 50px 5px 50px;     /* creates space around the menu item */
+text-decoration: underline;
+}
+
+#bannermenu ul li a:visited{
+color: purple;
+}
+
+#bannermenu ul li a:hover{
+color: silver;
+}
+
+

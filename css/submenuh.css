@@ -1,0 +1,141 @@
+
+#menuh	{ 
+font-size: 14px; 
+font-family: arial, helvetica, sans-serif;
+width: 850px; 
+height: 35px; 
+letter-spacing: .6px; 
+margin-left: 150px;
+margin-bottom: 50px;
+border: 0px solid black;
+}
+		
+#menuh a { 
+text-align: center; 
+display:block;
+border-width: 0px 1px 1px 1px; 
+border-color: black;
+border-style: solid; 
+white-space:nowrap;	
+padding: 8px 10px 6px 10px; 
+}
+	
+#menuh a:link /* menu at rest */
+	{ color: black;	
+	background-color: #FFF7E6; 	   /* cream */
+	text-decoration:none; 
+	}
+
+#menuh a:visited  /* menu at rest */	
+	{
+	color: purple; 	
+	background-color: #FFF7E6; 	   /* cream */
+	text-decoration: none;
+	}
+	
+#menuh a:hover						
+	{ color: white; 			/* menu on mouse-over  */
+	background-color: #79BEA3;   /*light green */
+	text-decoration:none;}	
+	
+#menuh a:active	/* menu at rest */
+	{ color: black;	
+	background-color: #FFF7E6; 	   /* cream */
+	text-decoration:none; 
+	}	
+    
+ 
+	
+	#menuh a.special { 
+	background-image: url(../media/png/star.png); background-position: right center; 	
+	background-repeat: no-repeat;
+	background-color: #50A584;
+	background-color: #FFF7E6;
+	font-size: 14px;
+	padding: 8px 25px 6px 15px; 
+	color: black;
+	}
+	
+ #menuh a.special:hover  { 
+	background-image: url(../media/png/star.png); background-position: right center; 	
+	background-repeat: no-repeat;
+	background-color: #79BEA3; 
+	padding: 8px 25px 6px 15px; 
+	color: black; 
+	}
+	
+	
+#menuh a.top_parent  /* attaches down-arrow to all top-parents */
+	{ background-image: url(../media/gif/navdown_blue.gif); background-position: right center; 	
+	background-repeat: no-repeat; padding: 8px 20px 6px 10px;
+	color: black;
+	}
+	
+#menuh a.top_parent:hover  /* attaches down-arrow to all top-parents */
+	{ background-image: url(../media/gif/navdown_blue.gif); background-position: right center; 	
+	background-repeat: no-repeat; padding: 8px 20px 6px 10px;
+	color: black;
+	}
+	
+	
+#menuh a.parent, #menuh a.parent:hover 	/* attaches side-arrow to all parents */
+	{
+	background-image: url(../media/gif/nav_blue.gif);
+	background-position: right center;
+	background-repeat: no-repeat;
+	}
+
+#menuh ul
+	{
+	list-style:none;
+	margin:0;
+	padding: 0;
+	float:left;
+	/* width: 110px;	 width of all menu boxes */
+	/* NOTE: For adjustable menu boxes you can comment out the above width rule.
+	However, you will have to add padding in the "#menh a" rule so that the menu boxes
+	will have space on either side of the text -- try it */
+	}
+
+#menuh li
+	{
+	position:relative;
+	min-height: 1px;		/* Sophie Dennis contribution for IE7 */
+	vertical-align: bottom;		/* Sophie Dennis contribution for IE7 */
+	}
+
+#menuh ul ul
+	{
+	position:absolute;
+	z-index:500;
+	top:auto;
+	display:none;
+	padding: 1em;
+	margin: -1em 0 0 -1em;
+	}
+
+#menuh ul ul ul
+	{
+	top:0;
+	left:100%;
+	}
+
+div#menuh li:hover
+	{
+	cursor:pointer;
+	z-index:100;
+	}
+
+div#menuh li:hover ul ul,
+div#menuh li li:hover ul ul,
+div#menuh li li li:hover ul ul,
+div#menuh li li li li:hover ul ul
+{display:none;}
+
+div#menuh li:hover ul,
+div#menuh li li:hover ul,
+div#menuh li li li:hover ul,
+div#menuh li li li li:hover ul
+{display:block;}
+
+/* End CSS Drop Down Menu */

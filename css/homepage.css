@@ -1,0 +1,282 @@
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/* ----------------- a simple grid system based on the work of Nicole Sullivan http://wiki.github.com/stubbornella/oocss/ */
+
+
+.line:after, .lastUnit:after {
+	 clear: both; display: block;	visibility: hidden;	overflow: hidden; height: 0 !important;	line-height: 0;	font-size: xx-large; content: " x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x ";
+ }
+
+.line { *zoom: 1; border: 0 solid red; }
+.unit { float: left; }
+.size100 { float: none; }
+.size60 { width: 60%; border: 0 solid black;}
+.size48 { width: 48%; }
+.size22 { width: 22%; }
+.size16 { width: 16%; border: 0 solid black; }
+.lastUnit { display: table-cell; float: none; width: auto; *display: block; *zoom: 1; _position: relative;_left: -3px; 	_margin-right: -3px; }
+
+/* -------------------------------- end grid values -------------------------------------------------------- */
+
+.bold { font-weight: bold;}
+.indent_15 { text-indent: 15px;}
+.left_50 { margin-left: 50px;}
+.top_75 {	margin-top: 75px;}
+.top_100 { margin-top: 100px;}
+.table img {	float: right;}
+.logo img {	margin: 9px 0 0 10px;}
+.noindent {	text-indent: 0;}
+
+h1 {font-size: 32px;}
+h2 {font-size: 24px; text-align: left;	 margin: 30px 0 10px 0;}
+h3 {font-size: 18px; text-align: left;	 margin: 5px 0 10px 5px;}
+h4 {font-size: 16px; text-align: left;	 margin: 5px 0 10px 5px;}
+
+
+body {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 14px;
+	letter-spacing: normal;
+	font-weight: 300;
+	line-height: 130%;
+	background-color: #F5F3EF;
+	color: black;
+}
+
+/* --------------------------  the Page class wraps around all the content    ------------------------------------ */
+
+.page {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	border: 1px solid black;
+	background-color: #fdfdfa;
+	width: 960px;
+}
+
+.standout {
+font-weight: 600;
+color: black;
+}
+
+/* -----------------------------------  a header class for the home page   ----------------------------------------------- */
+
+.home_header {
+	border-bottom: 1px solid black;
+	height: 100px;
+	width: 960px;
+	background-color: #65a8da;
+	font-size: 40px;
+}
+
+/* -----------------------------------  a header class for each page    ----------------------------------------------- */
+
+.title {
+	font-weight: normal;
+	margin-top: 40px;
+	margin-bottom: 0;
+}
+
+.header span {
+font-size: 22px;
+}
+
+.heading {
+ font-size: 20px;
+ text-align: left;
+ margin: 0 0 0 0;
+}
+
+.slant {
+padding: 5px 10px 5px 10px;
+font-size: 14px;
+font-style: italic;
+background-color: #F0F0F0;
+border: 0 solid black;
+}
+
+.picture {
+	background-color: #F9F9F9;
+	border: 1px solid #CCCCCC;
+	padding: 4px 4px 4px 4px;
+	font-size: 10px;
+	color: black;
+	margin-left: 10px;
+	margin-right: 0;
+}
+
+.picture img {
+	background-color: #ffffff;
+	border: 0 solid #CCCCCC;
+}
+
+.subtitle {
+text-align: center;
+font-size: 16px;
+margin: 5px 0 10px 5px;
+}
+
+/* ---------------------------- column ------------------------------------------------- */
+
+.column {
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 0 solid red;
+}
+
+.column p {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+/* the CORNER class contains an embedded google doc */
+
+.corner {
+	width: 465px;
+	/* background-color: #65a8da; 	 blue */
+    background-color: #e8c89d;  /*	tan */
+	border: 1px solid black;
+	margin: 0 0 0 10px;
+}
+
+.corner p {
+	font-size: 12px;
+	text-indent: 0;
+	line-height: 125%;
+	margin: 5px 25px 5px 10px;
+}
+
+.sig {
+	margin-top: 15px;
+	margin-left: 30px;
+	color: black;
+	font-size: 16px;
+	letter-spacing: normal;
+	text-indent: none;
+}
+
+.sig p:first-line {
+	font-size: 16px;
+}
+
+/* the NEW class defines the What's New area */
+
+.new {
+	width: 450px;
+	font-size: 13px;
+	margin: 0 0 25px 10px;
+	padding: 5px 5px 5px 5px;
+	background-color: #F0F0F0;
+	border: 1px solid black;
+	text-indent: 0;
+}
+
+.new li { 
+margin-left: 30px;
+
+}
+
+.new p {
+	margin: 5px 5px 5px 20px;
+}
+
+/* ------------------------- a footer class for the bottom of each page --------------------------------- */
+
+.footer {
+	width: 960px;
+	height: 100px;
+	margin-top: 25px;
+	border-top: 1px solid white;
+	background-color: #e8c89d;
+}
+.footer p {
+	font-size: 12px;
+	margin-top: 25px;
+	margin-left: 10%;
+}
+
+/* --------------------  bannermenu is an advertisemnet just above the footer  ----------------------------------- */
+
+.bannermenu {
+	margin: 0 auto;
+	height: 36px;
+	margin: 50px 0 0 0;
+	width: 960px;
+	border: 0 solid red;
+	font-size: 22px;
+}
+
+.bannermenu ul {
+	padding: 0;
+	float: left;
+	margin: 0 0 0 40px;
+}
+
+.bannermenu ul li {
+	display: inline;
+}
+
+.bannermenu ul li a {
+	float: left;
+	color: blue;
+	padding: 0 45px 0 45px;
+	/* creates space around the menu item */
+	text-decoration: underline;
+}
+
+.bannermenu ul li a:visited {
+	color: purple;
+}
+.bannermenu ul li a:hover {
+	color: silver;
+}
