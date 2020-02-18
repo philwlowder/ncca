@@ -1,0 +1,219 @@
+[Event "2003 NC Closed"]
+[Site "Burlington, NC"]
+[Date "11.08.2003"]
+[Round "2"]
+[White "Bill Slone"]
+[Black "Jeffrey Jones"]
+[Result "0-1"]
+[Board "16"]
+[ChessCat "CHESSCAT 1.0"]
+[PlyCount "108"]
+[Section "u1800"]
+
+1. d4 {Notes by Jeff Jones} 1... Nf6 {This was my first game of the 2003 NC
+Closed. I had to take a bye in round one and that haunted me as I finished
+half-a-point behind the winners in the u1800 division. This game ended up
+behind a pretty wild ride.} 2. Bf4 d6 3. e3 g6 4. Nd2 Bg7 5. h3 O-O 6. Ngf3 c6
+7. c3 Nbd7 8. Be2 b5 9. a4 b4!? {Black's plan is to try to create lots of pawn
+weaknesses here. } 10. cxb4 Nd5 11. Bg3 Nxb4 {Having a strong post on the queen
+side works well too, now black plans to eventually swing everything to the
+queenside and try to overwhelm the b-pawn.} 12. O-O a5 13. Ne1 c5 14. Ndf3 Ba6
+15. Bxa6 Rxa6 16. Nc2 Rb6 17. Rb1 Qa8 18. Na3 Rfb8 19. Nb5 Nc6 20. Re1 Na7 21.
+Nxa7 Qxa7 22. Re2 Rb4 23. Rc2 c4 24. Rc3 Nb6 25. b3? {Nd2 was a much better
+option although white's position will eventually buckle under the weight of
+black's pieces.} 25... Nxa4! {Exploiting the pin along the b-file. The rook on
+c3 must move and now black has very well supported passed pawns on the a- and
+b-files.} 26. Rxc4 Nb2!! {Re-exploiting the my strength on the open file. Now
+black gains an exchange.} 27. Rxb2 Rxc4 28. Nd2 Rcb4 29. Rc2 a4 30. bxa4 Rxa4
+31. Kh2 h5 32. Nf3 Rab4 33. Qd3 Qd7 34. Qa3 Qf5 35. Rc7 Bf6 36. Qa2 Rb2 37. Qc4
+R8b3 {The fireworks are now set to go off.} 38. Bxd6! {A cunning move that
+seems to help white generate play. Black can't take the bishop since the
+seventh rank opens up.} 38... Rxe3!! {A move that cuts like a hot knife through
+butter. This defends the e-pawn, and if the rook is taken then Qxf3 puts the
+game on ice.} 39. Bg3 Rxf3! {Against cutting through white kingside. If gxf3
+then h4 followed by Qxf3 gives black a decisive advantage.} 40. Rc8+ Kg7 41.
+Rc5 h4 42. Rxf5 hxg3+ 43. fxg3 Rxf5 {The rooks  will easily coordinate to bring
+home the point.} 44. h4 Rff2 45. Qd5 Rxg2+ 46. Kh3 Rh2+ 47. Kg4 Rbd2 48. Qb3
+Rxd4+ 49. Kf3 Rhd2 50. Qb8 R4d3+ 51. Kf4 Rg2 52. Ke4 Rgxg3 53. Kf4 Rh3 54. Ke4
+Rd4# 0-1
+
+[Event "RTCC Ladder"]
+[Site "Raleigh, NC"]
+[Date "2010.04.14"]
+[Round "?"]
+[White "Jeffrey Mason Jones"]
+[Black "Daniel Solarez"]
+[Result "1-0"]
+[ChessCat "CHESSCAT 1.0"]
+[PlyCount "69"]
+
+1. e4 {Notes by Jeff Jones.} 1... Nf6 {Entering this game I had no success
+against Daniel. In fact, in nine previous rated games I was 1+2=6-. The one win
+was when he ran out of time against me while having mate in four on the board.
+*which we didn't realized until post mortem*. I was happy to see Alekhine's
+defense since it was a staple for me early in my chess existance. I hadn't seen
+it for years, but hoped that a return to my Point A Chess Club roots might help
+me get over the hump.} 2. e5 Nd5 3. c4 Nb6 4. a4!? {An agressive line taught to
+me by IM Emory Tate during his brief stay in Chapel Hill. White gains a ton of
+space, but has to be careful when he gets overextended.} 4... a5 {The quieter
+option. 4.. d6 5. a5 N6d7 6. e6 creates a very wild game. The current move
+leads to transpositions to more normal Alekhine's lines.} 5. d4 d6 6. exd6
+{This was my first time playing this variation as in the past I played the Four
+Pawns Attack. The few times I had played the Four Pawns in blitz recently left
+me feeling like I was on my heels the whole game so I felt this would be a
+better option.} 6... cxd6?! {The normal move is 6.. e6. This leaves him with
+some serious weaknesses on the queenside and gives my knight a post on b5 if I
+so choose to take it.} 7. Be3 g6 8. Nc3 Bg7 9. Bd3 Nc6 10. Nge2 Bg4?! {I didn't
+care much for this move since it just allows me to gain a tempo with the next
+move. } 11. f3 Bd7 12. Qd2 O-O 13. h4?! {I should've played b3 first to sure up
+the pawns on the queenside. I can start the pawn storm after castling queenside
+since I have a good bind working there.} 13... Nb4 14. b3 Nxd3+ 15. Qxd3 Bf5
+16. Qd2 e5? {Now the center falls apart as he can't respond to dxe5 with dxe5
+thanks to the queen trade causing the loose knight on b6 to hang. } 17. g4 Bd7
+18. dxe5 Bxe5 19. O-O-O Bc6 20. Nd4! {This move isn't designed to get the light
+squared bishop off the board as much as it hopes to goad the dark squared
+bishop off by offering the f-pawn and exchange in the short term. If 20... Bxd4
+then 21. Qxd4 Bxf3 22. Rhf1 Bxd1 23. Bh6 f6 or mate 24. Bxf8 Kxf8 25. Rxf6+ Ke7
+26. Kxd1 and black is tied in knots.} 20... Rc8 21. h5 d5 22. hxg6 hxg6 23. Bf4
+{The goal is now to get the queen to the open h-file. I could have also chosen
+23.f4 but I wanted to maintain the bishop's potential activity.} 23... Qd6 24.
+Rh8+!! {A sizzling move that gains a key tempo for white and utilizes the new
+pin on the bishop on e5. The rook can't be declined here due to 24... Kg7 25.
+Nf5+!! gxf5 26. Bxe5+ Qxe5 27. Qh6#} 24... Kxh8 25. Qh2+ Kg8 26. Bxe5 {Forking
+the queen and the mating square.} 26... Qa3+ 27. Kc2 f6 28. Rh1 {No need to
+worry about the bishop when you can make a crushing mate in one threat on h7.
+Everything is forced from here.} 28... Qe7 29. Qh8+ Kf7 30. Rh7+ Ke8 31. Rxe7+
+Kxe7 32. Qg7+ Rf7 33. Bxf6+ Ke8 34. Qg8+ Rf8 35. Qe6# 1-0
+
+[Event "2004 South Carolina Championships"]
+[Site "Columbia, SC"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Sohrab Saharkhiz"]
+[Black "Jeffrey Mason Jones"]
+[Result "0-1"]
+[BlackUSCF ""]
+[Board ""]
+[ChessCat ""]
+[PlyCount ""]
+[Section ""]
+[WhiteUSCF ""]
+
+{[%t bLon] Game analysis^13 ^10 Processor: Intel(R) Pentium(R) Dual  CPU  T3400
+@ 2.16GHz^13 ^10 Engine: Rybka 3 1-cpu w32^13 ^10 Analysis time: 0:10:40} 1.
+Nf3 d5 2. g3 c6 {[%t Val] 7} 3. Bg2 Bg4 {Off an on I have played the Stonewall
+Dutch. This move was suggested to me by NM John Kirby who cited the extra
+activity of the bishop as a benefit. The downside is that the pawn that goes to
+e6 will not have this bishop for support, but this pawn is hard to get to
+anyway so the activity far outweighs the consequences.} 4. d3 {=}{+0.07 CAP}
+4... f5 {[%t Val] D}{N} (4... Bxf3 5. Bxf3 Nd7 6. O-O Ngf6 7. c4 Ne5 8. Bg2
+dxc4 {+0.33})(4... Nd7 5. Nbd2 Ngf6 6. O-O e5 7. e4 dxe4 8. dxe4 Bc5 9. c3 O-O
+10. Qc2 h6 11. b4 Bb6 12. Nc4 Bc7 13. Rd1 Qe7 14. Ne3 Be6 15. Nh4 g6 16. a3
+Rfd8 17. c4 Nf8 18. Bb2 Rxd1+ 19. Rxd1 Rd8 20. Rxd8 Qxd8 21. Nf3 N8d7 22. c5
+Nh7 23. Nc4 f6 24. h4 {...0-1, Belezky Sasha 2402  - Bacrot Etienne 2718 ,
+Internet 2003 Ch Europe (blitz)}) 5. Nbd2 Nf6 6. c4 {My guess is that my
+opponent is a King's Indian player and got thrown off a bit by this Stonewall
+set up opting for a somewhat awkward English setup instead.} 6... e6 7. O-O
+Nbd7 8. Nb3 {His knight is poorly placed here. He's looking to plop it down on
+d4, but it'll easily be chased away by the pawn push at e5. He's better off
+playing Re1 and bringing the knight back to f1.} 8... Bd6 9. Ng5 Qe7 10. Nd4
+$2{[%t Val] '} (10. h3 $1 10... Bh5 11. Nd4 c5 12. Ndxe6 h6 13. cxd5 hxg5 14.
+Qb3 Nf8 15. Qb5+ Kf7 {+0.41}) 10... e5 11. Nc2 h6 12. Nf3 {Now compare our
+positions after my move 7 and the current move. You'll notice that the only
+change in his position is that his knight is on c2 instead of d2. With my
+position I have developed my bishop and queen and gained space with the e5
+push. I also have started a pawn storm on his king and can castle either way. I
+have all of the initiative here.} 12... d4 $6{[%t Val] 1} (12... dxc4 $5 13.
+dxc4 {-0.41}) 13. a3 {[%t Val] *} (13. Nh4 Rg8 14. f4 {-0.04}) 13... Nc5 {[%t
+Val] 0} (13... O-O 14. Bd2 Rad8 {-0.29}) 14. Nce1 {[%t Val] -} 14... O-O {This
+has always been a problem with my game. I got way too fancy here. I was seeing
+a chance for a brilliant game and not solidifying my position by castling
+queenside. I also didn't want to give back some of the tempi I had in the bank
+which b4 and c5 would do. But his pieces can't get there very easily and I
+would have overwhelmed him by that point.} 15. b4 Ne6 $6 $2 (15... Ncd7 $5 16.
+Bb2 a5 17. c5 Bc7 {-0.18}) 16. Nh4 Qf7 17. h3 g5 18. hxg4 gxh4 19. Bxh6 {A very
+tempting mistake that allows me to keep his kingside open.}{[%t Val] 3} (19.
+gxf5 hxg3 20. fxg3 (20. fxe6 Qh5 21. fxg3 Ng4 22. Rf3 Qh2+ 23. Kf1 Qxg3 {And
+it'll be mate once the rook is gone.})20... Ng4 21. e4 Qh5 22. Nf3 Ng5 23. Bxg5
+hxg5 24. Qe2 Ne3 25. Rfb1 {White's position is locked and secured. The king
+will eventually walk via f2 and e1 to d2.}) 19... Nxg4 {It's all about
+attacking now. I'm more than happy to concede the exchange to throw everything
+at his king.} 20. Bxf8 Rxf8 21. Nc2 $4{[%t Val] ^5 } (21. gxh4 Qh5 22. f3 Ne3
+23. Qd2 Qxh4 24. Nc2 e4 25. f4 Bxf4 26. Rxf4 Qxf4 (26... Nxf4 27. Nxe3 Qg3 28.
+Qe1 Qxe3+ 29. Kf1 Nxg2 30. Kxg2 Kf7 31. Qf1)27. Rf1 Nxf1 28. Qxf4 Nxf4 29.
+Bxf1)(21. c5 $1 21... Be7 22. gxh4 {+0.04}) 21... hxg3 22. f3 Qh5 23. Rf2 {A
+desperation attempt at escape, but...} (23. Re1 Qh2+ 24. Kf1 Nf4 25. Ne3 Nxe3#)
+23... gxf2+ 24. Kf1 Qh2 {Ne3 seals in the king with the knight trade or wins
+the queen to temporarily save the king. I chose the moves with quicker mating
+possibilities .} 25. e3 Nxe3+ 26. Nxe3 (26. Ke2 Qxg2 27. Qf1 (27. Nxe3
+f1=Q#)27... Nxf1 28. Rxf1 Nf4+ 29. Kd2 Qxf1)(26. Kxf2 Qxg2+ 27. Ke1 e4 28. f4
+Bxf4 29. Qg4+ fxg4 30. Nxe3 Bxe3 {with Rf1 to follow.}) 26... dxe3 27. Qb3 (27.
+Ke2 Qxg2 28. Kxe3 f1=N+ 29. Qxf1 f4+ 30. Ke4 Qg6#) 27... Qg1+ 28. Ke2 Nd4+
+{Nf4+ produces the same effecct.} 29. Kxe3 f1=N# 0-1
+
+[Event "2010 US Open"]
+[Site "Irvine, CA"]
+[Date "2010.08.05"]
+[Round "2"]
+[White "FM Gregg Small (2256)"]
+[Black "Jeffrey Mason Jones (1840)"]
+[Result "0-1"]
+[ChessCat "CHESSCAT 1.0"]
+[PlyCount "89"]
+
+1. c4 {Note by Jeff Jones} 1... e6 {After a relatively easy win in round one, I
+got thrown into the fire with a match against a FIDE Master. Furthermore, I was
+battling a sinus infection which made it hard to get over the jetlag from a
+crosscountry flight. So I was hoping for a short violent struggle and maybe to
+get lucky.} 2. g3 f5 3. Bg2 Nf6 4. d4 d5 5. Nf3 c6 6. O-O Bd6 7. b3 O-O 8. Ba3
+Bxa3 9. Nxa3 Nbd7 10. Nb1 Ne4 11. Qc2 Qf6?! {I wanted to take an aggressive
+stance here while denying him the e5 square for his knight. The downside is
+that I will have a more difficult time developing my queenside pieces.} 12. Nc3
+g5 13. Rad1 g4 14. Ne1 Ng5 15. Qc1 h5 16. Nd3 Kg7 {I figured that I've already
+committed to a kingside attack and Kf7 witht he idea of walking my king to the
+center would be very dangerous, especially with the position of the bishop on
+the long diagonal and the two knights ready to spring out on d3 and c3. This
+was the lesser of two evils.} 17. Nf4 Rh8 18. f3 Nf8 19. Qe3? {Dooming the
+e-pawn to an awkward existance. 19.e4 Continues to build tension in the center
+while I lag in development.} 19... Ng6 20. Rc1 Nxf4 21. gxf4? {He must've
+intended Qe3 with the idea of Qe5 and is doggedly holding onto that idea.  This
+move only opens his king up to further attack. Qxf4 also give him access to c7
+which leaves me with a new set of piece development issues.} 21... Nh3+ 22.
+Bxh3 gxh3 23. Kh1 {A key to later on in this game is that his king is stuck on
+h1 while my king has more freedom. the pawn on h3 is an irritant.} 23... Bd7
+24. Rg1+ Kf7 25. Rg5 Rag8 26. Rcg1 c5!! {Admittedly, I played this with the
+idea or forking the queen and knight on d4 either via 27.dxc5 d4 or eventually
+my cxd4. The fork doesn't work thanks to my loose bishop on d7. However the
+benefit of this move is opening the c6 square for my bishop which points right
+at his hemmed in king.} 27. dxc5 d4 28. Qd2 Bc6 29. Nd1 e5 30. fxe5 Qxe5 31.
+Nf2 Rxg5 32. Qxg5 Qf6 33. Nd3 {33. Nxh3? would be error since 33. d3! takes
+advantages of the bishop's recently attained powers.} 33... Qxg5 34. Rxg5 Kf6
+35. Rg1 Re8 36. Re1?? {His position is probably unsalvagable, but this
+expedites the end.} 36... Rxe2! {Basic tactic study pays off as the two
+weakened pawns fall} 37. Rxe2 Bxf3+ 38. Kg1 Bxe2 39. Nf4 Bg4 40. Kf1 Ke5 41.
+Nd5 Ke4 42. b4 Kd3 43. b5 Kxc4 44. c6 bxc6 45. bxc6 {Although I had two
+previous wins over masters, this was my first over a FIDE master and the first
+where I really felt like I out outplayed my opponent. Unfortunately, I ddin't
+have the same fortune against the three other NMs I faced, although I did botch
+an endgame draw with one of them. I went three and three before the fatigue
+prompted me to withdraw from the tournament. It was still pretty satisfying.}
+0-1
+
+[Event "Kung Pao Checkin"]
+[Site "Spring Lake, NC"]
+[Date "07.27.2002"]
+[Round "4"]
+[White "Kevin Kirby (2154)"]
+[Black "Jeffrey Jones (1765)"]
+[Result "1/2-1/2"]
+[Board "1"]
+[ChessCat "CHESSCAT 1.0"]
+[PlyCount "74"]
+[Section "Open"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nf6 7. Ne5 e6 8.
+Bc4 Nd5 9. h4 f6 10. Nxg6 hxg6 11. h5 g5 12. Qg4 Kf7 13. Qe4 f5 14. Nxf5 exf5
+15. Qxf5+ Qf6 16. Bxd5+ cxd5 17. Qxd5+ Qe6+ 18. Qxe6+ Kxe6 19. Bxg5 Nc6 20.
+O-O-O Kf5 21. f4 Bd6 22. Rh4 Rae8 23. d5 Nb8 24. Kd2 Nd7 25. Kd3 Nc5+ 26. Kd2
+Ne4+ 27. Kc1 Nxg5 28. fxg5 Kxg5 29. Rhh1 Re2 30. g4 Rhe8 31. Rd4 Bf4+ 32. Kd1
+R2e7 33. Rf1 Be5 34. Rf5+ Kh6 35. Rb4 Bd6 36. Rd4 Be5 37. Rb4 Bd6 1/2-1/2

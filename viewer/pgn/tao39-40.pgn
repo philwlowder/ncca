@@ -1,0 +1,555 @@
+
+[Event "Asheboro Open 40"]
+[Site "?"]
+[Date "2008.09.06"]
+[Round "3"]
+[White "Holmes, Adam"]
+[Black "Lawson, Josh"]
+[Result "0-1"]
+[ECO "A08"]
+[WhiteElo "2003"]
+[BlackElo "1940"]
+[Annotator "Rybka 2.3 32-bit  (60s)"]
+[PlyCount "110"]
+[EventDate "2008.??.??"]
+[SourceDate "2006.11.11"]
+
+{A08: King's Indian Attack} {Hey this is Josh Lawson. I will be annotating my
+final round game in the Asheboro Open 40. In the final round, I had to face
+powerhouse player Adam Holmes. Knowing that just last month, Adam upset FM Ron
+Simpson, I knew I was going to have my hands full! But with careful and
+tactical play, I managed to upset one of NC's rising stars.} 1. e4 e6 2. d3 d5
+3. Nd2 c5 4. Ngf3 Nc6 5. g3 g6 6. Bg2 Bg7 7. O-O {
+LAWSON:  Typical setup for white in the Kings Indian Attack.} Nge7 8. Re1 O-O
+9. Nf1 {LAWSON:  I really didnt want to play this move at first. I kept eyeing
+f5, but I didnt want his rook to get to active in the beginning of the game.}
+dxe4 (9... b6 10. Rb1 Bb7 11. Bg5 f6 12. Bd2 d4 13. h4 e5 14. g4 h6 15. Ng3 Bc8
+16. Nh2 Be6 17. b3 b5 18. Rf1 g5 19. Qc1 Ng6 20. Nf5 Rf7 21. Ra1 a6 22. Nf3
+Rfa7 23. Qb2 Bf8 24. Rfd1 {
+Schulze,M-Timpel,K (2287)/Germany 2003/EXT 2004/0-1 (33)}) 10. dxe4 b6 {
+LAWSON:  No need to exchange Queens at the moment. My plan is to put as much
+pressure on the e4 pawn as I can, and try to take control of e5.} 11. c3 Bb7
+$146 (11... Qxd1 12. Rxd1 Ba6 13. Bg5 (13. Bf4 e5 14. Bg5 Rad8 15. h4 h6 16.
+Be3 f5 17. exf5 gxf5 18. Rxd8 Rxd8 19. Ne1 Kf7 20. Bf3 e4 21. Bh5+ Ke6 22. Rd1
+Rxd1 23. Bxd1 Ne5 24. Nd2 Nd5 25. Bc2 Nxe3 26. fxe3 Ng4 27. Ng2 Be5 {
+Keuchkerian Burgui,K-Mellado Trivino,J (2270)/Aviles 1991/EXT 2004/0-1 (36)})
+13... Rad8 14. N1d2 h6 15. Bxe7 Nxe7 16. Bf1 Bb7 17. Bc4 g5 18. h3 Ng6 19. a4
+Rd7 20. Bb5 Rd6 21. a5 Rfd8 22. Be2 Ne5 23. Nxe5 Rxd2 24. Nc4 Rxd1+ 25. Rxd1
+Rxd1+ 26. Bxd1 {Vu Dinh Hung-Nguyen Van Huy/Ho Chi Minh 2001/EXT 2004/0-1 (38)}
+) (11... Ba6 12. Qa4 Qc8 13. Rd1 b5 14. Qc2 Qc7 15. Be3 Na5 16. a4 Nc4 17. Bf4
+e5 18. axb5 Bxb5 19. Bc1 Nb6 20. Be3 c4 21. b3 Qc6 22. N1d2 cxb3 23. Nxb3 Ba4
+24. Nfd2 Rfc8 25. Rdc1 Qe8 26. Qa2 {
+Sedina,E (2400)-Maksimenko,A (2545)/Nova Gorica 1997/CBM 056 ext/1-0 (42)}) 12.
+Bf4 Qxd1 13. Raxd1 Rfd8 {LAWSON:  Another error! Adam played a disturbing move
+and showed me why exchanging queens was a bad idea.} 14. Bc7 {LAWSON:  Nice!!}
+Rxd1 {LAWSON:  Forced} 15. Rxd1 Kf8 {LAWSON:  This move took me awhile to see.
+But with careful analysis, I saw that if the rook came to the 7th, it would be
+useless.} 16. Ne3 Ba6 17. e5 {LAWSON:  I dont think this was a good move by
+Adam. He should have played Ne1! and put pressure on my c6 knight Maybe play
+Bd6 and then e5!?} Rc8 18. Bd6 {The bishop dominates} Ke8 {LAWSON:  Unpinning
+my Knight and threatining Be2. Adding more pressure to the e5 pawn.} 19. Bf1
+Bxf1 20. Kxf1 Rd8 21. a4 a6 22. Re1 (22. Ke2 Nc8 $11) 22... Nc8 $15 {
+Black threatens to win material: Nc8xd6} 23. Nc4 {
+LAWSON:  Im not sure about this move. Maybe Rd1 is better.} b5 24. axb5 axb5
+25. Na3 {LAWSON:  The e5 pawn will be lost now. And with my dark squared
+bishop, white will have to try and trade my powerful bishop for one of his
+weak knights.} Nxd6 26. exd6 Na7 {
+LAWSON:  Hanging on to b5 and soon the c pawn will march his way to the 8th.}
+27. Ng5 Rxd6 28. Ne4 {White threatens to win material: Ne4xd6   LAWSON:  Even
+though taking on h7 looks ugly, I think white could have gotten away with it.}
+Rc6 29. Rd1 {LAWSON:  I didnt really care about white taking control of the e
+file because his rook is useless. Even though it looks powerful, it really
+isnt.} Ke7 30. Ke2 f5 31. Ng5 h6 32. Nf3 {
+LAWSON:  Trying to cramp white's position.} Bf6 33. Ra1 Ra6 {
+LAWSON:  Threatning b4, and winning the b and c pawns!} 34. Rc1 e5 35. Rd1 e4 {
+LAWSON:  Whites Knight cannot find a good square, and soon it will be allalone.
+} 36. Ne1 $2 (36. Nh4 Bxh4 37. gxh4 Rd6 $17) 36... b4 {
+LAWSON:  I think better was Bxc3! But b4 is also playable.} (36... Bxc3 $142 {
+might be the shorter path} 37. bxc3 Rxa3 $19) 37. Nb1 $4 {
+a blunder in a bad position} (37. cxb4 $142 cxb4 38. Nc4 $19) 37... Ra2 38. Rd2
+Nb5 {LAWSON:  The Knight will find a good home on d4.} (38... Bg5 {
+seems even better} 39. cxb4 Bxd2 40. Nxd2 cxb4 41. Nc4 $19) 39. cxb4 (39. Ng2
+bxc3 40. Nxc3 Bxc3 41. bxc3 Nxc3+ 42. Ke3 Ra3 $19) 39... Nd4+ 40. Kf1 cxb4 {
+LAWSON:  Trapping the b Knight and making his pieces tied down to each other.}
+41. h4 (41. Nc2 {cannot change what is in store for ?} Nb3 42. Nxb4 Nxd2+ 43.
+Nxd2 Rxb2 44. Nd5+ Kd6 $19) 41... Ra1 42. Rd1 {LAWSON:  The only good move.}
+Nb3 {LAWSON:  Threatning the cute Rxb1!!} 43. Ke2 (43. Kg2 {doesn't do any good
+} Nd2 $1 $19 {decapitation}) 43... Ra2 {LAWSON:  Now the Rook has a place on
+a2 cause my Knight covers d2 from his Rook going to that square.} 44. Ng2 Bxb2
+(44... Rxb2+ $142 {keeps an even firmer grip} 45. Ke1 Bc3+ 46. Nxc3 bxc3 $19)
+45. Ke3 {LAWSON:  A blunder by Adam. He should have tried Ne3. Now he has to
+give up a piece or go down the exchange, and the rest is now a matter of
+technique!!} (45. Ke1 {no good, but what else?} Bc1 46. Nf4 $19) 45... Bc1+ 46.
+Nd2 {LAWSON:  Rxc1 was better. Still a lost endgame though.} (46. Rxc1 {
+is the last straw} Nxc1 47. Nf4 $19) 46... Bxd2+ 47. Ke2 Bc1+ {
+LAWSON:  I missed Nd4+ but didnt miss it on the second try.} (47... Nd4+ 48.
+Kf1 b3 $19) 48. Ke1 Bd2+ (48... Nc5 $142 {makes it even easier for Black} 49.
+Rd5 Nd3+ 50. Kf1 Rxf2+ 51. Kg1 b3 $19) 49. Ke2 Nd4+ 50. Kf1 Nf3 {
+LAWSON:  b3 was also good.} (50... b3 51. Rb1 b2 $19) 51. Rb1 Kd6 52. Rd1 Kc5
+53. Ne3 {LAWSON:  There is no way white can stop the b pawn from advancing
+without giving up his last attacker.} Bxe3 54. fxe3 b3 55. Rc1+ {
+LAWSON:  What else can white do?  If Rc7 then Ra5!} Kb4 {LAWSON:  Here white
+resigned. Its uselss trying to go after the b pawn because if Rb1 then Nd2+!!
+This is the second time I have played Adam. I played him about 3 or 4 years
+ago at the NC Open and he beat me bad. So I needed to get some revenge. But
+all in all, Adam is a great player and a nice guy, and I hope we have more
+heated battles in the upcoming years! Adam is always a pleasure to see at a
+tournament, and always delivers a great game, whether a win, draw, or loss.} (
+55... Kb4 56. Rc8 (56. Rb1 Nd2+) 56... b2 57. Rb8+ Kc4 58. h5 Nd2+ 59. Kg1 Nb3
+60. Rc8+ Kd3 61. Rd8+ Kxe3 62. Rd1 Ra1 63. Rb1 Rxb1+ 64. Kg2 Ra1 65. g4 b1=Q
+66. g5 Qh1+ 67. Kg3 Rg1#) 0-1
+
+[Event "Asheboro Open 40"]
+[Site "?"]
+[Date "2008.09.06"]
+[Round "1"]
+[White "Lawson, Josh"]
+[Black "Dejong, Andrew"]
+[Result "1-0"]
+[ECO "E34"]
+[WhiteElo "1940"]
+[BlackElo "1796"]
+[Annotator "Rybka 2.3 32-bit  (60s)"]
+[PlyCount "79"]
+[EventDate "2008.??.??"]
+[SourceDate "2006.11.11"]
+
+{D50: Queen's Gambit Declined: Dutch-Peruvian Gambit} {188MB, D6CM2XB1} 1. d4
+d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Bb4 5. Qc2 dxc4 6. e3 b5 7. Nf3 (7. a4 c6 8. Bxf6
+gxf6 9. Be2 a6 10. Bf3 Ra7 11. Nge2 Rd7 12. O-O O-O (12... Bb7 13. Rfd1 O-O 14.
+Nf4 Re8 15. Nh5 f5 16. e4 fxe4 17. Nxe4 Be7 18. Qd2 f5 19. Qh6 Bf8 20. Nef6+
+Kh8 21. Qe3 Rf7 22. Nxe8 Qxe8 23. Qe5+ Bg7 24. Nxg7 Rxg7 25. Re1 Nd7 26. Qxe6
+Qxe6 27. Rxe6 {
+Naranjo Espinosa,S-Ramirez Garcia,E/Bogota 2004/CBM 101 ext/1-0 (40)}) 13. Rfd1
+f5 14. axb5 axb5 15. b3 cxb3 16. Qxb3 Be7 17. Nf4 Rd6 18. Nd3 Nd7 19. Rdc1 e5
+20. Nxe5 Nxe5 21. dxe5 Rd3 {
+Wehmeier,S (2340)-Kotronias,V (2550)/Munich 1993/TD/0-1 (42)}) 7... Bb7 $146 (
+7... Nbd7 8. Be2 c6 9. O-O Bxc3 10. Qxc3 Qc7 11. Bxf6 Nxf6 12. Ne5 Bb7 13. Bf3
+O-O 14. Rac1 Rac8 15. b3 Nd5 16. Bxd5 cxd5 17. bxc4 f6 18. Nd3 bxc4 19. Nc5
+Rfe8 20. Rb1 Rb8 21. Rb2 Bc8 22. Rfb1 {
+Baquer,M (1620)-Teboul,R (1790)/Provence 2003/EXT 2005/0-1 (68)}) 8. Be2 Nbd7
+9. O-O a6 {Covers b5} 10. Rad1 Be7 11. a4 c6 {Secures d5} 12. e4 h6 {
+Black threatens to win material: h6xg5} 13. Bh4 O-O 14. Rfe1 Re8 15. h3 {
+Prevents intrusion on g4} Qb6 16. Bg3 {White plans e5} Rad8 17. e5 {
+White threatens to win material: e5xf6} Nd5 {
+A comfortable square for the black knight} 18. Qe4 (18. Ne4 $5 $15 {
+looks like a viable alternative}) 18... c5 $17 19. Qg4 cxd4 20. Nxd4 Nxc3 (
+20... Bb4 $5 21. Nxd5 Bxd5 $17) 21. bxc3 $15 f5 {
+Black threatens to win material: f5xg4} (21... bxa4 $5 22. Bxc4 Nc5 $15) 22.
+Qh5 $11 Bc5 23. Bh4 {White threatens to win material: Bh4xd8} Be7 $4 {
+a transit from better to worse} (23... Nf8 $142 $11 {
+was a good chance to save the game}) 24. a5 $1 $18 {doomsday} Qxa5 $4 {
+Black falls apart. A deflection} (24... Qa7 25. Nxe6 Bxh4 26. Qxh4 Rxe6 27.
+Qxd8+ Nf8 $18) 25. Nxe6 Bxh4 (25... Qb6 {does not improve anything} 26. Qg6 Bf8
+27. Nxf8 Qxg6 28. Nxg6 Nf8 29. Rxd8 Rxd8 30. Bxd8 Nxg6 $18) 26. Nxd8 (26. Rxd7
+$142 {and White has prevailed} Re7 27. Rxd8+ Qxd8 28. Nxd8 $18) 26... Qxd8 (
+26... Bxf2+ 27. Kxf2 Qxd8 28. Bf3 Bxf3 29. Qxf3 $16) 27. Qxf5 (27. e6 $142 $5
+Bxf2+ 28. Kf1 Bxg2+ 29. Kxf2 Rxe6 30. Kxg2 $18) 27... Rf8 {
+Black threatens to win material: Rf8xf5} 28. Qe6+ Kh8 29. Rxd7 $2 (29. g3 $142
+{is the best option White has} Bc8 30. Bg4 $11) 29... Bxf2+ $19 30. Kh1 Qa8 $4
+{makes life more difficult} (30... Bxg2+ $142 {
+would have made live much easier for Black} 31. Kxg2 Qa8+ 32. Kh2 Qe4 $19) 31.
+Qg4 {White has a mate threat} (31. Qg6 $142 {and White wins} Rg8 32. Bg4 Bxg2+
+33. Kh2 Bxh3 34. Bxh3 $18) 31... Bxg2+ $11 {Demolishes the pawn shield} 32. Kh2
+(32. Qxg2 Qxg2+) 32... g5 $4 (32... Rg8 $142 {was possible} 33. Red1 Bc6 $11)
+33. Qh5 $18 Qc6 34. Rd6 Qe4 (34... Bxe1 {otherwise it's curtains at once} 35.
+Rxh6+ Qxh6 36. Qxh6+ Kg8 37. Qg6+ Kh8 38. Kxg2 Rf2+ 39. Kg1 Rxe2 40. Qh5+ Kg8
+41. Qxe2 Bxc3 $18) 35. Qxh6+ (35. Rxh6+ Kg7 36. Qxg5+ Kf7 37. Bh5+ Qg6 38.
+Qxg6+ Ke7 39. Qd6#) 35... Kg8 $18 36. Rg6+ Kf7 (36... Qxg6 {
+there is nothing else anyway} 37. Qxg6+ Kh8 $18) 37. Qg7+ (37. Rg7+ Ke8 38.
+Qe6+ Kd8 39. Qd7#) 37... Ke8 38. Re6+ Kd8 39. Qxf8+ Kc7 40. Qf7+ (40. Qf7+ Kb8
+41. Re8# $18) 1-0
+
+[Event "Asheboro Open 40"]
+[Site "?"]
+[Date "2008.09.06"]
+[Round "2"]
+[White "Lawson, Josh"]
+[Black "Smithwick, John"]
+[Result "1-0"]
+[ECO "A84"]
+[WhiteElo "1940"]
+[BlackElo "2009"]
+[Annotator "Rybka 2.3 32-bit  (60s)"]
+[PlyCount "111"]
+[EventDate "2008.??.??"]
+[SourceDate "2006.11.11"]
+
+{A84: Dutch Defence: 2 c4 Miscellaneous} {188MB, D6CM2XB1} 1. d4 d5 2. c4 e6 3.
+Nc3 f5 4. Nf3 c6 5. e3 Bd6 6. Bd3 Qf6 7. Bd2 (7. Qc2 Bd7 (7... Ne7 8. b3 O-O 9.
+Bb2 Nd7 10. O-O g5 11. cxd5 exd5 12. g3 Ng6 13. a4 Rf7 14. Ba3 Bxa3 15. Rxa3 g4
+16. Ne1 Ndf8 17. Ng2 Ne6 18. f4 gxf3 19. Rxf3 Ng5 20. Rf1 Bd7 21. Raa1 Qe6 22.
+Rae1 {Lee,C-Pilnick,C (2156)/Los Angeles 2003/CBM 093 ext/0-1 (44)}) 8. c5 Bc7
+9. b4 Nh6 10. b5 O-O 11. a4 Be8 12. Rb1 Nd7 13. bxc6 bxc6 14. Rb7 Qd8 15. Ba3
+Rf6 16. Be2 e5 17. dxe5 Nxe5 18. Nd4 Bd7 19. g3 Bc8 20. Rb3 Qe8 21. h3 Nhf7 {
+Fronczek,H (2270)-Bagirov,V (2495)/Bad Wildbad 1997/EXT 99/0-1 (62)}) 7... Ne7
+8. Qb3 $146 (8. O-O O-O 9. Qb3 Kh8 10. Ne2 g5 11. Bb4 Bc7 12. Qa3 Re8 13. Bd6
+Bxd6 14. Qxd6 Ng6 15. Rac1 Nd7 16. cxd5 exd5 17. Qxf6+ Nxf6 18. Nxg5 Bd7 19.
+Nf7+ Kg7 20. Nd6 Rf8 21. Bxf5 Ne7 22. Bxd7 Nxd7 {
+Uhlmann,W-Zinn,L/Schkopau 1958/EXT 2002/1-0}) 8... O-O (8... Nd7 9. cxd5 exd5
+10. a4 $14) 9. h4 (9. cxd5 Nxd5 10. e4 Nxc3 11. bxc3 fxe4 12. Bxe4 Nd7 $16)
+9... Nd7 10. Ne2 (10. cxd5 $5 exd5 11. e4 $16) 10... dxc4 $11 11. Bxc4 Nd5 12.
+Ng5 h6 (12... N7b6 13. Bxd5 Nxd5 14. e4 fxe4 15. Nxe4 $11) 13. e4 $14 fxe4 14.
+Nxe4 Qe7 15. Bxd5 (15. Nxd6 Qxd6 16. O-O N7f6 $14) 15... exd5 $11 16. Nxd6 Qxd6
+{Black's piece can't move: c8} 17. Bb4 c5 18. dxc5 Nxc5 {
+Black has a new passed pawn: d5.} 19. Rd1 Rd8 20. Qa3 b6 {Covers a5+c5} 21. O-O
+Bg4 22. f3 {Consolidates e4} Bd7 (22... Bh5 23. Rc1 Rac8 24. Rfe1 $11) 23. Nc3
+$14 {White threatens to win material: Nc3xd5} Qg3 (23... d4 24. Ne4 Qd5 25.
+Bxc5 bxc5 26. Qxc5 Qxc5 27. Nxc5 $16) 24. Bxc5 $16 bxc5 25. Qxc5 Qxh4 26. Qxd5+
+(26. Rd4 Qg5 $16) 26... Kh8 27. Qe4 Qf6 $4 {
+the position is going down the drain} (27... Qxe4 $142 28. Nxe4 Kg8 $16) 28.
+Rxd7 $1 $18 {Annihilates a defender: d7} Qb6+ (28... Rxd7 {A deflection} 29.
+Qxa8+) 29. Rf2 Re8 (29... Rxd7 {doesn't improve anything} 30. Qxa8+ Rd8 31. Qe4
+$18) 30. Qd4 (30. Qg4 {makes it even easier for White} Re1+ 31. Kh2 Re7 $18)
+30... Re1+ 31. Rf1 Rxf1+ 32. Kxf1 Qa6+ (32... Qxd4 {
+doesn't get the cat off the tree} 33. Rxd4 Rb8 34. Rd7 $18) 33. Kg1 Rg8 (33...
+Qb6 {doesn't change the outcome of the game} 34. Qxb6 axb6 35. Rb7 $18) 34.
+Rxa7 (34. Rd6 $142 {ends the debate} Qxd6 35. Qxd6 Re8 $18) 34... Qe6 (34...
+Qg6 {does not solve anything} 35. a4 $18) 35. Ne4 Qc8 (35... Qg6 {
+cannot change what is in store for ?} 36. b4 Rc8 37. b5 Rc1+ 38. Kf2 Rc2+ 39.
+Nd2 $18) 36. Nd6 Qc1+ (36... Qe6 {there is nothing better in the position} 37.
+b4 Qg6 $18) 37. Kh2 Qc6 38. Nf7+ Kh7 39. Qe4+ (39. Ne5 $142 {
+and White has reached his goal} Qc2 40. Ng4 $18) 39... Qxe4 40. fxe4 Kg6 (40...
+Re8 {a fruitless try to alter the course of the game} 41. e5 Re6 42. b4 $18)
+41. Ne5+ Kf6 (41... Kg5 {doesn't get the bull off the ice} 42. Kg3 h5 43. Nf3+
+Kg6 44. b4 $18) 42. Nf3 (42. Nd7+ $5 {keeps an even firmer grip} Ke7 $18) 42...
+g5 (42... Kg6 {is not the saving move} 43. Kg3 Rb8 44. Ne5+ Kh7 45. b3 $18) 43.
+Ra6+ Kg7 44. Kg3 (44. Nd4 Re8 45. Nf5+ Kg8 46. Rg6+ Kf7 47. Nd6+ Kxg6 48. Nxe8
+Kf7 $18) 44... Re8 (44... Rb8 {is not much help} 45. b3 Rc8 46. Ra7+ Kf6 47.
+e5+ Kf5 48. Ra6 $18) 45. e5 Rb8 (45... h5 {cannot change destiny} 46. Ra5 Kg6
+47. b4 $18) 46. b3 Rb4 (46... Rb5 {cannot undo what has already been done} 47.
+Kg4 Rb4+ 48. Kh5 $18) 47. Ra4 Rb5 48. Re4 Kf7 (48... Rb7 {
+does not improve anything} 49. e6 Re7 50. a4 $18) 49. Kg4 (49. e6+ {
+and White can already relax} Ke8 50. Kg4 Ra5 $18) 49... Kg6 (49... Rb7 {
+does not save the day} 50. e6+ Kf6 51. e7 Rxe7 52. Rxe7 Kxe7 53. a4 $18) 50. e6
+h5+ 51. Kg3 Rb8 52. e7 Re8 53. Nd4 (53. Re6+ Kg7 54. Nxg5 Rxe7 55. Rxe7+ Kf6
+56. Re1 Kxg5 57. a4 h4+ 58. Kh3 Kf5 59. a5 Kf6 60. Kxh4 Kg6 61. a6 Kf5 62. a7
+Kf6 63. a8=Q Kg7 64. Re7+ Kf6 65. Qe8 Kf5 66. Qf7#) 53... Kf7 54. Nb5 Rxe7 55.
+Rxe7+ Kxe7 56. a4 (56. a4 Kd8 57. Nd6 $18) 1-0
+
+[Event "The Asheboro Open 39"]
+[Site "MyTown"]
+[Date "2008.08.02"]
+[Round "2"]
+[White "Dejong, Andrew"]
+[Black "Jiang, Allan"]
+[Result "1-0"]
+[ECO "A10"]
+[WhiteElo "1760"]
+[BlackElo "1592"]
+[Annotator "deJong,Randal"]
+[PlyCount "109"]
+[EventDate "2008.??.??"]
+[SourceDate "2006.11.11"]
+[TimeControl "300"]
+
+{179MB, PC106391367623} 1. c4 b6 2. Nc3 Bb7 3. e4 e6 4. Nf3 Bb4 5. g3 Bxc3 6.
+bxc3 Bxe4 7. Bg2 Nf6 8. d3 Bb7 9. O-O O-O 10. Re1 d6 11. d4 Nbd7 12. Qd3 Re8
+13. Bg5 h6 14. Bf4 Qe7 15. Re2 Rad8 16. Qc2 c5 17. h3 Rc8 18. Qa4 a6 19. Rb1
+cxd4 20. cxd4 d5 21. c5 Ne4 22. Rc2 b5 23. Qb3 Nb8 24. a4 Bc6 25. axb5 Bxb5 26.
+Bf1 Bxf1 27. Kxf1 Qa7 28. Qb6 Qxb6 29. Rxb6 a5 30. c6 g5 31. Be3 Nd6 32. c7 Nc4
+33. cxb8=Q Rxb8 34. Rxb8 Rxb8 35. Ra2 Rb3 36. Ke2 f6 37. Nd2 Rb2 38. Ra4 Rb4
+39. Ra2 Rb2 40. Rxb2 Nxb2 41. Nb1 Kf7 42. f4 gxf4 43. Bxf4 Kg6 44. Na3 Kf5 45.
+Bxh6 Ke4 46. Nc2 Nc4 47. g4 a4 48. Bg7 f5 49. g5 f4 50. Bf6 Kf5 51. h4 a3 52.
+h5 a2 53. Be7 e5 54. g6 Ke6 55. h6 1-0
+
+[Event "Asheboro Open 39"]
+[Site "Asheboro, NC"]
+[Date "2008.08.02"]
+[Round "2"]
+[White "Holmes, Adam"]
+[Black "Simpson, Ron"]
+[Result "1-0"]
+[ECO "C51"]
+[WhiteElo "1952"]
+[BlackElo "2346"]
+[Annotator "Rybka 2.3 32-bit  (60s)"]
+[PlyCount "51"]
+[EventDate "2008.??.??"]
+[SourceDate "2006.11.11"]
+
+{Hi, this is FM Ron Simpson.  Ratings are usually good indicators of chess
+performance, but in many tournaments we see chess players winning games when
+their ratings are hundreds of points lower than their opponents!  Recently, I
+faced such a situation at The Asheboro Open 39.  My opponent Adam Holmes at
+USCF 1952 was undaunted by my 2436 standing.   
+***************************************************************************** 
+Adam and I entered into the Evans Gambit with me playing the black pieces. I
+made an the unusual looking move, 5...Bd6, something I had seen in many Evans
+Gambit games. The combination of me playing some new ideas while facing a
+tactical talent  produced some uncontrollable fireworks!!      C51: Evans
+Gambit: Declined and Accepted without 5...Ba5} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5
+4. b4 Bxb4 5. c3 Bd6 {SIMPSON:  The idea is to overprotect the e pawn and
+develop normally.  There are many games with the unusual looking move 5...Bd6
+in the Evans Gambit.  I now believe this move is poor with respect to better
+moves like 5....Be7. So, I wouldn't give the text move a "?" but I really
+don't like it. I would say white has an advantage (Fritz says black is up by .
+44).  I would prefer to play the white side of this position. 
+********************************  [Editor's note:  This unusual looking move
+has been played by H.N. Pillsbury, Kieseritzsky (of King's Gambit fame) and
+other top level players.  See our "Evans Bd6 database" for example games]} 6.
+d4 Qe7 {SIMPSON:  I believe this move was a mistake, and 6...h6 was clearly
+better.  I would give this move a "?" because it allowed White to pressure the
+f-pawn with Ng5!  During the game I just didn't realize how strong Ng5 would
+be. Normally when someone attacks with two pieces out of the opening their
+attack usually fails.  ************************************************* 
+[Editor's Note:  6...Qe7 has been played before, but I can't find any example
+of Adam's 7.Ng5 reply.  This may be a true novelty that needs further
+investigation.]    Black is behind in development. Black's piece can't move:
+c8} (6... Nf6 7. dxe5 Bxe5 8. Ba3 d6 9. Bb5 Qe7 10. O-O O-O 11. Nxe5 Qxe5 12.
+Bd3 Re8 13. f4 Qa5 14. Qc2 b6 15. Bb2 Ba6 16. Bxa6 Qxa6 17. Nd2 b5 18. c4 Nd7
+19. Rac1 b4 20. Rf3 Qb6+ 21. Kh1 {
+Van der Wiel,J (2526)-Sokolov,I (2690)/Leeuwarden 2004/CBM 102/1/2-1/2 (49)})
+7. Ng5 $146 {White threatens to win material: Ng5xf7} (7. O-O Nf6 (7... h6 8.
+Re1 g5 9. g3 Qf6 10. Nbd2 Nge7 11. Bb2 b6 12. Bd5 Bb7 13. dxe5 Bxe5 14. Nxe5
+Qxe5 15. Rb1 O-O-O 16. c4 Qd6 17. Bxh8 Rxh8 18. Bxf7 Ne5 19. Bh5 Rf8 20. Be2 g4
+21. Nb3 Qg6 22. Nd2 {
+Kosak,R (2258)-Weyrich,M (2332)/Germany 2003/EXT 2004/1-0 (45)}) 8. Ng5 O-O 9.
+f4 exf4 (9... Nxe4 10. Nxe4 exd4 11. Nxd6 Qxd6 12. Ba3 Qf6 13. Bxf8 Kxf8 14.
+cxd4 Nxd4 15. Nd2 Nf5 16. Qe2 Qd4+ 17. Kh1 d5 18. Bd3 Qf6 19. Rae1 Bd7 20. Bxf5
+Re8 21. Bxd7 Rxe2 22. Rxe2 g6 23. f5 g5 24. Nf3 {
+Werner,H-Kammel,R/Germany 2000/EXT 2005/1-0}) 10. e5 Bxe5 11. Re1 Nxd4 12. Ba3
+c5 13. Nd2 Nc6 14. Qc2 h6 15. Nge4 d6 16. Nxf6+ Qxf6 17. Ne4 Qd8 18. Rad1 Qc7
+19. Bd3 Be6 20. Qd2 Ne7 21. Bb1 Rad8 {
+Heldarskard,V-Joensen,J/Faroe 1999/EXT 2002/0-1 (45)}) 7... Nh6 {[Editor's note
+:  The ugly 7...Nd8 might be a viable alternative to explore..  It leaves open
+the possibility of h6, kicking the knight, and a better deployment of the king
+knight to the perhaps more favorable f6 square.  Still, Fritzy likes Nh6 a bit
+better.]  ************************************************    Black's piece
+can't move: c8} (7... Nd8 $5 {Fritz 9:} 8. O-O h6 9. Nf3 Nc6 10. Nbd2 Nf6 11.
+Nh4 Nxe4 12. Nf5 Qf6 13. Nxg7+ Qxg7 14. Nxe4 {[%eval 43,12]}) 8. O-O O-O 9. f4
+exd4 {[Editor's note:  It looks like this is the critical slip based on
+computer analysis, allowing the e5 push]     SIMPSON:  Agreed.} (9... exf4 $142
+$5 {must be considered} 10. Qh5 Kh8 $11) 10. e5 $16 {SIMPSON:  Adam finds a
+great plan and completely destroys black's position.  ******************** 
+White threatens to win material: e5xd6} Bc5 (10... Bxe5 $5 {
+SIMPSON:  I failed to see this nice idea leading to an unclear position.} 11.
+fxe5 Nxe5 12. cxd4 Nxc4 $16) 11. Qd3 $18 g6 (11... Nf5 $5 12. Qxf5 g6 13. Qh3
+$16) 12. Qh3 Kg7 {SIMPSON:  Tactics are everywhere for Adam. At first I
+thought his attack would fail because he is only using three pieces and I am
+just a move away in getting back some control. But then 13.f5! just crushes my
+position. I used all of my time trying to hold but Adam's attack was just too
+strong and I was completely crushed. I think Fritz can show the rest of the
+game better then I can. But the following position would make a nice chess
+puzzle.} 13. f5 {SIMPSON:  Adam is definitely a NC Chess player to be taken
+very seriously. I am sure this young man will be a master very soon!  I am
+looking forward to playing Adam again in Asheboro...he finishes the game
+nicely.  ***************************    Demolition of pawn structure} f6 $6 {
+not putting up any resistance} (13... Nxf5 {Exploits the pin} 14. Qxh7#) 14.
+Nxh7 $1 {Demolishes the pawn shield} g5 (14... Kxh7 {Decoy theme: h7} 15. Qxh6#
+{The nicest combinations are those leading to mate}) 15. Bxg5 $1 {
+Demolition of pawn structure} d3+ (15... fxg5 16. f6+ {A double attack}) 16.
+Kh1 fxg5 17. f6+ Kh8 {SIMPSON:  The queen can't be taken, but nevertheless my
+position can't be held and the games ends quickly.} 18. Bxd3 (18. Nxg5 Qh7 19.
+Nxh7 Be3 20. Nxf8 d5 21. Qxe3 Kg8 22. Qxh6 Kf7 23. Bxd3 Bf5 24. Bxf5 Ke8 25.
+Qg6+ Kd8 26. Ne6+ Kd7 27. Nc5+ Kd8 28. Nxb7#) 18... Qxh7 {[Editor's Note: 
+Ripley's Believe It or Not--Rybka calls this the BEST moves for black!]} 19.
+Bxh7 Kxh7 20. Qd3+ Kh8 21. Qg6 Rf7 22. Qxh6+ Rh7 (22... Kg8 {
+doesn't get the cat off the tree} 23. Qxg5+ Kf8 24. e6 dxe6 25. Qxc5+ Ke8 26.
+Na3 $18) 23. Qxg5 (23. Qg6 Bf8 24. f7 Rxh2+ 25. Kxh2 Ne7 26. Qh5+ Kg7 27. Rf6
+Nf5 28. Qxg5+ Kh8 29. Qg8#) 23... d5 (23... Nd8 {no good, but what else?} 24.
+Qg6 Nf7 $18) 24. f7 Bd7 (24... Bg4 25. Qf6+ Rg7 26. Qh6+ Rh7 27. f8=Q+ Rxf8 28.
+Rxf8+ Bxf8 29. Qxf8#) 25. Qf6+ Rg7 26. Qh6+ {SIMPSON:  Great game Adam!! 
+************************************  SIMPSON:  Looking back at the game, my
+play was typical in that I will play anything of interest. I like playing the
+white side of the Evans and I thought it would nice to see it from the black
+side.  Adam played an outstanding game.  He punished  me with several really
+good moves. I picked up my focus after 8...0-0, but I didn't see the nice idea
+10.....Bxe5.  I believe the resulting position would have been unclear.  There
+are several variations, but the main point is that Black would have about
+seven pawns to White's three or four.} (26. Qh6+ Rh7 27. f8=Q+ Bxf8 28. Rxf8+
+Rxf8 29. Qxf8#) 1-0
+
+[Event "Asheboro Open 39"]
+[Site "?"]
+[Date "2008.08.02"]
+[Round "3"]
+[White "Huang, Kevin"]
+[Black "Mabe, Chris"]
+[Result "0-1"]
+[ECO "A25"]
+[WhiteElo "1941"]
+[BlackElo "2250"]
+[Annotator "Rybka 2.3 32-bit  (60s)"]
+[PlyCount "60"]
+[EventDate "2008.??.??"]
+[SourceDate "2006.11.11"]
+
+{A25: English Opening vs King's Indian with ...Nc6 but without early d3} 1. c4
+e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 Nf6 5. e3 d5 6. Nxd5 Nxd5 7. cxd5 Nb4 8. d4 (8.
+e4 Qf6 9. d3 Bc5 10. Nf3 fxe4 11. dxe4 Bg4 12. a3 O-O 13. axb4 Bxb4+ 14. Kf1
+Bxf3 15. Bxf3 Qxf3 16. Qxf3 Rxf3 17. Be3 a6 18. Ke2 Raf8 19. Rhc1 R3f7 20. f4
+exf4 21. gxf4 Re8 22. Rc4 a5 {
+Filippov,V (2593)-Volzhin,A (2556)/Merida 2000/CBM 079 ext/1-0 (33)}) (8. d3
+Nxd5 9. a3 Nf6 10. Qb3 c6 11. Ne2 Bd6 12. d4 e4 13. Nc3 Qe7 14. Bf1 Be6 15. Bc4
+Bf7 16. Bxf7+ Qxf7 17. Qxf7+ Kxf7 18. Bd2 Ke6 19. Rc1 Rhc8 20. Ke2 b5 21. Rc2
+a6 22. Rhc1 Kd7 {
+Jurkiewicz,K (2290)-Grabarczyk,M (2453)/Dzwirzyno 2004/CBM 102 ext/0-1 (66)})
+8... e4 9. Bf1 $146 (9. Ne2 Nxd5 10. O-O Be6 11. f3 exf3 12. Bxf3 Qd7 13. Nc3
+O-O-O 14. e4 Nxc3 15. bxc3 fxe4 16. Bxe4 Bd5 17. Bf5 Be6 18. Bxe6 Qxe6 19. Bg5
+Re8 20. Qb3 Bd6 21. Qxe6+ Rxe6 22. Rf7 h6 23. Bd2 Re2 {
+Nemeth,Z (2379)-Friedrichs,K (2248)/Budapest 2000/EXT 2002/1/2-1/2 (69)}) (9.
+Ne2 $5 {looks like a viable alternative} Nd3+ 10. Kf1 $11) 9... Qxd5 $15 10. a3
+Nd3+ 11. Bxd3 exd3 {Black has the pair of bishops} 12. Qf3 Be6 13. Qxd5 Bxd5
+14. f3 c5 15. Kf2 g5 16. Bd2 Bg7 17. Bc3 O-O {Black has a king attack} 18. Rd1
+(18. dxc5 $142 $5 Bxc3 19. bxc3 $15) 18... c4 $19 19. b3 b5 20. h3 (20. bxc4
+bxc4 21. Rb1 g4 $19) 20... Rfe8 (20... cxb3 $142 21. Rxd3 Rfc8 22. g4 $19) 21.
+Rh2 $2 (21. g4 cxb3 22. gxf5 Rac8 23. Rxd3 Bf8 $19) 21... Re6 (21... cxb3 {
+makes it even easier for Black} 22. Rxd3 Rac8 23. Rh1 $19) 22. f4 $2 (22. bxc4
+bxc4 23. g4 Ra6 24. gxf5 Rxa3 $19) 22... Rae8 (22... gxf4 {seems even better}
+23. gxf4 cxb3 24. Bb2 $19) 23. bxc4 bxc4 24. Re1 Ra6 25. Bb4 (25. Ra1 Rb8 26.
+Ke1 Rab6 $19) 25... Bf8 26. Nf3 (26. Bxf8 {desperation} Kxf8 27. Ne2 dxe2 28.
+fxg5 Rxa3 29. Rxe2 $19) 26... Bxb4 27. axb4 Ra2+ 28. Kf1 (28. Kg1 Rxh2 (28...
+Bxf3 $6 {is the weaker alternative} 29. Rxa2 c3 30. Kf2 $17) 29. Nxh2 d2 $19)
+28... Rxh2 29. Nxh2 c3 30. Ra1 Rxe3 (30... Rxe3 31. b5 c2 $19) 0-1
+
+[Event "Asheboro Open 39"]
+[Site "?"]
+[Date "2008.08.02"]
+[Round "1"]
+[White "Lawson, Josh"]
+[Black "Mabe, Chris"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "1928"]
+[BlackElo "2250"]
+[Annotator "Rybka 2.3 32-bit  (60s)"]
+[PlyCount "68"]
+[SourceDate "2006.11.11"]
+
+{D11: Slav Defence: 3 Nf3 sidelines and 3...Nf6 4 e3 Bg4} 1. d4 d5 2. c4 c6 3.
+Nf3 Nf6 4. Bf4 dxc4 5. e3 b5 6. a4 e6 7. Be2 (7. Nc3 b4 8. Na2 c3 9. bxc3 bxc3
+10. Bd3 Qa5 11. O-O Nd5 12. Be5 Nd7 13. e4 Nxe5 14. Nxe5 Nf6 15. Nxc6 Qc7 16.
+Ne5 Ba3 17. Qc2 Bb2 18. Rab1 Qd6 19. Nxc3 Bxc3 20. Qxc3 O-O 21. Rfc1 Bd7 {
+Storgaard,M-Petersen,M/Esbjerg 2004/CBM 101 ext/1-0 (33)}) 7... Bb7 $146 (7...
+a6 8. b3 Bb4+ 9. Kf1 cxb3 10. axb5 b2 11. Ra2 cxb5 12. Bxb5+ Bd7 13. Bd3 a5 14.
+Rxb2 Nc6 15. Nbd2 Ne7 16. Ne4 Nxe4 17. Bxe4 Bb5+ 18. Kg1 Nd5 19. Ne5 Rc8 20. g3
+Nxf4 21. gxf4 Qh4 22. Bd3 {
+Schroter,T (2290)-Szelenyi,N (2330)/Hungary 1996/EXT 2001/1/2-1/2 (45)}) (7...
+Bb4+ 8. Nc3 $11) 8. Nbd2 (8. O-O $5 $11) 8... Be7 9. O-O O-O 10. Rc1 Nd5 11.
+Bg3 f5 12. Ne5 Nd7 13. e4 (13. Ndf3 a6 $15) 13... f4 14. exd5 Nxe5 (14... fxg3
+{is the less attractive alternative} 15. dxc6 Nxe5 16. cxb7 gxf2+ 17. Kh1 $18)
+(14... cxd5 $6 15. Bg4 Nxe5 16. Bxe6+ Kh8 17. dxe5 $15) 15. dxe5 exd5 16. Nf3
+fxg3 17. hxg3 b4 18. Nd4 Qb6 19. Bh5 (19. Bg4 $142 $5 $15 {is worth looking at}
+) 19... c5 $19 20. Ne2 Rf5 21. Nf4 Rxe5 22. Qg4 Bf6 23. Rfe1 Qd6 24. Red1 (24.
+Rxe5 Bxe5 25. Re1 Bxf4 26. gxf4 $19) 24... Qe7 25. Kh2 (25. a5 {
+a fruitless try to alter the course of the game} g6 $19) 25... Rd8 26. Rc2 (26.
+Rh1 {doesn't do any good} Re4 $19) 26... Re4 (26... g6 $142 $5 {
+and Black can already relax} 27. Kg1 $19) 27. Re2 Rxe2 28. Nxe2 (28. Qxe2 {
+does not solve anything} Qxe2 29. Bxe2 Re8 $19) 28... Bxb2 29. Nf4 Bf6 30. Ne6
+(30. Qh3 {the only chance to get some counterplay} c3 31. Bg4 $19) 30... Bc8
+31. Re1 Rd6 32. Nxc5 (32. Nf4 {otherwise it's curtains at once} Bxg4 33. Rxe7
+Bxh5 34. Re1 $19) 32... Bxg4 33. Rxe7 Bxe7 34. Bxg4 Rh6+ (34... Rh6+ 35. Kg1
+Bxc5 $19) 0-1
+
+[Event "The Asheboro Open 39"]
+[Site "?"]
+[Date "2008.08.02"]
+[Round "3"]
+[White "Lawson, Josh"]
+[Black "Paradis, Thomas"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "1928"]
+[BlackElo "1973"]
+[Annotator "Rybka 2.3 32-bit  (60s)"]
+[PlyCount "123"]
+[EventDate "2008.08.16"]
+[SourceDate "2006.11.11"]
+
+{C02: French: Advance Variation} 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3
+Bd7 6. Bd3 cxd4 7. cxd4 Qb6 8. Bc2 Nb4 9. Nc3 Nxc2+ 10. Qxc2 Rc8 11. O-O Ne7
+12. a4 $146 {Black has a cramped position. Black's piece can't move: f8} (12.
+Rd1 Nc6 (12... Nf5 13. b3 Bb4 14. Bb2 O-O 15. Rac1 Rc7 16. Qd2 Rfc8 17. Rc2 Qa5
+18. Rdc1 b5 19. Qd3 h6 20. h3 Be7 21. Qd2 b4 22. Na4 Bxa4 23. bxa4 Rxc2 24.
+Rxc2 Rc4 25. Rxc4 dxc4 26. Qc2 Qd5 27. Qd1 {
+Sandrasegaran-Borg,G/Copenhagen 1982/EXT 2000/0-1}) 13. a3 Na5 14. b4 Nc4 15.
+h4 (15. Qd3 Qa6 16. Bf4 Nb2 17. Qxa6 bxa6 18. Rd2 Nc4 19. Rda2 Nxe5 20. Nxe5
+Rxc3 21. Nxd7 Kxd7 22. Bb8 Be7 23. Bxa7 Rhc8 24. Kf1 R8c4 25. Rb1 Bf6 26. Rd1
+Kc6 27. Bc5 Rc2 28. Rxc2 Rxc2 29. f4 Kb5 {
+Herzog,E-Kleifges,M/Donaueschingen 1985/GER/0-1 (50)}) 15... Qa6 16. Qb3 h6 17.
+a4 Qb6 18. Rb1 Be7 19. g4 a5 20. b5 Qc7 21. Ne2 O-O 22. g5 h5 23. Nf4 g6 24.
+Nh2 Nb6 25. Qf3 Qc2 26. Bd2 Nxa4 {
+Basjuni,S-Uhlmann,W/Prague 1954/EXT 98/1-0 (60)}) (12. Bg5 Nf5 13. Qd2 (13. Qd3
+Qxb2 14. Rfc1 Qa3 15. Rab1 Bb4 16. Rb3 Qa5 17. Bd2 O-O 18. Rcb1 Bxc3 19. Bxc3
+Qc7 20. Rxb7 Qxc3 21. Qxc3 Rxc3 22. Rxd7 Ra3 23. Rbb7 a5 24. Ng5 Rxa2 25. g4
+Nh6 26. Nxe6 Rc8 27. g5 fxe6 {
+Datuashvili,N-Titareva,T/Rimavska Sobota 1996/EXT 97/1-0 (33)}) 13... h6 14.
+Be3 Be7 15. Rfe1 O-O 16. Kh1 a5 17. Bf4 Rc4 18. Rad1 Rfc8 19. g4 Nh4 20. Nxh4
+Bxh4 21. Rg1 f6 22. exf6 Bxf6 23. Be3 a4 24. g5 hxg5 25. Bxg5 Qxd4 26. Bxf6
+Qxf6 {Peek,M (2340)-Driessens,P/Mesa 1992/EXT 98/0-1 (40)}) (12. Qb3 Qxb3 13.
+axb3 a6 $11) 12... Nc6 $15 {Black threatens to win material: Nc6xd4} 13. Be3 {
+Black has a cramped position} Be7 {White has a very active position} 14. Qd2 {
+White has an active position} O-O 15. a5 {
+White threatens to win material: a5xb6} Qc7 {Black has a cramped position} (
+15... Qa6 16. Rfc1 $15) 16. Rfc1 a6 {White has an active position} 17. Na4 (17.
+Ne2 Qb8 $11) 17... Qb8 (17... Qxa5 $142 $5 {should be examined more closely}
+18. h3 Qxd2 19. Bxd2 Nb4 20. Rxc8 Rxc8 $17) 18. Nb6 $14 {
+White threatens to win material: Nb6xd7. The white knight is well posted.} Rc7
+{Black has a cramped position} 19. Qe1 Nb4 20. Qd2 Rxc1+ (20... Nc6 21. Nxd7
+Rxd7 22. Bg5 $11) 21. Rxc1 $14 Bb5 22. Bg5 Qd8 (22... Bxg5 23. Nxg5 Nd3 24. Rc2
+$14) 23. Bxe7 Qxe7 24. Nc8 {White threatens to win material: Nc8xe7} Qd7 25.
+Qxb4 (25. Nd6 Nc6 $14) 25... Rxc8 $11 26. Rxc8+ Qxc8 27. Qc5 Qxc5 {
+Black has a mate threat} 28. dxc5 {A minor pieces endgame occured} Kf8 29. Nd4
+{A valuable piece} Be8 30. f4 Ke7 31. b4 f6 32. Kf2 fxe5 33. fxe5 Bd7 34. Ke3
+g5 35. Kf3 Kf7 36. Kg4 {White threatens to win material: Kg4xg5} Kg6 37. b5
+axb5 38. c6 bxc6 {Theme: Deflection from a6} (38... Bxc6 39. Nxc6) 39. a6 {
+He broke from his leash} Bc8 40. a7 h5+ (40... Bb7 $142 $5 $14 {is noteworthy})
+41. Kf3 $16 Bb7 42. Nxe6 Kf5 43. Nc5 Ba8 44. e6 Kf6 45. Ke3 Ke7 46. Kd4 Kd6 47.
+Kc3 Ke7 48. Kd4 {Twofold repetition} (48. Kd3 Kd6 $16) 48... Kd6 49. Na6 Bb7
+50. Nc5 {White threatens to win material: Nc5xb7} (50. g3 Ba8 $16) 50... Ba8 {
+Blocks the pawn on a7} 51. g3 g4 52. Ke3 b4 $4 {
+further deteriorates the position} (52... Ke7 53. Na6 $16) 53. Kd3 (53. Kd4
+$142 {might be the shorter path} b3 54. Kc3 Ke7 $18) 53... b3 $4 {
+leads to further unpleasantness} (53... Ke7 $142 $16) 54. Kc3 $18 b2 55. Kxb2
+Ke7 56. Kc3 Kd6 57. Kd4 Ke7 58. Ke5 Ke8 (58... d4 $18 {praying for a miracle})
+59. Kd6 (59. Kf6 Kd8 60. e7+ Kc7 61. e8=Q Kb6 62. Nd7+ Ka5 63. Qxa8 Kb5 64.
+Qb7+ Kc4 65. Qb2 h4 66. a8=Q d4 67. Ne5+ Kc5 68. Qxc6#) 59... Kd8 60. e7+ Ke8
+61. Na6 (61. Ke6 h4 62. Na6 Bb7 63. Nc7#) 61... d4 62. Nc7+ (62. Nc7+ Kf7 63.
+e8=Q+ Kg7 64. Ne6+ Kf6 65. Qf8+ Kg6 66. Nf4+ Kg5 67. Qg7+ Kf5 68. Qe5#) 1-0
+
+[Event "Asheboro Open 39"]
+[Site "?"]
+[Date "2008.08.02"]
+[Round "2"]
+[White "Mabe, Chris"]
+[Black "Drake, Christopher"]
+[Result "1-0"]
+[ECO "D33"]
+[WhiteElo "2250"]
+[BlackElo "1956"]
+[Annotator "Rybka 2.3 32-bit  (60s)"]
+[PlyCount "53"]
+[SourceDate "2006.11.11"]
+
+{D33: Tarrasch Defence: 6 g3 sidelines} 1. Nf3 Nf6 2. c4 c5 3. g3 Nc6 4. Nc3 e6
+5. Bg2 d5 6. cxd5 exd5 7. d4 Bf5 8. O-O (8. Bg5 Be7 9. O-O h6 (9... Ne4 10.
+Bxe7 Nxe7 11. Nxe4 dxe4 12. Nh4 Qxd4 13. Qxd4 cxd4 14. Nxf5 Nxf5 15. Bxe4 Nd6
+16. Bd5 Rc8 17. Rac1 Ke7 18. Rfd1 b5 19. Kf1 Kf6 20. Rxc8 Rxc8 21. Rxd4 Rc1+
+22. Kg2 a5 23. Bb3 Ke7 24. a4 {Grivas,E-Apicella,M/Paris 1982/EXT 2004/1-0 (41)
+}) 10. Bxf6 Bxf6 11. e3 cxd4 12. exd4 O-O 13. Qb3 Qd7 14. Qxd5 Qxd5 15. Nxd5
+Bxd4 16. Nxd4 Nxd4 17. Ne7+ Kh8 18. Rfd1 Rad8 19. Rxd4 Rxd4 20. Nxf5 Rd2 21. b3
+Rc8 22. Bxb7 Rcc2 {Brennan,J-Topfer,N/Belconnen 2003/EXT 2005/0-1 (56)}) 8...
+Ne4 $146 (8... Be7 9. b3 O-O 10. Bb2 Ne4 11. dxc5 Nxc3 12. Bxc3 Bxc5 13. Nd4
+Bg6 14. Nxc6 bxc6 15. Rc1 Be7 16. Qd4 f6 17. Qa4 Qd7 18. Rfd1 Bf7 19. e4 Qb7
+20. Ba5 dxe4 21. Bxe4 Qb5 22. Qxb5 cxb5 23. Rd7 {
+Burriel Rosello,C-Garcia Domingo,J/Cullera 1995/EXT 2004/1-0}) (8... Rc8 9. Bg5
+Be7 10. dxc5 d4 11. Bxf6 Bxf6 12. Nb5 O-O 13. Nd6 Be6 14. Nxb7 Qd7 15. Nd6 Rb8
+16. b3 Bh3 17. Bxh3 Qxh3 18. Ne4 Qf5 19. Nxf6+ Qxf6 20. Rc1 Rfd8 21. Rc4 Rd5
+22. Qd2 Rbd8 23. Rd1 {Vidarte Morales,A (2424)-Lazaro Porta,A (2077)/Castellar
+1999/CBM 073 ext/1-0 (41)}) (8... c4 9. Ne5 Bb4 10. Nxd5 Nxd5 11. e4 Be6 12.
+Nxc6 bxc6 13. exd5 Bxd5 14. Bxd5 Qxd5 15. Qe2+ Kf8 16. a3 Re8 17. Be3 Bd6 18.
+Rac1 Qxd4 19. Rfd1 Qf6 20. Qxc4 Be7 21. Bd4 Qf5 22. Qxc6 h5 23. Re1 {
+Prystenski,A-Moises,F/Manitoba 1991/EXT 97/1-0}) 9. Nh4 Nxc3 10. bxc3 {
+White has a cramped position} Be6 11. Rb1 {
+White threatens to win material: Rb1xb7} Qd7 12. e4 dxe4 13. Bxe4 O-O-O (13...
+cxd4 14. cxd4 Be7 15. Re1 $16) 14. Qa4 Bd5 (14... cxd4 15. cxd4 Bd5 $16) 15.
+Bf5 $18 Be6 16. d5 Qxd5 17. Be4 Qxa2 (17... Qc4 18. Bxc6 Qxa4 19. Bxa4 Bxa2 20.
+Ra1 $18) 18. Qb5 Na5 $4 {
+terrible, but what else could Black do to save the game?} (18... Qa6 19. Qxa6
+bxa6 20. Bxc6 Bd6 $18) 19. Bxb7+ Kc7 20. Bf4+ Rd6 21. Qxc5+ {White forks: a7+c7
+} Kd7 22. Qc8+ Ke7 23. Bxd6+ Kxd6 24. Rbd1+ Ke5 (24... Qd5 {
+hardly improves anything} 25. Qd8+ Kc5 26. Qxa5+ Kd6 27. Rxd5+ Bxd5 28. Qd8+
+Kc5 29. Qxd5+ Kb6 30. Qc6+ Ka5 31. Qa6#) 25. Rfe1+ (25. f4+ Kf6 26. Qd8+ Be7
+27. Qd4#) 25... Kf6 26. Qd8+ Be7 27. Qd4+ (27. Qd4+ Kg5 28. Qxg7+ Kh5 29. Bf3+
+Bg4 30. Bxg4#) 1-0

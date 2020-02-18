@@ -1,0 +1,528 @@
+[Event "NC Championship 1948"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Crittenden, Kit"]
+[Black "Woods, Henry"]
+[Result "1-0"]
+[ECO "A35"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "83"]
+
+{A35: Symmetrical English: 2 Nc3 Nc6 3 Nf3} {EDITOR'S NOTE:   This was "The
+deciding game" from the 1948 NC Open.  Kit Crittenden, who had finished DEAD
+LAST in the previous year, squares off with four time NC Champion HENRY WOODS.
+Crittenden, a boy of 14, does not play perfectly, but manages to topple his
+opponent to earn the title of NC Chess Champion for 1948.  This made him the
+youngest state champion ever, a record which stands sixty years later.   
+While this game is annotated by Deep Rybka 3.0, KIT Crittenden's OWN
+annotations are noted with (KITC):***.  I have changed descriptive notation to
+modern algebraic.} 1. c4 e5 2. Nc3 c5 {
+(KITC):  ***This formation is a favorite of Woods, with Black or with White.***
+} 3. e3 Nc6 4. g3 {(KITC):  ***White plans to control d5 (the fianchetto), and
+prevent his opponent's occupation of d4 with the move e3***} (4. Be2 d6 $11)
+4... d6 5. Bg2 Bd7 {(KITC):  ***There was no threat.  It would have been
+better to postpone the development of the bishop until the correct square
+could be found.} (5... Nf6 6. d3 $11) 6. Nge2 Nf6 7. O-O Be7 {(KITC):  ***White
+plays to open up the game before his opponent can fully develop.***} 8. d4 (8.
+Nd5 O-O $11) 8... Qc7 (8... O-O 9. dxc5 dxc5 10. Nd5 $14) 9. f4 (9. dxc5 $5 {
+is noteworthy} dxc5 10. b3 $14) 9... exd4 $11 {(KITC):  ***If 0-0 at once,
+then f5 would emphasize the second player's cramp.  In general, it is wise to
+exchange in a cramped position.***} 10. exd4 O-O {
+Black castles and improves king safety} 11. d5 {
+White threatens to win material: d5xc6} Na5 {(KITC):  ***Well played!  His
+idea is Ng4 and Bf6, seizing the long diagonal.  The knight will return to
+play with Nh6-Nb5.  A totally different plan was ...Rab8 and b5, in line with
+his previous move.} 12. b3 {Controls a4+c4} Rfe8 13. Bb2 (13. Qd3 a6 $11) 13...
+Ng4 14. Ne4 {(KITC):  ***The only logical move.  Black cannot be allowed to
+place his pieces well, and the sacrifice should be sound:     1.  White has
+made no unnatural moves in obtaining a superior position, which would justify
+his playing such as Bcl or Qd3, in which case he would have to give up bishop
+for knight.    2.  Black's queenside pieces are ill-placed in case of a
+Kingside attack, especially then his knight would seem to be out of play.    3.
+The position, especially the center, is favorable for long range bishop action.
+So white simply prevents Bf6.  ***  Rybka:  White has an active position} (14.
+Qd2 Bf6 $15) 14... Ne3 {Black threatens to win material: Ne3xd1} 15. Qd3 Nxf1
+16. Rxf1 {Black wins the exchange} Bf5 {
+(KITC):  ***The exchange of a rather useless piece.***} (16... b5 $5 17. f5 f6
+$15) 17. Qc3 (17. g4 Bxg4 18. N2g3 Bd8 $16) 17... f6 $11 {(KITC):  ***If ...
+Bf8, then 18.Nf6+ ...Kh1 (PxN, QxP forced mate) 19.NxR and the attack
+continues without material disadvantage.***    Rybka:  Secures g5} 18. g4 Bxe4
+{(KITC):  ***Black exchanges in the hope of reducing attacking forces.  If
+Bxg4, then 19.Neg3 with the threat of f5, winning the bishop wiht h3.  So 19...
+Bd7 seems to be the proper line.  20.Nh5 ...Rf8  21.Qg3 ...Rf7  22.Nexf6+  ...
+Kh8  23.Ne8  ...RxN  24.Bxg7+ ...Kh8   25.Bh6+  ...Kh8   26.Qc3+ and wins. 
+Doubtless other variations also give a winning position, in material or attack.
+I, as white, did not visualize the analytical wins.  The move was made by
+positional judgement.***Editor:  see this variation below in red.} (18... Bxg4
+19. N2g3 b5 20. cxb5 $11) (18... Bxg4 19. N2g3 Bd7 20. Nh5 Rf8 21. Qg3 Rf7 22.
+Nexf6+ Kh8 23. Ne8 Rxe8 24. Bxg7+ Kg8 25. Bh6+ Kh8 26. Qc3+ {Fritz could not
+find an absolute win here, but a lot of ways for black to go wrong.} {Fritz 9:}
+Kg8 27. Qg3+ {[%eval 0,0]} (27. Rf3)) 19. Bxe4 $14 Bf8 (19... Bd8 20. Ng3 $14)
+20. Ng3 {Black has a cramped position. Black's piece can't move: a5} Re7 $2 {
+(KITC):  ***Black reasons that he should try to exchange rooks, since his
+rooks can find little scope for action, while his opponent's will aid in the
+pawn advances.***} (20... b5 $5 {is an interesting alternative} 21. Qd3 Rxe4
+22. Nxe4 bxc4 23. bxc4 Re8 $16) 21. Bb1 (21. Bf5 a6 $18) 21... Rae8 {
+(KITC):  ***He exchanges, even at the cost of a pawn.***} (21... Rf7 $142 $5
+22. Bf5 Re8 $16) 22. Qd3 $18 g6 23. Bxf6 $4 {
+with this move White loses his initiative} (23. f5 $142 {
+White has the better game} Re3 24. Qc2 $18) 23... Re1 $16 24. f5 {
+White gets more space} Rxf1+ $2 (24... Bg7 25. Rxe1 Rxe1+ 26. Kf2 Rxb1 27. Bxg7
+Rxb3 28. Qe4 Qxg7 29. Qe6+ Qf7 30. axb3 Qxe6 31. dxe6 gxf5 32. gxf5 Nxb3 33. f6
+$14) 25. Kxf1 $4 {forfeits the advantage} (25. Qxf1 Qf7 26. Bc3 b6 $18) 25...
+Qf7 $2 {(KITC):  ***25...Bg7 would lead to a loss followed by winning the pawn
+at g6, and the passed pawns must lead to an endgame win, especially since the
+bishop or knight could occupy e6.***  EDITOR'S NOTE:  Kit may be right, see
+variation below in red!} (25... Bg7 $142 {and Black can hope to live} 26. Bg5
+Qf7 $14) (25... Bg7 26. Bxg7 Qxg7 27. fxg6 hxg6 28. Qxg6 Qxg6 29. Bxg6) 26. g5
+(26. Bc3 $142 b6 27. Ne4 Rxe4 28. Qxe4 $18) 26... Qd7 $4 {(KITC):  ***Bg7
+would also lead to a loss.  Black hopes for fxg6, when Qh3+ with a little more
+play would follow.***    Rybka:  leading to a quick end} (26... Be7 $142 27.
+fxg6 hxg6 28. Qxg6+ Qxg6 29. Bxg6 Rf8 $18) 27. Qc3 {(KITC):  ***Threatening
+the knight, and protecting e1 from an obnoxious check by the enemy rook.***} (
+27. fxg6 $142 {seems even better} Bg7 28. Nh5 hxg6 29. Nxg7 Re5 30. Bxe5 dxe5
+$18) 27... b6 (27... Qf7 28. Qxa5 Bg7 $18) 28. fxg6 Qh3+ {
+(KITC):  ***All is nearly lost.  There are a few dying kicks, though.***} (
+28... hxg6 {doesn't get the bull off the ice} 29. Bxg6 Nxc4 30. bxc4 $18) 29.
+Kg1 h5 (29... hxg6 30. Bxg6 Nxc4 31. Bxe8 Ne5 32. Bxe5 Qc8 33. Nh5 Qg4+ 34. Kf2
+Bg7 35. Bxg7 Qxg5 36. Qf3 Qd2+ 37. Kg3 Qe1+ 38. Kh3 Qe7 39. Qg3 a6 40. Bf6+ Kf8
+41. Bxe7+ Kxe8 42. Bxd6 Kd8 43. Qg8+ Kd7 44. Qf8 a5 45. Nf6#) 30. Bf5 Qh4 31.
+g7 (31. Bd7 Qxg5 32. Bxe8 Bg7 33. Bxg7 Qf4 34. Bf7+ Qxf7 35. gxf7+ Kxf7 36.
+Qf6+ Kg8 37. Bh6 Nc6 38. Qg7#) 31... Bxg7 $18 32. Bxg7 (32. Be6+ $5 {
+and White can already relax} Rxe6 33. dxe6 Qg4 34. Bxg7 Qxg5 $18) 32... Qxg5
+33. Bf6 Qf4 (33... Qe3+ {no good, but what else?} 34. Qxe3 Rxe3 35. Be6+ Kh7
+$18) (33... Qe3+ 34. Qxe3 Rxe3 35. Be6+ Kf8 36. Kf2 Rd3 37. Ke2) 34. Be6+ Rxe6
+35. dxe6 h4 (35... Nc6 {there is nothing else anyway} 36. Nxh5 Qg4+ 37. Qg3
+Qxg3+ 38. Nxg3 Kf8 $18) 36. e7 Kf7 37. e8=Q+ $1 {Double attack: e5/e5.} Kxe8
+38. Qe1+ Kd7 39. Qe7+ Kc8 40. Qe8+ Kb7 41. Qe4+ Qxe4 42. Nxe4 (42. Nxe4 Kc6 43.
+Bc3 $18) 1-0
+
+[Event "Match 1949"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Adickes, W.C.."]
+[Black "Crittenden, Kit"]
+[Result "0-1"]
+[ECO "A52"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "84"]
+
+{A52: Budapest Gambit} 1. d4 (1. e4 Nf6 2. e5 Nd5 $14) 1... Nf6 2. c4 e5 3.
+dxe5 Ng4 {Black threatens to win material: Ng4xe5} 4. e4 {
+Black has a cramped position. Black's piece can't move: c8} (4. Bf4 Nc6 $11)
+4... d6 {Black threatens to win material: d6xe5} (4... Nxe5 5. f4 Nec6 6. a3
+$14) 5. Be2 (5. exd6 Qxd6 6. Qxd6 Bxd6 $16) 5... Nxe5 $14 6. f4 {
+White threatens to win material: f4xe5} Nec6 {Black has a cramped position} 7.
+Nc3 g6 {Controls h5} 8. Nf3 Bg7 {White has an active position} 9. O-O {
+White castles and improves king safety} O-O (9... Nd7 10. Be3 $14) 10. Rb1 {
+White has an active position} (10. f5 gxf5 11. Bd3 fxe4 12. Bxe4 h6 $14) 10...
+Nd7 (10... Re8 11. f5 $11) 11. Nd5 {Black's piece can't move: c8} (11. f5 $5
+$14 {might be a viable alternative}) 11... Nc5 $15 {
+Black threatens to win material: Nc5xe4} 12. Bd3 (12. Re1 Nxe4 13. Bf1 Re8 $17)
+12... a5 (12... f5 13. exf5 Nxd3 14. f6 Bxf6 15. Qxd3 $17) 13. Re1 (13. Be3 $5
+$11) 13... Bg4 14. Be3 Bxf3 (14... Nb4 15. Bc2 $17) 15. gxf3 $15 {
+White has the pair of bishops} Nd4 (15... Bd4 16. Bxd4 Nxd4 17. Bc2 $11) 16.
+Bf1 (16. Bc2 Nxc2 17. Qxc2 a4 $15) 16... Nce6 $15 17. Bh3 {
+White prepares the advance f5} Qh4 18. Kg2 (18. Bg2 c6 19. Qd2 Rae8 $17) 18...
+c6 19. f5 (19. Bf2 Qh6 20. Bxe6 Nxe6 21. f5 cxd5 22. fxe6 Qg5+ 23. Bg3 dxc4 24.
+h4 $15) 19... gxf5 (19... Ng5 $142 $5 20. Ne7+ Kh8 $17) 20. exf5 $11 Ng5 {
+Black threatens to win material: Ng5xh3} 21. Ne7+ (21. Bg4 $5 {is interesting}
+Ndxf3 22. Bxf3 Nxf3 23. Qxf3 (23. Kxf3 $143 Qh3+ 24. Kf2 Qxh2+ 25. Kf1 Qh3+ 26.
+Kf2 cxd5 $17) 23... cxd5 24. Kh1 $15) 21... Kh8 $15 22. Bxd4 $4 (22. Bg4 $142 {
+would save the game} Ngxf3 23. Bxf3 Nxf3 24. Qxf3 Qxe7 25. Bh6 $17) 22... Bxd4
+$19 (22... Qxh3+ $6 {is the weaker alternative} 23. Kh1 Qxf3+ 24. Qxf3 Nxf3 25.
+f6 Nxd4 26. fxg7+ Kxg7 27. Re4 $17) (22... Qxd4 $6 23. Qxd4 Bxd4 24. Rbd1 Bxb2
+25. Bg4 $11) 23. Bg4 Be5 24. Rxe5 (24. Kf1 {is not the saving move} h5 25. f4
+Nh3 (25... hxg4 $143 26. fxg5 Qxg5 27. Re4 $19) (25... Qxg4 $6 {
+is a weaker possibility} 26. Qxg4 hxg4 27. fxg5 $14 (27. fxe5 $143 dxe5 28. f6
+Nf3 $11)) 26. Bxh3 Qxh3+ 27. Ke2 Bf6 $19) 24... dxe5 25. f6 (25. Qe1 {
+does not help much} Qxe1 26. Rxe1 f6 $19) 25... Qh6 (25... Ne6 $142 {
+finishes off the opponent} 26. Nf5 Qxf6 27. Ng3 $19) 26. Qd6 e4 27. f4 $4 {
+sad, but how else could White save the game?} (27. Qf4 Qh4 28. Nf5 exf3+ 29.
+Kf1 $19) 27... Ne6 $1 {Decoy: f6} 28. f5 (28. Bxe6 Qxf6 {Decoy} (28... Qxf6 {
+Interception})) 28... Rad8 (28... Nf4+ {and Black can already relax} 29. Kh1
+Rfd8 30. Qc5 $19) 29. Qg3 Qxf6 (29... Rd3 $5 {seems even better} 30. fxe6 Rxg3+
+31. hxg3 Qxf6 32. Bf5 $19) 30. Ng6+ (30. fxe6 {is one last hope} fxe6 31. Qc3
+$19) 30... fxg6 31. fxe6 Rd2+ (31... Rd3 $142 {and Black has triumphed} 32. Qe1
+Qg5 33. Kh1 Qxg4 34. e7 $19) 32. Kg1 (32. Kh1 {does not save the day} Rxb2 33.
+Rxb2 Qxb2 $19) 32... Rxb2 33. Re1 Rf2 (33... Rxa2 {
+makes it even easier for Black} 34. Qe3 $19) 34. Qe3 (34. Kh1 {
+does not win a prize} Rf1+ 35. Rxf1 Qxf1+ 36. Qg1 Qxc4 $19) 34... Rf1+ 35. Kg2
+Rf2+ 36. Kg1 Rxa2 37. Bh3 (37. Rb1 {doesn't improve anything} Ra1 38. Re1 Rxe1+
+39. Qxe1 a4 $19) 37... Kg7 (37... Qb2 $142 {keeps an even firmer grip} 38. Re2
+Qxe2 39. Qxe2 Rxe2 40. e7 $19) 38. Rf1 (38. Bg4 {
+a fruitless try to alter the course of the game} Qh4 39. Qc3+ Kg8 $19) 38...
+Ra1 (38... Qe5 $142 {might be the shorter path} 39. Qg3 Rxf1+ 40. Bxf1 Qxg3+
+41. hxg3 Ra1 $19) 39. Rxa1 (39. Re1 Ra3 $1 {Deflection: f2} 40. e7 Rxe3 41.
+exf8=Q+ Qxf8 42. Rxe3 $19) 39... Qxa1+ 40. Kg2 Qf1+ 41. Kg3 Rf3+ 42. Kh4 (42.
+Qxf3 {cannot change what is in store for ?} Qxf3+ 43. Kh4 Kh6 44. Bf5 g5#)
+42... Qxh3+ (42... Qxh3+ 43. Kg5 h6#) 0-1
+
+[Event "National Jr. Champ 1949"]
+[Site "?"]
+[Date "1949.01.12"]
+[Round "?"]
+[White "Crittenden, Kit"]
+[Black "Cross, Jim"]
+[Result "0-1"]
+[ECO "C34"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "60"]
+
+{C34: King's Gambit Accepted: 3 Nf3: 3...Nf6 and 3...d6} 1. e4 e5 2. f4 (2. Nf3
+$5 $14 {should not be overlooked}) 2... exf4 $15 3. Nf3 Nf6 {
+Black threatens to win material: Nf6xe4} 4. e5 {
+White threatens to win material: e5xf6} Nh5 5. d4 (5. Be2 d6 6. O-O g6 $11)
+5... d5 6. Nc3 (6. Be2 g5 $15) 6... Be7 (6... Nc6 $5 $15 {
+is worthy of consideration}) 7. Be2 $11 g6 8. O-O {
+White castles and improves king safety} Be6 {In the style of Nimzovich} (8...
+Nc6 $11) 9. Bd3 (9. Ne1 $5 $14) 9... c5 (9... Nc6 10. a3 $15) 10. Bb5+ (10. Be2
+Nc6 $15) 10... Nc6 11. Ne2 (11. Na4 cxd4 12. Nxd4 Qc7 $15) 11... g5 $17 12. h3
+(12. c3 O-O $17) 12... Qd7 (12... Qb6 13. Bxc6+ Qxc6 14. Bd2 $17) 13. Bxc6 (13.
+b3 O-O $17) 13... bxc6 (13... Qxc6 14. b3 $17) 14. Kh2 (14. b3 cxd4 15. Nfxd4
+Bc5 $19) 14... Ng7 (14... h6 $5 15. b3 $17) 15. dxc5 $17 h5 {Black prepares g4}
+(15... h6 16. b4 $17) 16. Nfd4 Bxc5 17. Nxe6 $2 (17. h4 gxh4 18. Qd3 Bxd4 19.
+Nxd4 c5 20. Nxe6 fxe6 21. Bxf4 Nf5 $15) 17... fxe6 (17... Qxe6 18. b4 Bxb4 19.
+Nd4 $19) 18. g3 $2 (18. h4 Qe7 19. hxg5 Qxg5 $17) 18... Nf5 (18... fxg3+ 19.
+Kg2 $19) 19. gxf4 (19. Qd3 O-O-O 20. gxf4 gxf4 $17) 19... g4 $19 20. Ng3 Nxg3
+21. Kxg3 gxh3 22. Kxh3 O-O-O 23. Qd3 (23. b4 Bb6 24. f5 Rdg8 $19) 23... Rdg8 (
+23... Qg7 $5 24. Qg3 Qe7 $19) 24. Be3 $17 Bxe3 25. Qxe3 h4 (25... Qg7 $142 26.
+Rg1 Qf7 $17) 26. Rg1 $4 (26. Qc5 $142 $15 {would save the game}) 26... Rg3+ $1
+$19 {final destruction} 27. Rxg3 hxg3+ 28. Kg2 Qh7 29. Kf1 (29. Qxg3 {
+the only chance to get some counterplay} Rg8 30. Qxg8+ Qxg8+ 31. Kf3 $19) 29...
+Qh1+ 30. Qg1 (30. Ke2 Rh2+ 31. Kd3 Qxa1 32. Kc3 Qxa2 33. Qc5 Qc4+ 34. Qxc4 dxc4
+35. f5 exf5 36. e6 Rxc2+ 37. Kxc2 g2 38. Kc3 f4 39. Kd4 Kd8 40. Ke4 a5 41. Kf3
+c3 42. Kxg2 cxb2 43. Kf2 Ke7 44. Ke1 f3 45. Kf2 Kxe6 46. Ke3 Ke5 47. Kxf3 b1=Q
+48. Ke3 Qe4+ 49. Kd2 Kd4 50. Kc1 Kc3 51. Kd1 Qe5 52. Kc1 Qe1#) 30... Qh3+ (
+30... Qh3+ 31. Ke1 Qg4 $19) (30... Qf3+ 31. Ke1 Rh1 32. Kd2 Rxg1 33. Rxg1 Qf2+
+34. Kd3 Qxg1 35. b4 Qd1+ 36. Kc3 g2 37. Kb2 g1=Q 38. b5 Qb1+ 39. Ka3 cxb5 40.
+c3 Qgc1#) 0-1
+
+[Event "Milwaukee"]
+[Site "?"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Kujoth"]
+[Black "Crittenden"]
+[Result "1-0"]
+[ECO "D00"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "41"]
+[EventDate "1949.??.??"]
+
+{D00: 1 d4 d5: Unusual lines} 1. d4 () 1... d5 2. e3 Nf6 3. Bd3 e6 {Covers f5}
+4. f4 Nbd7 () 5. Nd2 c5 6. c3 cxd4 7. exd4 Be7 () 8. Ngf3 b6 9. Ne5 Nxe5 () 10.
+fxe5 $16 () 10... Nd7 11. O-O a5 () 12. Qg4 () 12... g6 $2 {Consolidates f5} ()
+13. Bc2 () 13... Bg5 $4 () 14. Nc4 $1 $18 {Discovered attack: d2, c1-g5} dxc4 (
+) 15. Bxg5 () 15... Qc7 () 16. Rxf7 $3 {Deflection: e6.} Kxf7 () 17. Rf1+ Kg7 (
+) 18. Bh6+ $3 {Deflection: f7} Kxh6 (18... Kxh6) 19. Rf7 Qd8 (19... Nf6 {
+is not the saving move} 20. Qf4+ g5 21. Rxf6+ Kh5 22. Bd1+ g4 23. Qxg4#) 20.
+Rxh7+ $3 {Decoy: h7} Kxh7 (20... Kxh7 21. Qxg6# {Decoy} (21. Qxg6# {Mate attack
+})) (20... Rxh7 21. Qxg6# {Mate attack}) 21. Qxg6# 1-0
+
+[Event "Western NC Open Winston Salem"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Adickes, W.C.."]
+[Black "Crittenden, Kit"]
+[Result "1-0"]
+[ECO "D34"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "44"]
+
+{D34: Tarrasch Defence: 6 g3 Nf6 7 Bg2 Be7} 1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5
+exd5 5. Nf3 Nc6 (5... Nf6 6. Bg5 $14) 6. g3 (6. dxc5 d4 7. Na4 Bxc5 8. Nxc5
+Qa5+ 9. Qd2 Qxc5 $14) 6... Nf6 $11 7. Bg2 Be7 {Black has an active position} 8.
+O-O O-O 9. dxc5 Bxc5 {Black has a very active position.} 10. Na4 {
+White threatens to win material: Na4xc5} Be7 11. Nd4 {The knight likes it on d4
+} (11. Be3 Bg4 $11) 11... Ne4 (11... Re8 12. Be3 $14) 12. Be3 Ne5 {
+Black has a very active position} 13. Rc1 Nc4 $2 (13... h6 $142 $14 {
+and Black can hope to survive}) 14. Rxc4 $1 $18 {Deflection: c4} dxc4 15. Bxe4
+Bf6 (15... Bh3 16. Bxb7 Bxf1 17. Bxa8 Bxe2 18. Qxe2 Qxa8 19. Qxc4 Bf6 $18) 16.
+Qc2 Bh3 17. Rd1 Qe7 (17... Qa5 18. Bxb7 Rad8 $18) 18. Bxh7+ Kh8 19. Bf5 Bxf5
+20. Nxf5 (20. Qxf5 $6 Rfd8 $18) 20... Qc7 21. Bd4 Bxd4 (21... Be5 {
+doesn't get the cat off the tree} 22. Nc3 Rad8 23. Qe4 $18) 22. Rxd4 b5 1-0
+
+[Event "NC Championship 1951"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Ashbrook, A.G.."]
+[Black "Crittenden, Kit   (Charles)"]
+[Result "0-1"]
+[ECO "D45"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "74"]
+
+{D45: Semi-Slav: 5 e3} 1. d4 (1. e4 Nc6 $11) 1... d5 2. c4 c6 3. Nc3 Nf6 (3...
+dxc4 4. e3 b5 5. a4 $11) 4. Nf3 (4. e3 g6 $11) 4... e6 (4... dxc4 5. Bf4 $11)
+5. e3 Nbd7 6. cxd5 exd5 7. Bd3 Bd6 (7... h6 8. Qc2 $11) 8. Bd2 (8. O-O O-O $11)
+8... O-O $11 9. Ng5 (9. O-O Re8 $15) 9... c5 (9... h6 10. Nf3 $15) 10. O-O h6 {
+Black threatens to win material: h6xg5} 11. Nf3 a6 {Controls b5} 12. Rc1 (12.
+a4 Re8 $15) 12... b6 (12... c4 13. Bc2 $11) 13. Bb1 (13. Nh4 c4 14. Bb1 Re8 $11
+) 13... Bb7 14. Na4 (14. Nh4 Re8 $15) 14... Ne4 (14... Re8 15. Nc3 $15) 15. Qc2
+(15. dxc5 bxc5 16. Bxe4 dxe4 $11) 15... Rc8 {
+Black plans c4. White has a cramped position. White's piece can't move: b1} (
+15... Re8 16. h3 $15) 16. Qd3 (16. Nc3 g6 $15) 16... f5 17. Qb3 (17. Nc3 Bc7
+$15) 17... c4 {Black threatens to win material: c4xb3} 18. Qd1 (18. Qc2 b5 19.
+Nc3 Bc6 $17) 18... g5 (18... b5 19. Nc3 $17) 19. Ne1 (19. Nc3 Qc7 $15) 19... g4
+(19... Qc7 20. Bxe4 fxe4 21. h3 $17) 20. f4 (20. Nc3 b5 $15) 20... gxf3 (20...
+Qe7 21. Nc3 $15) 21. Rxf3 (21. Nxf3 b5 22. Nc3 Rf7 $15) 21... Ndf6 (21... Qg5
+$17) 22. Bxe4 $2 (22. Rxf5 $142 $5 {should not be overlooked} Qd7 23. Bxe4 dxe4
+24. g4 $15) 22... fxe4 $17 (22... Nxe4 $6 23. Nc3 $15) (22... dxe4 23. Rxf5 Bc6
+24. Rxc4 $17) 23. Rf2 Rc7 (23... Bc6 $5 24. Nc3 $19) 24. g3 $17 Bc8 25. Ng2 Rg7
+26. Rc2 (26. Nc3 Bg4 27. Qf1 Bf3 $17) 26... Kh7 {White has a cramped position}
+(26... Bh3 27. Qf1 $19) 27. Be1 $2 (27. Nc3 $142 $5 $15 {is an interesting idea
+}) 27... Bg4 $19 28. Qd2 (28. Qc1 Bf3 29. Nc3 $19) 28... Bf3 29. Nf4 $2 (29.
+Qc1 $19) 29... Qe8 30. Rxf3 (30. Rc3 {does not improve anything} Bxf4 31. exf4
+Qxa4 $19) 30... exf3 (30... Qxa4 $6 {is a bad alternative} 31. b3 cxb3 32. axb3
+Qxb3 33. Rb2 $17) 31. Nc3 (31. Nxb6 {cannot undo what has already been done}
+Bxf4 32. exf4 Rb7 33. Nxc4 dxc4 $19) 31... Bxf4 32. exf4 Ne4 (32... Qh5 $142 $5
+{and Black can already relax} 33. Qd1 Re8 34. Bf2 $19) 33. Nxe4 (33. Qc1 b5 $19
+) 33... Qxe4 (33... dxe4 $6 34. Bf2 Qe6 35. Qe3 $19) 34. Bf2 Rxf4 35. Rc3 (35.
+b3 {is still a small chance} b5 36. Qd1 $19) 35... Qe2 36. Be3 (36. Qxe2 {
+desperation} fxe2 37. Rc2 Rxd4 38. Rxe2 Rd1+ 39. Re1 Rxe1+ 40. Bxe1 $19) 36...
+f2+ 37. Bxf2 Qxd2 (37... Qxd2 38. Rc1 Qxc1+ 39. Kg2 Qxb2 40. Kh1 Rxf2 41. Kg1
+Rxh2 42. a4 Qf2#) 0-1
+
+[Event "1953 Carolinas Championship"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Crittenden, Kit"]
+[Black "Ashbrook, AG."]
+[Result "1-0"]
+[ECO "D38"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "63"]
+
+{D38: Queen's Gambit Declined: Ragozin Defence (4 Nf3 Bb4)} 1. d4 Nf6 2. c4 e6
+3. Nc3 Bb4 4. e3 d5 5. Nf3 Ne4 {Black threatens to win material: Ne4xc3} (5...
+O-O 6. Bd2 $14) 6. Qc2 f5 7. Bd3 (7. Bd2 Be7 $14) 7... O-O (7... c6 8. cxd5
+exd5 9. O-O $11 (9. Bxe4 $143 fxe4 10. Ne5 Bd6 $15)) 8. O-O (8. Bd2 Qe7 $14)
+8... Bxc3 (8... c6 9. Bd2 Nxd2 10. Qxd2 $14) 9. bxc3 $14 c6 (9... Nc6 10. cxd5
+exd5 11. Ba3 $14) 10. Ba3 {White threatens to win material: Ba3xf8} Rf6 (10...
+Re8 11. Rab1 $16) 11. Ne5 Rh6 (11... Nd6 12. cxd5 cxd5 13. Rfc1 $16) 12. Bxe4 (
+12. f3 Ng5 13. cxd5 cxd5 14. c4 $16) 12... fxe4 $2 (12... dxe4 $142 $5 13. f3
+exf3 14. Nxf3 Nd7 $16) 13. f3 $18 exf3 $4 {Black falls apart} (13... Nd7 $142
+14. fxe4 Rf6 $18) 14. Rxf3 Rf6 (14... Qe8 {doesn't get the cat off the tree}
+15. Rf8+ Qxf8 16. Bxf8 Kxf8 17. Rf1+ Kg8 $18) 15. Raf1 (15. Rxf6 gxf6 16. Qf2
+fxe5 17. Qg3+ Kh8 18. Qxe5+ Kg8 19. Rf1 $18) 15... Nd7 16. Ng4 Rxf3 17. Rxf3 (
+17. gxf3 $6 Nb6 18. cxd5 Nc4 $11) 17... Qh4 18. Qf2 (18. Rf4 $142 $18 {
+would have made live much easier for White}) 18... Qxf2+ $11 19. Kxf2 h5 {
+Black threatens to win material: h5xg4} 20. Ne5 Nf6 (20... Nxe5 21. Rf8+ Kh7
+22. dxe5 dxc4 23. Rf7 $11) 21. Be7 Ng4+ (21... Nd7 $142 $5 $14 {
+should be examined more closely}) 22. Nxg4 $16 hxg4 23. Rf8+ Kh7 24. c5 b6 25.
+Kg3 Bb7 26. Rxa8 Bxa8 27. cxb6 axb6 28. Bd8 b5 (28... c5 29. Bxb6 cxd4 30. cxd4
+$18) 29. Kf4 Kg6 30. Ke5 c5 $2 (30... Kf7 31. Kd6 Bb7 32. Kc7 $18) 31. Kxe6 (
+31. dxc5 $142 {might be the shorter path} Kf7 32. Kd6 $18) 31... Kh7 $4 {
+Black crumbles in face of a dire situation} (31... g3 $142 32. h3 cxd4 33. exd4
+Bb7 $18) 32. Kd6 (32. Kd6 c4 33. Kc5 $18) 1-0
+
+[Event "UNC tourney for team standings"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Crittenden, Kit"]
+[Black "Makens, T. E. ."]
+[Result "1-0"]
+[ECO "C17"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "67"]
+
+{C17: French: 3 Nc3 Bb4 4 e5 c5 sidelines} 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 {
+White gains space} (4. exd5 exd5 5. Bd3 Nf6 $11) 4... c5 {The typical lever} 5.
+Bd2 cxd4 6. Nb5 Bxd2+ (6... Bc5 7. b4 Be7 8. Qg4 $11) 7. Qxd2 $14 Nc6 {
+Black threatens to win material: Nc6xe5} 8. Nf3 {
+White threatens to win material: Nf3xd4} (8. f4 Nh6 9. Nd6+ Kf8 $14) 8... Nge7
+(8... f6 9. Qf4 Qa5+ 10. Kd1 $11) 9. Nbxd4 O-O 10. Bd3 (10. O-O-O Bd7 $11)
+10... Nxd4 11. Nxd4 {Black has a cramped position} Qb6 12. c3 Nc6 {
+Black threatens to win material: Nc6xe5} 13. Nf3 f6 14. exf6 Rxf6 {
+Black has new hanging pawns: d5+e6} 15. O-O e5 {Black prepares the advance d4}
+16. Be2 (16. Bc2 d4 $14) 16... d4 (16... Be6 17. b4 Qc7 18. Ng5 $11) 17. cxd4
+$14 exd4 {Black has a new passed pawn: d4. .} 18. Rfe1 Bg4 19. Ng5 Bxe2 20.
+Qxe2 d3 (20... h6 $142 {and Black is still in the game} 21. Nf3 Rd6 $11) 21.
+Qxd3 $18 Qxf2+ 22. Kh1 Qf5 23. Qc4+ Kh8 24. Nf7+ Rxf7 25. Rf1 Raf8 26. Rxf5
+Rxf5 27. h3 Ne5 $2 (27... Rf4 $142 28. Qc3 Rd4 $18) 28. Qc7 $18 R8f7 29. Qb8+
+Rf8 30. Qxb7 Nd3 (30... R5f7 31. Qb4 Ng6 $18) 31. Qxa7 Nxb2 (31... h6 {
+doesn't change the outcome of the game} 32. Qd4 Nf2+ 33. Kh2 $18) 32. Qd4 Rb8 (
+32... Rb5 {is not much help} 33. Rc1 h6 34. Rc6 $18) 33. a4 (33. Re1 $142 $5 {
+and White can already relax} h5 $18) 33... Nxa4 34. Rxa4 1-0
+
+[Event "Oklahoma City (U.S. Open)"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Crittenden"]
+[Black "Bisguier"]
+[Result "0-1"]
+[ECO "D06"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "40"]
+[EventDate "1956.??.??"]
+
+{D06: Queen's Gambit: Symmetrical and Baltic Defences} 1. d4 d5 2. c4 c5 (2...
+e6 3. Nf3 $11) 3. cxd5 Nf6 {Black threatens to win material: Nf6xd5} (3... Qxd5
+4. e3 $14) 4. Nf3 (4. e4 Nxe4 5. dxc5 Nxc5 $14) 4... cxd4 ({Instead of} 4...
+Nxd5 5. dxc5 f5 6. e4 fxe4 7. Bb5+ Bd7 8. Qxd5 exf3 9. Bxd7+ Nxd7 10. Qxf3 $16)
+5. Qxd4 (5. Nxd4 Nxd5 6. Nf3 Be6 $11) 5... Qxd5 $11 6. Nc3 {
+White threatens to win material: Nc3xd5} Qa5 {Black king safety dropped} (6...
+Qxd4 7. Nxd4 a6 8. g3 $14) 7. Bd2 (7. b4 Qh5 8. Ne5 Nc6 9. Nxc6 bxc6 $14) 7...
+Nc6 $11 {Black threatens to win material: Nc6xd4} 8. Qh4 {
+Black king safety improved} Bg4 9. e3 {Controls d4} O-O-O 10. Rd1 (10. Rc1 Bxf3
+11. gxf3 e6 $11) 10... g5 {Black threatens to win material: g5xh4} 11. Qg3 ({
+Less advisable is} 11. Nxg5 Bxd1 12. Kxd1 Rg8 13. Nxf7 Rd7 $17) (11. Qxg5 $6
+Qxg5 12. Nxg5 Bxd1 13. Nxd1 Rg8 14. Nxf7 Rd7 $11) 11... h5 12. h4 gxh4 13. Qxh4
+{Black king safety improved} Qf5 14. Be2 e5 15. Rc1 (15. Qg5 Qe6 16. Qh4 Bh6
+$11) 15... Be7 (15... Kb8 16. Bb5 $15) 16. Qg3 (16. Qh2 Kb8 $15) 16... Bd6 {
+Black has a very active position} (16... Bb4 $5 $17) 17. Nb5 $11 {
+White threatens to win material: Nb5xa7} Bb8 {Black has an active position} 18.
+Bc3 {The pressure on e5 grows} (18. Ba5 $142 $1 {is worth consideration} Rd5
+19. b4 $11) 18... Ne4 $17 19. Qh4 f6 (19... a6 $142 $5 20. Na3 Bc7 $17) 20. Nd2
+(20. Ba5 $142 $1 {is an interesting alternative} Rd7 21. Ng1 Bxe2 22. Nxe2 $15)
+20... Bxe2 $17 (20... Bxe2 21. Qxe4 Qxe4 22. Nxa7+ Bxa7 (22... Nxa7 $6 23. Nxe4
+Bd3 24. Ba5+ Nc6 25. Bxd8 Bxe4 26. Bxf6 Bxg2 27. Rh2 $11) 23. Nxe4 Bc4 24. Nxf6
+Bb8 $17) 0-1
+
+[Event "Washington"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Crittenden"]
+[Black "Marchand"]
+[Result "0-1"]
+[ECO "D19"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "42"]
+[EventDate "1956.??.??"]
+
+{D19: Slav Defence: 5 a4 Bf5 6 e3: Main line with 9 Qe2} 1. d4 d5 2. c4 c6 3.
+Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 {Secures d5} 7. Bxc4 Bb4 8. O-O {
+White castles and improves king safety} Nbd7 9. Qe2 (9. Nh4 O-O $11) 9... O-O
+10. Rd1 Ne4 11. Bd2 (11. Nxe4 Bxe4 12. Bd2 Ba5 $11) 11... Nxd2 12. Rxd2 {
+Black has the pair of bishops} Qa5 13. e4 (13. Rc1 Nb6 $15) 13... Bxc3 $15 14.
+bxc3 Bxe4 15. Qxe4 Qxc3 {White wins a piece} 16. Rb1 $2 (16. Qb1 $142 $5 {
+is worth looking at} Qxc4 17. Qxb7 $15) 16... Qxc4 $17 17. Rxb7 $4 {
+sad, but how else could White save the game?.} (17. a5 $142 $17) 17... Nc5 $1
+$19 {Deflection: d4} 18. Rc2 (18. dxc5 Qc1+ {Double attack} (18... Qxe4 {
+Pinning}) (18... Qxe4 {Deflection}) (18... Qc1+ {Decoy})) 18... Nxe4 19. Rxc4
+Nd6 20. Rcb4 Nxb7 21. Rxb7 Rab8 (21... Rab8 22. Rxb8 Rxb8 $19) 0-1
+
+[Event "Virginia-NC Match 1957"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Crittenden, Kit"]
+[Black "Sigmund, Irwin"]
+[Result "0-1"]
+[ECO "E53"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "50"]
+
+{E53: Nimzo-Indian: Rubinstein: Main Line (4...0-0 5 Nf3 d5 6 Bd3 c5 7 0-0)} 1.
+d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 (6... Nc6 7. O-O $11)
+7. a3 Bxc3+ 8. bxc3 b6 9. O-O Bb7 (9... Ba6 10. cxd5 Qxd5 11. Bxa6 Nxa6 12. Ne5
+$14) 10. a4 (10. cxd5 Qxd5 11. c4 Qd6 $11) 10... Qc7 (10... dxc4 11. Bxc4 Qc7
+12. Nd2 $11) 11. cxd5 exd5 12. dxc5 (12. Ba3 Nbd7 $11) 12... bxc5 $11 13. Bb2
+Nc6 (13... Nbd7 $5 $11) 14. c4 $14 dxc4 15. Bxc4 {
+Black has a new passed pawn: c5. The bishop feels good on c4.} Rad8 {
+Black threatens to win material: Rd8xd1} (15... Ne4 16. Qe2 $14) 16. Qc2 (16.
+Qb1 $142 Na5 17. Bxf6 gxf6 18. Be2 $14) 16... Ng4 $4 (16... Nb4 17. Qf5 Qc8 18.
+Qf4 $14) 17. Qc3 $4 {a transit from better to worse} (17. Qf5 $142 {
+White would have gained the upper hand} Nf6 18. Bxf6 gxf6 19. Bd3 Rxd3 20. Qxd3
+$18) 17... Nd4 $14 18. exd4 cxd4 {White wins a piece. .} 19. Qb3 $4 {
+releasing the pressure on the opponent} (19. Bxf7+ $142 {would be a reprieve}
+Qxf7 20. Nxd4 $11) 19... Bxf3 $19 20. g3 Ne5 21. Rac1 (21. Rfc1 {
+is one last hope} Qd7 22. Re1 $19) 21... Qd7 22. Rfd1 Rb8 (22... d3 $142 {
+might be the shorter path} 23. Bxd3 Bxd1 $19) 23. Qa2 (23. Rxd4 {
+hoping against hope} Rxb3 24. Rxd7 Rxb2 25. Rc7 Nxc4 26. R7xc4 $19) 23... d3
+24. Be6 (24. Bxd3 {there is nothing else anyway} Nxd3 25. Rxd3 Qxd3 26. Qb1
+Qxb1 27. Rxb1 $19) 24... Rxb2 25. Qxb2 Qxe6 (25... Qxe6 26. Kf1 Bxd1 $19) (
+25... fxe6 $6 26. Qxe5 Rc8 27. Rxc8+ Qxc8 28. Rf1 $11) 0-1
+
+[Event "DC Championship Rd 8"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Crittenden, Kit"]
+[Black "Berliner, Hans"]
+[Result "1-0"]
+[ECO "D31"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "65"]
+
+{D31: Queen's Gambit Declined: Semi-Slav without ...Nf6 (+ Marshall Gambit and
+Noteboom) and Exchange Variation lines without ...Nf6} 1. Nf3 (1. e4 c5 $11)
+1... d5 2. d4 e6 (2... Nf6 3. Bf4 $11) 3. c4 (3. Bf4 Nf6 $11) 3... c6 (3... Nf6
+4. Nc3 $14) 4. Nc3 (4. g3 Nf6 $11) 4... Nd7 (4... dxc4 5. e3 $14) 5. e4 dxe4 6.
+Nxe4 Ngf6 {Black threatens to win material: Nf6xe4} 7. Bd3 c5 (7... Nxe4 8.
+Bxe4 Nf6 9. Bc2 $14) 8. Be3 (8. O-O cxd4 9. Nxd4 Be7 $14) 8... Nxe4 9. Bxe4 {
+Black has a cramped position. Black's piece can't move: c8} Nf6 {
+Black threatens to win material: Nf6xe4} 10. Bc2 Qc7 {
+Black has a cramped position} (10... Qa5+ 11. Bd2 Qa6 12. Qe2 $14) 11. O-O Bd6
+12. Re1 (12. dxc5 Bxc5 13. Re1 Bxe3 14. Rxe3 O-O $14) 12... Ng4 13. dxc5 Bxh2+
+14. Kh1 Nxe3 15. Rxe3 {Black has the pair of bishops} ({Less advisable is} 15.
+fxe3 Bg3 16. Rf1 Qxc5 17. Ba4+ Ke7 $15) 15... Bf4 {
+Black threatens to win material: Bf4xe3} 16. Ba4+ Ke7 {
+Black loses the right to castle} 17. Rd3 {White has a strong king attack} Qxc5
+18. Qe2 Qh5+ (18... Rd8 19. Rxd8 Kxd8 20. Qe4 $14) 19. Kg1 {
+White has a king attack} Bh2+ 20. Kf1 {White has a strong king attack} Bc7 21.
+Rad1 Rd8 22. Rxd8 Bxd8 {
+Black has a cramped position. Black's piece can't move: c8} 23. Qd2 {
+White has a mate threat} Bc7 24. Qb4+ Kf6 {
+Black has a cramped position. Black's piece can't move: c8} 25. Qc3+ e5 26. Bd7
+g5 (26... g6 $5 $11) 27. g4 $16 {White threatens to win material: g4xh5} Qh3+
+28. Ke2 h5 $4 {another bit of territory lost} (28... Kg7 $142 29. Qe3 Qh6 $16)
+29. Qd2 $18 Kg7 (29... Qxg4 {a last effort to resist the inevitable} 30. Bxg4
+Bxg4 31. Qxg5+ Ke6 $18) 30. Qxg5+ Kf8 31. Qf6 hxg4 32. Ng5 Qh5 (32... Qf3+ 33.
+Nxf3 gxf3+ 34. Kxf3 e4+ 35. Kxe4 Bh2 36. Bxc8 Rxc8 37. Qh8+ Ke7 38. Qxc8 Kf6
+39. Qf5+ Kg7 40. Qg5+ Kh7 41. Qh5+ Kg7 42. Qxh2 Kf6 43. Qh8+ Ke7 44. Qe5+ Kf8
+45. Rd8#) 33. Ne6+ (33. Ne6+ Kg8 34. Qg7#) 1-0
+
+[Event "Labate Elite"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Donaldson, John <USA>"]
+[Black "Crittenden, Charles"]
+[Result "1-0"]
+[ECO "A12"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "129"]
+[EventDate "1985.??.??"]
+
+{A12: English Opening: 1...c6 with b3 by White} 1. Nf3 d5 2. g3 (2. c4 e6 $11)
+2... Nf6 3. Bg2 Bf5 (3... g6 4. O-O $14) 4. c4 e6 5. O-O c6 6. b3 (6. cxd5 exd5
+(6... Nxd5 $143 7. d3 $16) 7. Qb3 Qb6 $11) 6... h6 {Prevents intrusion on g5}
+7. Bb2 Nbd7 8. d3 {Covers e4} Bc5 9. Nbd2 O-O 10. Qc2 (10. Qe1 Bh7 $11) 10...
+Qe7 11. e4 dxe4 12. Nxe4 Nxe4 13. dxe4 Bh7 14. Rad1 Rfd8 15. Qe2 a5 16. Bc3 {
+White has an active position} Bb4 17. Bd4 (17. Bb2 a4 18. Ne5 a3 $11) 17... e5
+{Black threatens to win material: e5xd4} 18. Bb2 a4 19. Bh3 (19. Ne1 axb3 20.
+axb3 Bd6 $15) 19... f6 {Controls g5} (19... axb3 $142 $5 {
+looks like a viable alternative} 20. Rxd7 Rxd7 21. Bxd7 Qxd7 22. Nxe5 Qd2 23.
+Qxd2 Bxd2 $17) 20. a3 $11 {White threatens to win material: a3xb4} Bd6 21. b4
+c5 22. b5 {White gains space} Nb6 23. Nh4 Qf7 {
+Black threatens to win material: Qf7xc4} 24. Rc1 Nd7 25. f3 Nf8 26. Ng2 Ne6 27.
+Bxe6 Qxe6 {Black has the pair of bishops} 28. Ne3 Kh8 29. Rfd1 Bc7 30. Nd5 {
+White threatens to win material: Nd5xc7} Ba5 31. Rd3 Bg8 32. Rcd1 Qe8 33. Qc2
+Bxd5 (33... Be6 34. Kg2 $14) 34. Rxd5 ({Not} 34. cxd5 c4 35. Qxc4 Rdc8 $17)
+34... Rxd5 (34... Bc7 35. h3 $14) 35. Rxd5 ({Less advisable is} 35. cxd5 Qxb5
+36. Kg2 Qb3 $17) 35... Bb6 {The bishop blocks b5} (35... Bd8 36. Qg2 $14) 36.
+Bc1 (36. Kg2 $16) 36... Rd8 (36... Bc7 37. Qd1 $16) 37. Qxa4 (37. Be3 Ra8 $18)
+37... Rxd5 $16 38. cxd5 c4+ 39. Kg2 Qc8 40. Qb4 c3 41. a4 Qc7 (41... Bd4 42. g4
+$16) 42. d6 Qd8 (42... Qc8 43. a5 Bd4 44. Qb3 $16) 43. Ba3 (43. Qxc3 $5 Qxd6
+44. a5 Bd4 45. Qc8+ Kh7 $18) 43... Ba5 44. Qc4 Kh7 (44... Qd7 45. g4 $18) 45.
+Qe6 Qb6 $4 {terrible, but the game is lost in any case} (45... Qg8 $142 46.
+Qxg8+ Kxg8 $18) 46. Qf5+ $18 Kh8 47. Qc8+ Kh7 48. Bc5 Qd8 49. Qxd8 (49. d7 $5 {
+keeps an even firmer grip} c2 50. Be3 h5 $18) 49... Bxd8 50. Kf1 Kg8 (50... c2
+51. Ba3 Bb6 $18) 51. Ke2 Ba5 52. Kd3 Kf7 53. d7 Ke6 54. Bb4 $3 {
+Double attack: b7/e6} Bd8 (54... Bxb4 55. d8=N+ {Double attack}) 55. Kxc3 b6 (
+55... Kxd7 {does not save the day} 56. a5 $18) 56. Kc4 g6 57. Bd2 h5 58. Be3
+Kxd7 (58... Kd6 {doesn't change the outcome of the game} 59. g4 h4 60. h3 $18)
+59. Kd5 g5 (59... Bc7 60. g4 $18) 60. g4 h4 (60... hxg4 {is not the saving move
+} 61. fxg4 Bc7 62. Bd2 $18) 61. h3 Bc7 62. Bd2 Bd8 63. Bc3 Bc7 64. Bb4 Bb8 65.
+a5 (65. a5 bxa5 66. Bxa5 $18) 1-0
+

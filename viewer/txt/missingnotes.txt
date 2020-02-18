@@ -1,0 +1,11 @@
+From McNeill-Dejong 
+
+(12. b4 Nec6 13. e5 dxe5 
+ (13... cxb4 $2 {is a blank shot} 14. Nxd4 Nxd4 15. Na4 $18)
+ (13... Nxb4 {again, the pawn cannot be taken} 14. Bxd4 cxd4 15. Ne4 $18) 
+ 
+ 14. fxe5 Nxf3+ 
+ 
+ (14... Nxb4 { once again taking the pawn will bring Black grief} 15. Bxd4 cxd4 16. Ne4 $18) 
+ 15. Rxf3 Bxe5 $16)
+ 

@@ -1,0 +1,302 @@
+[Event "Asheboro Open 41"]
+[Site "Asheboro "]
+[Date "2009.01.03"]
+[Round "3"]
+[White "Chumachenko , Andrey"]
+[Black "Simpson , Ron"]
+[Result "1-0"]
+[ECO "D13"]
+[WhiteElo "2445"]
+[BlackElo "2352"]
+[Annotator "Rybka 3 (120s)"]
+[PlyCount "45"]
+[EventDate "2009.??.??"]
+[SourceDate "2006.11.11"]
+
+{D13: Slav Defence: Exchange variation without ...Bf5} {Hi, this is FM RON
+SIMPSON with some comments on my game with FM Chumachenko.    ********** 
+First, some general comments:  I am preparing deeply for the "Land in the Sky"
+tournament, and my performance reflected this preparation.  The relationship
+between analyzing well and opening study appears to have a reciprocal nature.
+Throughout my games, I found myself unable to remain in the moment (analyzing
+each move independent of opening theory).  My games were quite instructive for
+me in respect to self reflection. Perhaps one day I will address this topic in
+greater depth!  **********  Now on to this game:  My preparation for
+Chumachenko was correct in that we entered the a6-Slav.  I had studied many
+positions in the Slav, but unfortunately for me the exchange variation was
+something I skimmed over.   **********} 1. d4 d5 2. Nf3 Nf6 3. c4 c6 (3... dxc4
+4. Qa4+ c6 5. Qxc4 $11) 4. Nc3 (4. e3 Bf5 $11) 4... a6 {Secures b5} (4... dxc4
+5. e3 Be6 6. Ng5 $11) 5. cxd5 (5. e3 g6 $11) 5... cxd5 6. Bf4 {(FM SIMPSON): 
+Now the game appeared simple, with little for me to be concerned about. Our
+opening struggle seemed to have subsided, and both sides were now ready to
+develop without any real danger looming. However, this is where inexperience
+CAN and DOES go wrong!  **********   (FM SIMPSON):  My feel for the position
+and my understanding of piece placement wasn't flowing!  It was as if I was in
+this position for the FIRST TIME, with only memories to guide me. I failed to
+think my way through to the next move, instead trying to recall previous
+studies.  **********} e6 {(FM SIMPSON):  Blocking my light squared Bishop!!} 7.
+e3 Nh5 {
+(FM SIMPSON):  Ah, as you can see now my brain is confused... 8-|  **********}
+(7... Nc6 8. Be2 $14) 8. Bg5 {White threatens to win material: Bg5xd8 
+**********  (FM SIMPSON):  Chumachenko played well, with straightforward moves
+taking little or no risk, but achieving a good position.  The basic difference
+between our play is that he is held to fundamental opening principles, while I
+am violated many of these principles!  **********} (8. Be5 Nc6 $14) 8... Qa5 (
+8... Qb6 9. a3 $14) 9. Nd2 Nf6 10. Bd3 (10. Rc1 Nc6 $14) 10... Nc6 (10... Be7
+11. O-O $14) 11. a3 {Covers b4} Bd6 (11... Be7 12. O-O $14) 12. O-O (12. Bxf6
+gxf6 13. Qg4 Ne7 $14) 12... Qc7 (12... Qd8 13. Rc1 $16) 13. f4 (13. Bxf6 gxf6
+14. Qh5 f5 $14) 13... h6 (13... Be7 14. Nf3 $16) 14. Bh4 (14. Bxf6 $5 gxf6 15.
+Qg4 $16) 14... g5 {Black threatens to win material: g5xh4} 15. Bg3 {(FM SIMPSON
+):  Ok, this position is interesting but I am not sure how to resolve the
+tension!  **********} h5 {
+Black prepares the advance g4  **********  (FM SIMPSON)  Ambitious on my part!}
+(15... Rg8 16. Rc1 $16) 16. Qf3 (16. fxg5 Ng4 17. Qf3 Bxg3 18. hxg3 Qe7 $16)
+16... g4 {(FM SIMPSON):  Better was gxf4.  (Editor--Analysis below)  **********
+} (16... gxf4 17. Bxf4 Bxf4 18. Qxf4 (18. exf4 $143 Qb6 19. Ne2 Ng4 $17) 18...
+Qxf4 19. Rxf4 $16) 17. Qf2 Ne7 (17... O-O 18. Rac1 $16) 18. Rac1 {(FM SIMPSON):
+Simple but effective.  (EDITOR's NOTE):  They don't call Andrey the Karpov of
+NC for nothing!  **********} (18. Bh4 Neg8 $18) 18... Qd8 {(FM SIMPSON): 
+Better was Qb6  **********  (FM SIMPSON):  I'm simply moving in the dark, with
+no real feel for the position, and most importantly with no imagination!!  I
+couldn't think of any good things to do.  **********} (18... Qb6 19. b4 $18)
+19. Bh4 $18 Ng6 $2 (19... Neg8 $18) 20. Bg5 Be7 $2 (20... Nf8 $18) 21. f5 exf5
+{(FM SIMPSON):  And the game is over for me!  (EDITOR's NOTE):  This position
+requires more than a passing glance by average players to understand why the
+game is over.  A rich position!  **********} (21... Nh7 {
+doesn't improve anything} 22. Bh6 (22. fxg6 $6 Nxg5 23. gxf7+ Kf8 $18) 22...
+Bh4 23. g3 $18) 22. Bxf6 (22. Bxf5 $142 $5 {keeps an even firmer grip} Be6 23.
+Bxf6 O-O $18) 22... Bxf6 23. Bxf5 {(FM SIMPSON):  I resigned at this point. 
+**********  (FM SIMPSON):  Andrey's game was solid and well-played.    
+**********  (FM SIMPSON):  Now for some closing thoughts:  Many chess players
+may think this was a bad tournament for me because of the score, but actually
+this was a great tournament for me. My preparation for the Land in the Sky has
+intensified, and I will be in better chess shape because of this tournament.  
+(FM SIMPSON):  I would love to see what your computer analysis has to say
+about some of the positions.     **********  (EDITOR's NOTE):  This was
+analyzed with DEEP RYBKA 3.0 on a dedicated, hopped up and tripped out
+computer monster.  I added an additional 30s per move, to total 120s per ply. 
+At this level, the computer normally sees at least 18 moves deep, and should
+be over 3000 in rating.} (23. Bxf5 O-O 24. Bxc8 $18) 1-0
+
+[Event "Asheboro Open 41"]
+[Site "Asheboro"]
+[Date "2009.01.03"]
+[Round "2"]
+[White "Simpson, Ron"]
+[Black "Jones, Craig"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2353"]
+[BlackElo "2300"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "75"]
+[EventDate "2009.??.??"]
+[SourceDate "2006.11.11"]
+
+{D11: Slav Defence: 3 Nf3 sidelines and 3...Nf6 4 e3 Bg4} {**********  (FM
+Simpson):  This game was a comedy of errors on both our parts.  I played the
+opening poorly, and he played the middle game poorly.  In all it balanced out,
+and both us were lucky to walk away with a draw!  I haven't added any comments
+to the game.  My game notation is incomplete because we were in time trouble! 
+The game ended in an interesting pawn vs Bishop configuration.    **********} 
+1. Nf3 d5 2. c4 c6 3. d4 (3. Qa4 dxc4 4. Qc2 Nf6 $11) 3... Nf6 (3... dxc4 4. e3
+$11) 4. b3 (4. e3 g6 $11) 4... Bf5 5. g3 e6 6. Bg2 Bb4+ 7. Nbd2 (7. Bd2 $142 {
+and White can hope to survive} Be7 8. O-O $11) 7... Bc3 $19 8. Ba3 Qa5 9. Bd6
+Ne4 10. Bf4 Bxa1 11. Qxa1 Qc3 12. Qd1 (12. O-O Qxa1 13. Rxa1 h6 $17) 12... Nxd2
+(12... Qb2 13. Nxe4 Bxe4 14. O-O $19) 13. Nxd2 (13. Qxd2 Qa1+ 14. Qc1 Qxa2 15.
+cxd5 exd5 $19) 13... Qxd4 $19 14. Qc1 O-O 15. O-O Nd7 16. Rd1 (16. Re1 Qb6 17.
+e4 dxe4 18. Nxe4 Rfd8 $19) 16... Qf6 (16... Qc5 17. Be3 Qe7 18. cxd5 exd5 19.
+Qb2 $19) 17. Nf3 (17. e4 e5 18. exf5 exf4 19. cxd5 cxd5 20. Bxd5 Rac8 $19)
+17... h6 18. Bd6 Rfe8 19. Ba3 (19. Nh4 Rac8 $19) 19... Ne5 (19... Be4 20. Bb2
+Qe7 21. cxd5 cxd5 22. Ba3 $19) 20. Ne1 (20. Nh4 $19) 20... dxc4 (20... Qg6 $142
+$5 $19) 21. Bb2 $17 Rad8 22. Rxd8 Rxd8 23. Qa1 (23. f4 Qe7 24. Bxe5 $19) 23...
+Rd2 24. Bxe5 Qd8 25. Bc3 $2 (25. bxc4 $142 Rd1 26. Qc3 $17) 25... Rd1 $19 26.
+Qb2 Rb1 27. Qa3 Qd1 28. g4 cxb3 29. gxf5 Qxe2 $4 {throws away the game} (29...
+Qc2 $142 $1 {and Black wins} 30. Qxb3 Rxb3 31. Nxc2 Rxc3 $19) 30. axb3 $11
+Rxe1+ 31. Bxe1 Qxe1+ 32. Bf1 Qe4 {Black threatens to win material: Qe4xf5} 33.
+Qd6 Qg4+ 34. Bg2 Qxf5 35. Qd1 (35. Qb8+ Kh7 $11) 35... g6 36. h3 a5 (36... c5
+37. Qd7 Qb1+ 38. Kh2 Qxb3 39. Qc8+ Kg7 40. Qxc5 $11) 37. Qd8+ $11 Kg7 38. Qd4+
+1/2-1/2
+
+[Event "Asheboro Open 41"]
+[Site "MyTown"]
+[Date "2009.01.04"]
+[Round "3"]
+[White "Dejong, Andrew"]
+[Black "Mabe, Chris"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[WhiteElo "1855"]
+[BlackElo "2281"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "92"]
+[EventDate "2009.??.??"]
+[SourceDate "2006.11.11"]
+
+{A25: English Opening vs King's Indian with ...Nc6 but without early d3} 1. c4
+(1. e4 Nc6 $11) 1... e5 2. g3 Nc6 3. Bg2 f5 (3... Nf6 4. Nc3 $11) 4. Nc3 Nf6 5.
+d3 {Secures e4} Bb4 6. Bg5 (6. Nf3 Be7 $14) 6... d6 (6... h6 7. Bd2 $14) 7. e3
+{Consolidates d4} h6 8. Bxf6 Qxf6 (8... Bxc3+ 9. bxc3 Qxf6 10. Rb1 $11) 9. Nge2
+O-O (9... f4 10. gxf4 exf4 11. Nxf4 Bxc3+ 12. bxc3 Qxc3+ 13. Kf1 $14) 10. O-O
+Qf7 (10... Bxc3 11. Nxc3 Nd8 12. d4 $14) 11. Nd5 $14 Ba5 12. Qa4 Be6 (12... Rb8
+13. b4 Bb6 14. d4 $14) 13. b4 (13. Ndf4 $5 exf4 14. Nxf4 $16) 13... Bb6 $14 14.
+Qc2 Ne7 (14... Nd8 $5 $11) 15. Nxb6 (15. Nxe7+ Qxe7 16. Bxb7 Rab8 $16) 15...
+axb6 16. Bxb7 Rab8 (16... Ra7 17. Bg2 $16) 17. Bg2 $16 f4 $2 (17... e4 $142 $5
+18. dxe4 Bxc4 $16) 18. exf4 $18 Qh5 (18... Bf5 19. a4 $18) 19. d4 (19. Rae1 Ng6
+20. Nd4 Bh3 21. Bxh3 Qxh3 22. fxe5 Nxe5 $18) 19... Bg4 (19... exf4 20. Nxf4
+Rxf4 21. gxf4 $18) 20. Rae1 Bf3 21. dxe5 dxe5 (21... Bxg2 22. Kxg2 dxe5 23. Qe4
+$18) 22. h3 (22. Bxf3 $5 {keeps an even firmer grip} Qxf3 23. fxe5 Nc6 $18)
+22... Bxg2 23. Kxg2 Nc6 (23... Qg6 24. Qc3 $18) 24. a3 (24. b5 {
+and White can already relax} Nd8 $18) 24... Ra8 (24... Rbd8 $142 $18) 25. Qe4
+Ne7 26. Ra1 (26. fxe5 $142 $5 {might be the shorter path} Rxa3 27. Nf4 Qf5 $18)
+26... Ng6 27. fxe5 Qxe5 28. Qxe5 (28. Qd5+ Kh7 29. Nd4 Rfd8 30. Qxe5 Nxe5 $18)
+28... Nxe5 $16 29. c5 (29. a4 c5 30. bxc5 bxc5 $18) 29... bxc5 30. bxc5 (30. f4
+Nc4 31. Rfc1 Rxa3 32. Rxa3 Nxa3 33. Rxc5 Rb8 $16) 30... Ra4 (30... Nd3 $5 $16)
+31. Nf4 Nc4 (31... g5 32. Nd5 $18) 32. Nd5 (32. Rfb1 Ra7 $18) 32... Kf7 $2 (
+32... Rf7 $142 $5 $16) 33. Rfe1 $18 Rd8 (33... c6 34. Re7+ Kg8 35. Nb6 Rxa3 36.
+Rxa3 (36. Nxc4 {is the less attractive alternative} Rxa1 37. Nd6 Ra2 $17) 36...
+Nxa3 37. Rc7 $18) 34. Nxc7 (34. Rad1 {seems even better} c6 35. Nb6 Rxd1 36.
+Rxd1 Nxb6 37. cxb6 Rxa3 $18) 34... Rc8 35. Ne6 Ra6 (35... Rxa3 36. Rac1 Ra6 37.
+Ng5+ hxg5 38. Rxc4 $18) 36. Nf4 (36. Rac1 $142 $5 {
+makes it even easier for White} Rxe6 37. Rxe6 Kxe6 38. Rxc4 Kd5 $18) 36... Rxc5
+37. Nd3 Rca5 38. f4 (38. Rac1 $142 {would have given White a clear advantage}
+Rd6 39. Rxc4 Rxd3 40. Rc7+ Kf6 41. Ree7 $18) 38... Rxa3 $14 39. Rxa3 Rxa3 40.
+Ne5+ Nxe5 41. Rxe5 {A rook endgame occured} Kf6 42. Rb5 Ra6 (42... g5 43. fxg5+
+hxg5 44. Kf2 $14) 43. Kf3 g6 44. g4 Rc6 45. Re5 Rc3+ 46. Re3 Rc6 1/2-1/2
+
+[Event "Asheboro Open 41"]
+[Site "MyTown"]
+[Date "2009.01.04"]
+[Round "2"]
+[White "King, Paul"]
+[Black "Dejong, Andrew"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "1851"]
+[BlackElo "1855"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "100"]
+[EventDate "2009.??.??"]
+[SourceDate "2006.11.11"]
+
+{A30: Symmetrical English: Double Fianchetto and Hedgehog} 1. Nf3 c5 (1... Nf6
+2. d4 $11) 2. b3 (2. e4 Nc6 $11) 2... Nf6 3. Bb2 e6 (3... Nc6 4. e3 $11) 4. c4
+(4. e3 Nc6 $11) 4... Nc6 5. e3 {Prevents intrusion on d4} g6 (5... d5 6. Na3
+$11) 6. Nc3 Bg7 7. Be2 O-O 8. O-O d5 9. d4 (9. cxd5 Nxd5 10. Qc1 Nxc3 11. Bxc3
+e5 $15) 9... b6 (9... cxd4 $5 10. exd4 h6 $11) 10. dxc5 $14 bxc5 (10... Ne4 11.
+Qc1 $16) 11. Na4 {White threatens to win material: Na4xc5} Qd6 (11... dxc4 $5 {
+deserves consideration} 12. Qc1 cxb3 13. axb3 Qe7 $14) 12. Rc1 $16 Nd7 {
+Black intends d4} 13. Bxg7 Kxg7 14. a3 (14. cxd5 exd5 15. Bb5 Kg8 $16) 14... d4
+{Black gains space} 15. Ng5 (15. exd4 $142 $5 Nxd4 16. Nxd4 Qxd4 17. Rc3 $16)
+15... f5 16. Qd2 e5 17. e4 $2 (17. b4 $142 $11 {
+and White could well hope to play on}) 17... h6 $19 18. exf5 (18. Nh3 fxe4 19.
+Bg4 Nf6 20. Bxc8 Raxc8 $19) 18... hxg5 19. fxg6 Qxg6 (19... Rb8 20. Rb1 $19)
+20. b4 $2 (20. Bg4 Rf4 21. Bxd7 Bxd7 22. Nxc5 Bf5 $19) 20... cxb4 (20... Qf5 $5
+21. Rce1 Qf4 22. Qb2 $19) 21. axb4 Nf6 (21... g4 22. b5 Nd8 23. f4 $17) 22. b5
+Ne7 (22... Rh8 23. bxc6 Qh6 24. f3 $17) 23. Nc5 (23. Rce1 Ne4 24. Qb2 Nd6 $17)
+23... Rh8 24. Bd3 $4 {leading to a quick end} (24. Qd3 $142 $17) 24... Qh6 (
+24... Qh5 {might be the shorter path} 25. f3 Qxh2+ 26. Kf2 Qh4+ 27. Ke2 $19)
+25. f3 (25. h3 {does not help much} Bxh3 $1 {a brilliant end} 26. gxh3 Qxh3 $19
+) 25... Qxh2+ 26. Kf2 Qf4 (26... Qh4+ $142 {finishes off the opponent} 27. Ke2
+Nf5 $19) 27. Qxf4 exf4 28. Rfe1 Kf7 (28... Ng6 29. Ra1 g4 30. Nb3 $19) 29. Re5
+(29. Nb3 $5 $17) 29... g4 $19 30. Rce1 Ng6 (30... g3+ 31. Kg1 Ng6 32. Rg5 $19)
+31. Rg5 (31. Bxg6+ Kxg6 32. Nd3 g3+ 33. Ke2 Rh4 $19) 31... g3+ 32. Kg1 Rh6 33.
+Ne4 Nxe4 34. Rxe4 $4 {White crumbles in face of a dire situation} (34. Bxe4
+$142 Rb8 35. Rd5 $19) 34... Be6 35. Rxd4 (35. Rxg6 {is not much help} Rxg6 (
+35... Kxg6 $143 36. Rxe6+ Kg7 37. Re7+ Kf6 38. Re4 $19) 36. Rxf4+ Rf6 37. Rxd4
+Rc8 $19) 35... Rah8 36. Bxg6+ Kf6 37. Rh5 Rxh5 38. Bxh5 Rxh5 39. Rxf4+ Ke5 (
+39... Ke7 $142 $5 {seems even better} 40. Re4 Rc5 41. Kf1 Rxc4 42. Re1 $19) 40.
+Re4+ Kd6 41. Rd4+ (41. f4 $19 {desperation}) 41... Kc5 42. Re4 Bxc4 43. Rg4
+Kxb5 44. Rxg3 a5 45. Rg7 Kb4 46. g4 Rh8 (46... Rd5 {
+makes it even easier for Black} 47. Kf2 $19) 47. Rb7+ Bb5 48. g5 (48. Rc7 {
+hardly improves anything} a4 $19) 48... a4 49. g6 (49. Re7 $19 {
+is still a small chance}) 49... Rg8 50. g7 (50. Rc7 {does not save the day}
+Rxg6+ 51. Kf2 a3 $19) 50... a3 (50... a3 51. Re7 a2 $19) 0-1
+
+[Event "Asheboro Open 41"]
+[Site "MyTown"]
+[Date "2009.01.04"]
+[Round "1"]
+[White "Dejong, Andrew"]
+[Black "Giannatos, Peter"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[WhiteElo "1855"]
+[BlackElo "2029"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "69"]
+[EventDate "2009.??.??"]
+[SourceDate "2006.11.11"]
+
+{A29: English Opening: Four Knights Variation with 4 g3} 1. c4 (1. e4 e5 $11)
+1... e5 2. g3 Nf6 3. Bg2 d5 (3... Bc5 4. Nc3 $11) 4. cxd5 Nxd5 {
+White has a cramped position. White's piece can't move: c1} 5. Nc3 Nb6 6. Nf3 {
+White threatens to win material: Nf3xe5} Nc6 7. O-O {
+White castles and improves king safety} Be7 8. e3 {Covers d4} (8. d3 O-O $11)
+8... Bg4 {White has a cramped position. White's piece can't move: c1} 9. h3 {
+White threatens to win material: h3xg4} Bh5 (9... Be6 10. d4 $11) 10. Ne2 (10.
+g4 $5 {might be a viable alternative} Bg6 11. d4 $14) 10... f5 {
+White has a cramped position. White's piece can't move: c1} 11. d4 {
+White threatens to win material: d4xe5} e4 {
+Black threatens to win material: e4xf3} 12. Nh2 g5 (12... Bf7 $5 $15 {
+is noteworthy}) 13. g4 $11 fxg4 14. hxg4 Bg6 {
+White has a cramped position. White's piece can't move: h2} 15. Ng3 {
+White threatens to win material: Ng3xe4} Qd5 (15... Qd7 16. Nxe4 O-O-O 17. Qb3
+$11) 16. Qc2 {Increasing the pressure on the isolated pawn on e4} Nb4 {
+Black threatens to win material: Nb4xc2} 17. Qb3 c6 {
+White's piece can't move: h2} 18. Bd2 Nd3 19. Qxd3 (19. f3 $142 $5 {
+is interesting} exf3 20. Bxf3 Qxb3 21. axb3 $11) 19... exd3 $15 20. Bxd5 Nxd5 {
+Black has the pair of bishops} (20... cxd5 $5 21. Nf3 Rc8 $15) 21. Nf3 $11
+O-O-O 22. Ne5 Bd6 23. Nxg6 (23. f4 gxf4 24. exf4 Bc7 $11) 23... hxg6 $15 24.
+Ne4 {White threatens to win material: Ne4xg5} Bc7 25. Nxg5 {A valuable piece} (
+25. Nc5 $5 $15 {has some apparent merit}) 25... Rh4 $17 26. f4 Re8 (26... Rdh8
+27. Rfd1 Bd8 28. Nf3 Rxg4+ 29. Kf2 Bh4+ 30. Kf1 $17) 27. Rfe1 $15 Nf6 {
+Black threatens to win material: Nf6xg4} (27... Rf8 $142 $5 {
+is worthy of consideration} 28. Nf3 Rxg4+ 29. Kf2 g5 $15) 28. Kg2 $14 Rxg4+ (
+28... a6 29. e4 Reh8 30. Rh1 Rxh1 31. Rxh1 Rxh1 32. Kxh1 $14) 29. Kf3 Rh4 30.
+Rg1 (30. Rh1 Reh8 31. Rxh4 Rxh4 $16) 30... Nd5 (30... Rh2 31. Rad1 $14) 31.
+Rae1 (31. Rh1 Rxh1 32. Rxh1 $16) 31... b6 {Controls a5} (31... Rh2 32. Rg2 Rh4
+33. Ne4 $11) 32. Rg4 {White threatens to win material: Rg4xh4} (32. Rh1 $142 $5
+Reh8 33. Rxh4 Rxh4 34. Ke4 $18) 32... Rh2 $14 {
+Black threatens to win material: Rh2xd2} 33. Rg2 {
+White threatens to win material: Rg2xh2} Rh4 34. Rg4 {Twofold repetition} Rh2
+35. Rg2 1/2-1/2
+
+[Event "Asheboro Open 41"]
+[Site "?"]
+[Date "2009.01.03"]
+[Round "1"]
+[White "Chumachenko, Andrey"]
+[Black "McNeill, Jonathon"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2428"]
+[BlackElo "1972"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "77"]
+[EventDate "2009.??.??"]
+[SourceDate "2006.11.11"]
+
+{D35: Queen's Gambit Declined: Exchange Variation} 1. d4 (1. e4 d6 $11) 1... d5
+2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. cxd5 exd5 6. Bf4 c6 {Consolidates b5} 7. Qc2
+O-O 8. e3 (8. h3 g6 $11) 8... Bg4 (8... Nh5 9. g3 $11) 9. Ne5 Bh5 10. Bd3 Nbd7
+11. h3 {Prevents intrusion on g4} Bg6 12. Nxg6 fxg6 {
+White has the pair of bishops} 13. O-O Kh8 14. a3 {Controls b4} Ne8 15. b4 (15.
+Be5 Nxe5 16. dxe5 Qd7 $14) 15... b5 {Black has a new backward pawn: c6} (15...
+Bd6 $5 $11) 16. Ne2 Rc8 17. Be5 (17. a4 a6 $16) 17... Nb6 $14 18. Nf4 Qd7 19.
+Be2 Rxf4 $2 (19... Nf6 $142 $14 {is the best option Black has}) 20. Bxf4 Nf6
+21. Be5 (21. Rfc1 a6 $18) 21... Bd6 (21... a6 22. Rfe1 $18) 22. Bxd6 Qxd6 23.
+Qc5 Qc7 (23... Qb8 24. Qc3 $18) 24. Bd3 Na4 25. Qc2 Qd7 26. Rfc1 Nb6 (26... a6
+27. Re1 $18) 27. a4 $1 {Decoy: a4} a6 (27... bxa4 28. Ba6 {Combination}) (27...
+Nxa4 28. Bxb5 {Decoy}) 28. axb5 axb5 29. Ra2 (29. Ra6 {
+might be the shorter path} Qb7 30. Qa2 Na4 $18) 29... Nc4 (29... Kg8 30. Be2
+$18) 30. Rca1 (30. Bxc4 $6 dxc4 31. Rca1 Qe8 $16) 30... Qe7 (30... Qe8 31. Ra6
+$18) 31. Ra8 Rxa8 (31... Rg8 $18 {is one last hope}) 32. Rxa8+ Ng8 33. Qc3 (33.
+Bxg6 {and White can already relax} hxg6 34. Qxg6 Qh4 35. Qxc6 Qe4 $18) 33...
+Qb7 (33... Nb6 {does not save the day} 34. Rxg8+ $1 {a convincing end} Kxg8 35.
+Qxc6 $18) 34. Qa1 Qe7 (34... Nb2 {there is nothing else anyway} 35. Bc2 Na4 $18
+) 35. Qa7 (35. Qa6 $142 {makes it even easier for White} Qd7 36. Qc8 Qxc8 37.
+Rxc8 g5 $18) 35... Qe6 (35... Qxa7 {the last chance for counterplay} 36. Rxa7
+Nb2 $18) 36. Qb8 Nd6 (36... Nb2 {cannot undo what has already been done} 37.
+Bxg6 $1 {Deflection: g8} hxg6 38. Qf8 $18) 37. Qf8 g5 38. Rd8 Ne4 39. Re8 (39.
+Re8 Qxe8 40. Qxe8 $18) 1-0

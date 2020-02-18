@@ -1,0 +1,655 @@
+[Event "North Carolina Open, Charlotte"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Steele David"]
+[Black "Sloan Sam"]
+[Result "1-0"]
+[ECO "A08"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "133"]
+[EventDate "1962.??.??"]
+
+{A08: King's Indian Attack} 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 {
+Controls e4} d5 6. Nbd2 c5 7. e4 dxe4 8. dxe4 Nc6 9. h3 {
+Prevents intrusion on g4} (9. Qe2 Qb6 $11) 9... h6 {Consolidates g5} 10. c3 {
+Secures b4+d4} (10. e5 Nh7 $11) 10... Be6 11. Qc2 (11. Qe2 Qb8 $15) 11... Qc7 (
+11... Qc8 12. Nb3 $15) 12. Ne1 (12. Nb3 Nd7 $15) 12... Rac8 (12... g5 $5 $15)
+13. Nd3 $11 b6 {Covers c5} 14. Nf4 Bd7 15. Re1 (15. Nd5 Nxd5 16. exd5 Ne5 $11)
+15... Rfd8 (15... Ne5 16. b3 $11) 16. Nf1 (16. Nd5 Qb8 $11) 16... e5 (16... Ne5
+$5 $15 {deserves consideration}) 17. Nd5 $11 Nxd5 18. exd5 {
+White has a new passed pawn: d5} Bf5 {Black threatens to win material: Bf5xc2}
+(18... Ne7 19. Ne3 $11) 19. Qe2 $14 Ne7 (19... Na5 20. Ne3 Bd7 21. c4 $14) 20.
+c4 (20. g4 Bd7 $14) 20... b5 21. b3 bxc4 22. bxc4 Rb8 23. Be3 (23. g4 Bd7 $14)
+23... Rb6 (23... Bc8 $5 $14) 24. g4 Bd7 (24... Bc8 $16) 25. Rab1 (25. Nd2 Nc8
+$16) 25... Rdb8 (25... Nc8 26. Nd2 $14) 26. Qd3 (26. Rxb6 axb6 27. Qd2 Nc8 28.
+Bxh6 Bf6 $16) 26... f5 (26... Nc8 27. Bd2 Ra6 28. Qc2 $11) 27. Nd2 (27. Rxb6
+Rxb6 28. Qd2 fxg4 29. hxg4 Bxg4 30. Bxh6 Bh8 $16) 27... f4 (27... Rxb1 $5 {
+is interesting} 28. Rxb1 Rxb1+ 29. Nxb1 Nc8 $14) 28. Rxb6 $16 Rxb6 29. Bxf4
+Bxg4 $2 (29... exf4 $142 $5 30. Rxe7 Qd6 $16) 30. Be3 Bf5 31. Qa3 Rb4 32. Bf1 (
+32. Nb3 $142 $5 Nc8 33. d6 Nxd6 34. Bxc5 $18) 32... Nc8 33. Nb3 Bf8 34. Qa5 (
+34. Bd2 $5 Rb8 35. Qc1 $16) 34... Qxa5 $11 35. Nxa5 Nb6 36. Nc6 {
+White threatens to win material: Nc6xb4} Ra4 {
+Black threatens to win material: Ra4xa2} 37. Nxe5 Rxa2 {
+Black has a new passed pawn: a7} 38. Ng4 {
+White threatens to win material: Ng4xh6} h5 {
+Black threatens to win material: h5xg4} 39. Nh6+ Kg7 $2 (39... Bxh6 $142 $5 {
+and Black can hope to survive} 40. Bxh6 Rb2 $11) 40. Nxf5+ $16 gxf5 41. Bf4 Ra4
+42. d6 Nd7 43. Bd3 (43. h4 $16) 43... Kf6 (43... Ra3 $142 $5 44. Bb1 h4 $16)
+44. h4 $18 Ra6 45. Bg5+ Kf7 (45... Kg6 46. Be7 Ra3 47. Bc2 $18) 46. Be7 Rb6 (
+46... Rxd6 47. Bxd6 Bxd6 48. Ra1 $18) 47. Bxf5 Nf6 (47... Bxe7 48. Rxe7+ (48.
+Bxd7 {is no comparison} Rxd6 49. Bb5 a6 $15) 48... Kf6 49. Bh3 $18 (49. Bxd7 $6
+{is much weaker} Rxd6 50. Rh7 Kg6 51. Bf5+ Kxf5 $14)) 48. Bxf8 (48. Kg2 $142 $5
+{might be the shorter path} a5 49. Kf3 Rxd6 50. Bxd6 Bxd6 $18) 48... Kxf8 49.
+d7 $4 {White has a mate threat. releasing the pressure on the opponent} (49.
+Re6 $142 Kf7 50. Kg2 $18) 49... Rb8 $4 (49... Rd6 $142 $14 {would be a reprieve
+}) 50. Ra1 $18 Rd8 (50... Ke7 {what else?} 51. Rxa7 Rb4 $18) 51. Rxa7 Ke7 52.
+Rc7 Nxd7 53. Kf1 Kd6 54. Rxd7+ Rxd7 55. Bxd7 Kxd7 56. Ke2 Ke6 57. Ke3 Kf5 58.
+f4 Kg4 59. Ke4 Kxh4 (59... Kh3 {doesn't change the outcome of the game} 60. f5
+Kxh4 61. Kf4 Kh3 62. f6 Kg2 63. f7 Kf2 64. f8=Q Ke2 65. Qd6 h4 66. Ke4 Ke1 67.
+Qh2 Kd1 68. Kd3 Kc1 69. Qc2#) 60. f5 (60. Kf3 Kh3 61. f5 Kh2 62. f6 Kh3 63. Kf4
+Kg2 64. f7 Kf2 65. f8=Q Ke2 66. Qd6 h4 67. Ke4 h3 68. Qh2+ Kf1 69. Kf3 Ke1 70.
+Qe2#) 60... Kg5 $18 61. Ke5 h4 62. f6 Kh6 63. Ke6 h3 64. f7 Kg7 65. Ke7 h2 66.
+f8=Q+ Kh7 67. Qf3 (67. Qf3 h1=Q 68. Qxh1+ Kg6 69. Qd5 Kg7 70. Qg5+ Kh7 71. Kf6
+Kh8 72. Qg7#) (67. Kf6 h1=Q 68. Qg7#) 1-0
+
+[Event "Queen City Open, Charlotte NC"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Steele David"]
+[Black "Sloan Sam"]
+[Result "1-0"]
+[ECO "A36"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "75"]
+[EventDate "1962.??.??"]
+
+{A36: Symmetrical English vs ...g6: 4 Bg2 Bg7} 1. c4 (1. e4 Nf6 $11) 1... Nf6
+2. Nc3 c5 3. g3 Nc6 4. Bg2 g6 5. e3 {Prevents intrusion on d4} Bg7 6. Nge2 O-O
+7. O-O d6 8. a3 {Covers b4} (8. d4 Rb8 $11) 8... Rb8 (8... a6 9. Rb1 $11) 9.
+Rb1 Be6 (9... Bg4 10. b4 $11) 10. d3 {Covers c4+e4} d5 (10... Qc8 11. Nf4 $11)
+11. Nf4 $14 dxc4 12. Nxe6 fxe6 13. dxc4 Na5 (13... Qxd1 14. Rxd1 Rbd8 15. Rxd8
+Rxd8 16. Bxc6 bxc6 17. Kf1 $14) 14. b3 a6 {Controls b5} (14... Qc7 15. Qe2 $16)
+15. Qe2 (15. Bh3 Kf7 $16) 15... Qc7 16. Bd2 Rfc8 (16... Rbd8 17. Na4 $16) 17.
+e4 (17. Bh3 $5 Kf7 18. Na4 $16) 17... Nc6 $14 18. Qe1 b5 19. cxb5 (19. f4 e5
+$14) 19... axb5 20. Bh3 (20. a4 bxa4 21. bxa4 Qd7 $14) 20... Nd4 $11 21. f4 b4
+{Black threatens to win material: b4xc3} 22. Ne2 (22. axb4 cxb4 (22... Rxb4 $2
+23. e5 Nd7 24. Ne2 $18) 23. Na4 Nc2 $11) 22... Nxe4 (22... bxa3 $2 {
+fails because of} 23. Nxd4 cxd4 24. Bxe6+ Kf8 25. e5 $16) 23. Nxd4 Bxd4+ (23...
+Nxd2 24. Nxe6 Qd6 25. Rd1 $11) 24. Be3 $11 Qc6 (24... Rd8 $5 {
+is worthy of consideration} 25. Bxe6+ Kg7 26. axb4 cxb4 $11) 25. Bxd4 $16 cxd4
+{Black has a new passed pawn: d4.} 26. Bg2 bxa3 27. Qxe4 Qb6 (27... Qxe4 28.
+Bxe4 Rb4 $16) 28. Rfd1 (28. Bh3 $142 $5 Rc6 29. Ra1 $16) 28... d3+ 29. Kh1 a2 {
+Black threatens to win material: a2xb1Q} 30. Ra1 {
+White threatens to win material: Ra1xa2} Qxb3 {White wins a piece. .} 31. Qxd3
+(31. Bf1 Rc3 32. Bxd3 Rb4 33. Qa8+ Kf7 $11) 31... Rc3 (31... Qxd3 $5 32. Rxd3
+Rc2 $15) 32. Qe4 Re3 {Black threatens to win material: Re3xe4} 33. Qd4 (33. Qc6
+$142 Re2 34. Bf1 $11) 33... Rb4 $4 {gives away a clear win} (33... Re2 $142 $17
+) 34. Qd2 (34. Qd8+ Kf7 35. Rd7 Qb1+ 36. Bf1 Qe4+ 37. Kg1 Rxg3+ 38. hxg3 Qe3+
+39. Kh2 Rb2+ 40. Bg2 Rxg2+ 41. Kxg2 Qe2+ 42. Kh1 Qe4+ 43. Kh2 Qe2+ 44. Kg1 Qe3+
+45. Kf1 Qf3+ 46. Ke1 Qxg3+ 47. Kd2 Qxf4+ 48. Kc3 Qe5+ 49. Kb4 Qb2+ 50. Ka5 Qc3+
+51. Ka6 Qa3+ 52. Kb7 Qb3+ 53. Ka7 Qe3+ 54. Kb8 Kf6 55. Qxe7+ Kf5 56. Rd5+ Kg4
+57. Rg5+ Kf3 58. Qb7+ Kf4 59. Rag1 Qxg1 60. Rxg1 Ke5 61. Re1+ Kf6 62. Qb2+ Kf7
+63. Rf1+ Ke7 64. Kc7 a1=Q 65. Qb4+ Ke8 66. Qf8#) 34... Qb2 $4 {
+Black crumbles in face of a dire situation} (34... Rb6 35. Rdc1 Kg7 36. Qd4+ e5
+37. fxe5 $18) 35. Rxa2 (35. Qxe3 $142 {and White takes home the point} Qb3 36.
+Qxb3 Rxb3 37. Rxa2 $18) 35... Qxd2 36. Raxd2 ({Less advisable is} 36. Rdxd2
+Re1+ 37. Bf1 Rxf1+ 38. Kg2 Rfb1 $15) 36... Rb8 (36... Kg7 37. Bf1 $18) 37. Rd8+
+Kf7 $4 {the position was bad, and this mistake simply hastens the end} (37...
+Rxd8 38. Rxd8+ Kg7 $18) 38. Rxb8 1-0
+
+[Event "North Carolina"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Sloan Sam"]
+[Black "Steele David"]
+[Result "0-1"]
+[ECO "A65"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "52"]
+[EventDate "1959.??.??"]
+
+{A65: Modern Benoni: 6 e4} 1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6
+6. e4 g6 {Black has a cramped position} (6... Be7 7. Nf3 $14) 7. Bd3 {
+Black is behind in developement} Bg7 8. f3 {Consolidates g4} (8. h3 $5 $14)
+8... O-O {Black castles and improves king safety} 9. Bg5 Qa5 10. Nge2 Nbd7 11.
+h4 {Black has a cramped position. Black's piece can't move: c8} (11. O-O Ne5
+$15) 11... Ne5 12. g4 $4 (12. O-O $142 $11 {would bring relief}) 12... Nxf3+
+$19 13. Kf2 Bxg4 (13... Nxg5 {might be the shorter path} 14. hxg5 Nxg4+ 15. Ke1
+$19) 14. Qf1 (14. Kg3 {is no salvation} Ne5 15. Rf1 Nh5+ 16. Kg2 h6 $19) 14...
+Ne5 (14... Nh5 $142 {keeps an even firmer grip} 15. Qc1 Ne5 16. Bc2 $19) 15.
+Ke3 (15. Bc2 {doesn't change anything anymore} Qb4 16. Qb1 Rae8 $19) 15... Nfd7
+(15... Nh5 {and Black can already relax} 16. Rc1 $19) 16. Be7 (16. Kd2 {
+does not help much} f5 17. Qg2 Nxd3 18. Kxd3 Bf3 $19) 16... Rfe8 (16... f5 17.
+exf5 Rae8 18. Bxf8 Nxd3+ 19. Kxd3 Bxe2+ 20. Nxe2 Qb5+ 21. Kd2 Qxb2+ 22. Kd1
+Qxa1+ 23. Nc1 Rxf8 24. Qe1 Rxf5 25. Rh2 $19) 17. Bxd6 (17. Bg5 {
+does not solve anything} h6 18. Bb5 hxg5 19. hxg5 Qb4 $19) 17... Qb6 (17... c4
+$142 {finishes off the opponent} 18. Bc2 Qb6+ 19. Kf4 Qxd6 20. Kg3 Bxe2 21. Nb5
+Nd3+ 22. Nxd6 Be5+ 23. Kg2 Bxf1+ 24. Raxf1 Bxd6 25. Bxd3 cxd3 26. Kf3 $19) 18.
+Bxe5 Bxe5 (18... Nxe5 {makes it even easier for Black} 19. Bb5 Rf8 20. h5 c4+
+21. Kd2 $19) 19. Na4 (19. Bc2 {does not improve anything} Qxb2 20. Kd2 Bxe2 21.
+Nxe2 Qb4+ 22. Ke3 Bxa1 23. Qxa1 Qc4 $19) 19... Qb4 20. Bc2 (20. Nec3 {
+cannot change destiny} f5 $1 {Decoy: f5} 21. Kd2 fxe4 $19) 20... f5 21. Qg2 (
+21. Nac3 {otherwise it's curtains at once} Qxb2 22. Qc1 Bxc3 23. Qxb2 Bxb2 24.
+Rab1 $19) 21... Bd4+ 22. Nxd4 Qxd4+ 23. Kf4 Nf6 24. Nc3 Nh5+ 25. Kg5 Kg7 (25...
+Qe3#) 26. exf5 (26. Qxg4 {doesn't do any good} h6#) 26... h6# 0-1
+
+[Event "Capital City Open"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Sloan, Sam"]
+[Black "Steele, David"]
+[Result "0-1"]
+[ECO "D85"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "108"]
+[EventDate "1959.??.??"]
+
+{D85: Exchange Grünfeld: Unusual White 7th moves and lines with 7 Nf3} 1. d4
+Nf6 2. c4 g6 3. Nc3 d5 (3... Bg7 4. e4 $14) 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7
+7. Be3 c5 8. Nf3 Nc6 (8... Qa5 9. Qd2 $11) 9. Be2 (9. Rc1 cxd4 10. cxd4 O-O $14
+) 9... O-O (9... Bg4 $5 10. e5 cxd4 11. cxd4 Qa5+ 12. Bd2 Qd5 $11) 10. O-O $14
+cxd4 11. cxd4 b6 (11... f5 12. Qb3+ Kh8 13. Rad1 $14) 12. Rc1 {
+White threatens to win material: Rc1xc6} (12. d5 Bxa1 13. Qxa1 Na5 $14) 12...
+Bb7 (12... Na5 13. d5 $16) 13. Qd2 {Black has a cramped position} (13. d5 Na5
+$16) 13... Qd7 (13... e6 14. Rfd1 $14) 14. Rc2 {White has an active position} (
+14. d5 Na5 $16) 14... Rfd8 (14... Na5 15. d5 $11) 15. Rd1 (15. Rfc1 Rac8 16. d5
+Na5 $14) 15... e6 16. Bb5 Rac8 $2 (16... Qd6 $142 $14) 17. Rc3 $4 {
+gives the opponent counterplay} (17. d5 $142 {
+the advantage is on the side of White} Qe7 18. dxc6 (18. Bxc6 $6 Bxc6 19. Rdc1
+exd5 20. exd5 Bb7 $11) 18... Rxd2 19. Rcxd2 (19. Rdxd2 $6 Ba8 $14) 19... Bxc6
+20. Bxc6 $18) 17... a6 $11 18. Ba4 b5 {Black threatens to win material: b5xa4}
+19. Bb3 Qd6 (19... Ne7 20. Rxc8 Nxc8 21. Bg5 $11) 20. a3 {
+White has an active position} (20. Rcc1 $142 $14) 20... Qxa3 $4 {
+a transit from better to worse} (20... Nb8 $142 {
+and Black could well hope to play on} 21. Bf4 Qxa3 $11) 21. Bxe6 $1 $18 {
+Decoy: e6} Qe7 (21... fxe6 22. d5 {Double attack} (22. Rxa3 {Discovered attack}
+) (22. d5 {Decoy})) 22. Bxc8 Rxc8 23. Qd3 (23. Bh6 $142 Bxh6 24. Qxh6 $18)
+23... Rd8 $16 24. Rdc1 Nb4 25. Qd2 Qxe4 (25... Bxe4 26. Rc7 Qf8 27. Ng5 $16)
+26. Rc7 (26. Bg5 $142 f6 27. Re3 $16) 26... a5 $4 {
+further deteriorates the position} (26... Nd3 27. Ra1 Ne5 $16) 27. Rd1 (27. Bg5
+$142 {and White wins} Rb8 28. Re1 $18) 27... h6 {Controls g5} (27... Qd5 $142
+$11) 28. Ne1 (28. h3 $142 $5 {and White has air to breath} Na6 29. Rcc1 $14)
+28... Nd5 $15 29. f3 $4 (29. Rc5 $142 {was possible} b4 30. Rxa5 $17) 29...
+Qxe3+ $19 30. Qxe3 Nxe3 31. Rd3 Bxd4 (31... Bd5 {keeps an even firmer grip} 32.
+Rxe3 Bxd4 33. Nc2 $19) 32. Rxd4 $4 {the position is going down the drain} (32.
+Rxb7 $142 a4 33. Kf2 Nc4+ 34. Kf1 $19) 32... Rxd4 $19 33. Rxb7 b4 34. Kf2 Nd1+
+35. Ke2 a4 36. Nc2 (36. Nd3 {a fruitless try to alter the course of the game}
+b3 37. Ra7 Nc3+ 38. Ke3 Rxd3+ 39. Kxd3 b2 $19) 36... Nc3+ 37. Ke3 Rc4 (37...
+Rh4 $142 {and Black can already relax} 38. Kd3 b3 39. Ne3 $19) 38. Nxb4 (38.
+Kd3 {a last effort to resist the inevitable} b3 39. Nd4 $19) 38... Rxb4 $1 {
+Decoy: b4} 39. Rxb4 (39. Ra7 {does not win a prize} Nb5 40. Ra5 a3 $19) 39...
+Nd5+ 40. Kd3 Nxb4+ 41. Kc4 a3 42. Kb3 a2 43. Kb2 Kf8 (43... Kg7 {
+seems even better} 44. f4 Kf6 45. Ka1 $19) 44. h3 (44. Ka1 {
+does not save the day} Ke7 45. Kb2 Ke6 $19) 44... Ke7 45. g3 (45. Ka1 {
+there is nothing better in the position} Ke6 46. g3 $19) 45... Kd6 46. g4 Kc5 (
+46... g5 47. Kc3 Kc5 48. h4 a1=Q+ 49. Kd2 gxh4 50. Ke2 h3 51. Kf2 h2 52. Kg3
+h1=Q 53. Kf4 Qf6+ 54. Ke3 Qe1#) 47. f4 Kc4 48. h4 {White plans g5} Kd4 49. g5
+h5 50. f5 gxf5 51. Ka1 (51. g6 {doesn't get the cat off the tree} fxg6 52. Ka1
+f4 53. Kb2 f3 54. Kb3 a1=Q 55. Kxb4 Qb1+ 56. Ka5 Kc5 57. Ka4 Qa2#) 51... Kc3
+52. g6 Kb3 53. gxf7 f4 (53... Nc2#) 54. f8=Q Nc2# 0-1
+
+[Event "KP-RL"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Steele, D.."]
+[Black "Potter"]
+[Result "0-1"]
+[ECO "C82"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "64"]
+[EventDate "1966.??.??"]
+
+{C82: Open Ruy Lopez: 9 c3 without 9...Be7} 1. e4 e5 2. Nf3 {
+White threatens to win material: Nf3xe5} Nc6 3. Bb5 a6 4. Ba4 Nf6 {
+Black threatens to win material: Nf6xe4} 5. O-O Nxe4 6. d4 {
+White threatens to win material: d4xe5} b5 {
+Black threatens to win material: b5xa4} 7. Bb3 d5 8. dxe5 Be6 9. c3 {
+Prevents intrusion on b4} Bc5 10. Nbd2 Nxd2 (10... O-O 11. Bc2 Nxf2 12. Rxf2
+Bxf2+ 13. Kxf2 $11) 11. Bxd2 O-O 12. Bg5 Be7 13. Bxe7 Nxe7 (13... Qxe7 14. Re1
+$14) 14. Bc2 (14. Qd4 Qd7 $14) 14... Nf5 (14... c5 15. a4 $14) 15. Nd4 {
+White threatens to win material: Nd4xf5} (15. a4 c6 $14) 15... Qd7 16. Qd3 g6 {
+Secures f5} 17. f4 (17. Qd2 Rfb8 $14) 17... c5 $11 {
+Black threatens to win material: c5xd4} 18. Nf3 (18. Nxf5 Bxf5 19. Qe2 d4 20.
+Bxf5 Qxf5 21. cxd4 cxd4 $11) 18... d4 19. cxd4 (19. Ng5 $142 $5 {
+should be examined more closely} c4 20. Qh3 $11) 19... Bc4 $17 20. Qe4 (20. Qc3
+Bxf1 21. Bxf5 Qxf5 (21... gxf5 $143 22. Kxf1 cxd4 23. Qd3 $17) 22. Rxf1 cxd4
+23. Nxd4 Qd7 $17) 20... Bxf1 21. Rxf1 (21. Kxf1 Nxd4 22. Nxd4 cxd4 $19) 21...
+cxd4 (21... Nxd4 22. Rd1 Qf5 23. Qxf5 Nxf5 24. Bxf5 gxf5 25. Kf2 $19) 22. Rd1 (
+22. Bb3 Qa7 23. e6 fxe6 $17) 22... Rfd8 (22... Qa7 $142 $5 23. Bb3 d3+ 24. Kh1
+Rad8 $19) 23. Bb3 $15 Kg7 {Black king safety dropped} 24. Ng5 {White intends e6
+} Re8 $4 {Black is ruining his position} (24... Nh6 $5 $15) 25. e6 $4 {
+White threatens to win material: e6xd7. gives the opponent new chances} (25.
+Bxf7 $142 {would have given White a clear advantage} h6 26. Bxe8 Rxe8 27. Nf3
+$18) 25... Qe7 $11 26. g4 f6 27. Nf3 (27. gxf5 fxg5 28. Qxd4+ Qf6 29. fxg5
+Qxd4+ 30. Rxd4 gxf5 31. Rd7+ Kg6 $11) 27... Nd6 {
+Black threatens to win material: Nd6xe4} (27... Ne3 28. Rxd4 Nxg4 29. f5 gxf5
+30. Qxf5 $17) 28. Qxd4 (28. Qe2 d3 29. Rxd3 Nc4 $15) 28... Red8 29. g5 $2 {
+White wins space} (29. Re1 $142 $15 {is the best option White has}) 29... Nf5
+30. Qc3 $2 (30. Qe4 Qc5+ 31. Kg2 Ne3+ 32. Kg3 Nxd1 33. Qb7+ Kh8 34. gxf6 $15)
+30... Rxd1+ 31. Bxd1 Qxe6 32. Kf2 (32. gxf6+ Qxf6 33. Qc7+ Ne7 34. Qd7 $19)
+32... Qb6+ (32... Qb6+ 33. Ke1 Qe3+ 34. Be2 Qxc3+ 35. bxc3 Ne3 $19) 0-1
+
+[Event "North Carolina Inv"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Steele"]
+[Black "Taylor"]
+[Result "0-1"]
+[ECO "A57"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "112"]
+[EventDate "1976.??.??"]
+
+{A57: Benko/Volga Gambit} 1. d4 (1. e4 c5 $11) 1... Nf6 2. c4 c5 3. d5 {
+This push gains space} b5 4. cxb5 a6 5. e3 (5. bxa6 Nxa6 6. Nc3 e6 $11) 5... g6
+(5... Bb7 6. Nc3 Qa5 7. Bd2 axb5 8. Nxb5 $11) 6. Nc3 d6 (6... Bg7 7. Nf3 $14)
+7. Bc4 {A sound move} (7. Nf3 Bh6 $14) 7... Bg7 8. Nge2 (8. Nf3 O-O $14) 8...
+O-O 9. O-O Nbd7 10. b3 (10. bxa6 Ne5 11. Bb5 Bxa6 12. Bxa6 Rxa6 $14) 10... Nb6
+11. Bb2 axb5 12. Nxb5 {White has a new passed pawn: a2} Bb7 {
+Black threatens to win material: Bb7xd5} 13. Nf4 Qd7 14. a4 {
+White has a new backward pawn: b3} Rfd8 (14... Nxc4 $5 15. bxc4 Nxd5 16. Bxg7
+Nxf4 17. exf4 Kxg7 $11) 15. Rb1 Nxc4 (15... Bh6 16. Bxf6 exf6 17. h4 $14) 16.
+bxc4 e6 (16... Rdb8 17. h3 $16) 17. e4 (17. Nxd6 $5 Qxd6 18. Bxf6 Bxf6 19. Rxb7
+$16) 17... e5 $14 {Black threatens to win material: e5xf4} 18. Nd3 Nxe4 19. f4
+(19. Re1 f5 $14) 19... exf4 $11 20. Bxg7 Kxg7 21. Nxf4 {
+Black king safety dropped} Bc8 $2 (21... Re8 $5 $11 {must be considered}) 22.
+Qc2 (22. Qf3 Qe7 23. Rbe1 f5 $16) 22... Qe7 23. Rbe1 f5 (23... Re8 24. Nc3 Bf5
+25. Nh5+ Kh8 26. Nb5 $16) 24. Nc3 Re8 25. Nxe4 fxe4 26. Ne6+ Bxe6 27. Rxe4 Qd7
+28. dxe6 Rxe6 29. Ref4 (29. Qc3+ Kg8 30. Ref4 Ree8 $16) 29... Re5 (29... Ree8
+30. Qc3+ Kg8 31. Qf3 Qxa4 32. Qd5+ Kh8 33. Qxd6 $16) 30. Qf2 $16 Ra7 31. a5 Rf5
+$2 (31... Qe8 $142 $14 {and Black can hope to live}) 32. Qb2+ $18 (32. Rxf5 $6
+Qxf5 33. Qb2+ Qe5 34. Qxe5+ dxe5 $16) 32... Re5 33. Qb8 (33. a6 $142 $18 {
+White clearly has the better chances}) 33... Qe7 $16 34. Qb6 (34. h3 $5 $16)
+34... Re2 $14 35. h3 (35. Rf7+ $142 Qxf7 36. Rxf7+ Rxf7 37. h3 $14) 35... Qb7 (
+35... Kh6 36. R4f2 Rxf2 37. Kxf2 $11) 36. Qxb7+ (36. Rf7+ $142 $5 Qxf7 37.
+Rxf7+ Rxf7 38. Qxd6 $16) 36... Rxb7 $11 {A double rook endgame occured} 37. Ra1
+(37. R4f2 $142 $5 {must definitely be considered} Re8 38. Rd1 $11) 37... Rbb2
+$17 38. Rg4 Ra2 39. Rxa2 (39. Rd1 Re6 $17 (39... Rxa5 $6 40. Rxd6 Ra7 41. Rd5
+$11)) 39... Rxa2 40. Rf4 Rxa5 41. Kf2 (41. Rf1 Ra4 42. Rd1 Ra6 $17) 41... Ra3 (
+41... Ra2+ 42. Kf3 $19) 42. h4 h6 43. g4 Ra4 44. Ke3 (44. Kg3 $142 $5 $17)
+44... g5 $19 45. hxg5 hxg5 46. Rf5 Rxc4 47. Rxg5+ Kf6 48. Rg8 (48. Rd5 $142 Ke6
+49. Rg5 $19) 48... d5 49. Kd3 Rd4+ 50. Kc3 Rc4+ 51. Kd3 Ra4 52. Ke3 Ra3+ $4 {
+not a good decision, because now the opponent is right back in the game} (52...
+Re4+ $142 {and Black gets the upper hand} 53. Kf3 Ke5 $19) 53. Kf4 $15 Ra6 (
+53... Ke6 $142 54. Rg6+ Kd7 $15) 54. Ke3 $4 {throwing away the advantage} (54.
+g5+ $142 {saving the game} Ke7 55. Rg7+ Kf8 56. Rc7 $11) 54... Re6+ $19 55. Kd3
+c4+ (55... Re4 $142 $19 {and Black has reached his goal}) 56. Kd2 $4 (56. Kd4
+$142 $11 {this is the best way to fight back}) 56... Ke5 (56... Ke5 57. Kc3 Kd6
+$19) 0-1
+
+[Event "Carolinas Open"]
+[Site "Charlotte"]
+[Date "1975.06.28"]
+[Round "?.3"]
+[White "David Steele"]
+[Black "Jeff Smeltzer"]
+[Result "1-0"]
+[ECO "C47"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "33"]
+[EventDate "1975.??.??"]
+
+{C47: Scotch Four Knights and Four Knights with 4 g3} {
+DAVID STEELE:  Jeff was the South Carolina champion.} 1. e4 e5 2. Nf3 Nc6 3.
+Nc3 (3. Bb5 a6 4. Ba4 Nf6 $11) 3... Nf6 $11 4. d4 (4. Be2 d5 5. exd5 Nxd5 $11)
+4... exd4 5. Nd5 (5. Nxd4 Bb4 6. Nxc6 bxc6 $11) 5... Nxe4 6. Qe2 f5 7. Ng5 d3
+8. cxd3 Nd4 9. Qh5+ g6 {Black threatens to win material: g6xh5} 10. Qh4 c6 11.
+dxe4 cxd5 12. exd5 Nc2+ $4 {(STEELE) [A  mistake.  Bg7  keeps  the  game 
+fairly  even.  ] throwing away the advantage} (12... Qa5+ $142 13. Bd2 Qa4 $17)
+13. Kd1 $18 Nxa1 (13... h6 14. Kxc2 Be7 $18) 14. Bb5 (14. Qd4 $142 {
+makes it even easier for White} Qe7 15. Qxh8 $18) 14... Be7 $4 {
+Black falls apart} (14... Qf6 $142 15. Re1+ Be7 $16) 15. Re1 $18 Kf8 (15... Nc2
+{what else?} 16. Kxc2 Qc7+ 17. Kb1 Qc5 $18) 16. Qh6+ Kg8 17. d6 $1 {
+Mate attack. . . . . .} (17. d6 Qc7 18. dxc7 Bxg5 19. Bc4+ d5 20. Bxd5+ Be6 21.
+Bxe6#) 1-0
+
+[Event "NC Closed"]
+[Site "Chapel Hill"]
+[Date "1974.08.31"]
+[Round "1"]
+[White "Joan Schmidt"]
+[Black "David Steele"]
+[Result "0-1"]
+[ECO "B40"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "42"]
+[EventDate "1974.??.??"]
+
+{B40: Sicilian: 2...e6, Unusual lines} 1. e4 c5 2. Nf3 e6 (2... Nc6 3. Nc3 $14)
+3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 (5... Nc6 6. Be3 $11) 6. Bd3 {
+Black has a cramped position. Black's piece can't move: c8} (6. e5 Nd5 7. Qg4
+g6 $14) 6... e5 {Black threatens to win material: e5xd4} (6... d6 7. O-O $11)
+7. Nf5 {White threatens to win material: Nf5xg7} (7. Nde2 O-O $11) 7... O-O $11
+{Black castles and improves king safety} 8. O-O Bxc3 9. bxc3 {
+White has the pair of bishops} d5 {Black threatens to win material: d5xe4} (
+9... d6 $142 $11) 10. Bg5 $4 {allows the opponent back into the game} (10. Ba3
+$142 {and White can hope to live} Bxf5 11. Bxf8 Bxe4 12. Bc5 $11) 10... dxe4
+$19 11. Bxf6 Qxf6 12. Bxe4 Bxf5 13. Bxb7 Nc6 14. Bxa8 Rxa8 15. Re1 (15. Qe2 h6
+$19) 15... Qg6 16. Qf3 Re8 {Black intends e4} 17. Rab1 Bxc2 18. Rb7 h6 {
+Black plans e4} 19. Rc7 (19. Qd5 Bf5 20. Rc7 Re6 $19) 19... e4 20. Qe3 $2 (20.
+Qg3 $142 Qf6 21. h3 $19) 20... Ne5 21. Qg3 (21. Rc1 {
+the only chance to get some counterplay} Ba4 22. Qxa7 $19) 21... Qb6 (21... Qb6
+22. Rc8 Rxc8 23. Qxe5 Qc6 $19) 0-1
+
+[Event "NC Closed"]
+[Site "Chapel Hill"]
+[Date "1974.08.31"]
+[Round "2"]
+[White "David Steele"]
+[Black "Jim Watson"]
+[Result "1-0"]
+[ECO "C51"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "43"]
+[EventDate "1974.??.??"]
+
+{C51: Evans Gambit: Declined and Accepted without 5...Ba5} 1. e4 e5 2. Nf3 Nc6
+3. Bc4 Bc5 4. b4 (4. c3 $5 $11) 4... Bxb4 $15 ({Worse is} 4... Nxb4 5. c3 (5.
+Nxe5 $143 Qf6 6. O-O Qxe5 $17) 5... Nc6 6. O-O $11) 5. c3 {Covers d4} Be7 (5...
+Bd6 6. O-O $11) 6. d4 $11 {White threatens to win material: d4xe5} Na5 {
+Black threatens to win material: Na5xc4} (6... exd4 7. Qb3 Na5 8. Bxf7+ Kf8 9.
+Qa4 Kxf7 10. Qxa5 $11) 7. Nxe5 Nxc4 8. Nxc4 d5 9. exd5 Qxd5 {
+White king safety dropped.} 10. Ne3 {White threatens to win material: Ne3xd5}
+Qa5 11. O-O {White castles and improves king safety} Nf6 12. Re1 Be6 13. c4 O-O
+{Black castles and improves king safety} 14. Bd2 Bb4 (14... Qa6 15. d5 Bd7 16.
+Bc3 $11) 15. Bxb4 Qxb4 16. Nd2 b6 17. Qc2 Rad8 {
+Black threatens to win material: Rd8xd4} 18. Nf3 Rfe8 19. Ne5 (19. Rac1 Rb8 $11
+) 19... Qd6 ({Weaker is} 19... Rxd4 20. Nc6 Qc5 21. Nxd4 Qxd4 22. Qa4 $16) 20.
+f4 Bc8 (20... Qxd4 21. Nc6 Qxf4 22. g3 $11) 21. Rad1 Re7 $4 (21... g6 $142 $11
+{was a good chance to save the game}) 22. c5 $18 (22. c5 bxc5 23. dxc5 Qxd1 24.
+Rxd1 $18 (24. Qxd1 $6 Rxd1 25. Rxd1 Be6 $11)) 1-0
+
+[Event "NC Closed"]
+[Site "Chapel Hill"]
+[Date "1974.09.01"]
+[Round "3"]
+[White "Lee Taylor"]
+[Black "David Steele"]
+[Result "0-1"]
+[ECO "B47"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "74"]
+[EventDate "1974.??.??"]
+
+{B47: Sicilian: Taimanov: 5 Nc3 Qc7 6 f4, 6 g3 and 6 Be2} 1. e4 c5 2. Nf3 e6 3.
+d4 cxd4 4. Nxd4 a6 {Secures b5} (4... Nf6 5. Bd3 $11) 5. g3 {
+Black is behind in developement. Black's piece can't move: c8} (5. Nc3 Qc7 $11)
+5... Nf6 {Black threatens to win material: Nf6xe4} (5... d5 6. Nf3 $11) 6. Bg2
+{Black is behind in developement. Black's piece can't move: c8} Qc7 7. O-O Nc6
+(7... Be7 8. Qe2 d6 9. Rd1 $11) 8. Nc3 Be7 9. Be3 (9. Re1 d6 $11) 9... O-O 10.
+Nxc6 (10. Qe2 h6 $11) 10... bxc6 11. f4 d5 12. f5 {White gains space} (12. e5
+Nd7 $11) 12... Bb7 (12... dxe4 13. fxe6 Bxe6 14. Nxe4 $15) 13. Kh1 (13. fxe6 $5
+fxe6 14. Na4 $11) 13... Rad8 14. e5 (14. fxe6 fxe6 15. Bg5 d4 $15) 14... Qxe5
+$17 15. Bb6 (15. Bd4 Qd6 $17) 15... Rde8 16. Bd4 Qc7 17. fxe6 fxe6 18. Qe2 Bd6
+19. Bxf6 Rxf6 20. Rxf6 gxf6 21. Rf1 Qg7 (21... Qe7 22. a3 $17) 22. Qh5 (22. Na4
+Qe7 $17) 22... Rf8 (22... Re7 23. Qf3 $19) 23. Ne2 (23. Qe2 Qf7 $17) 23... Qg6
+(23... f5 24. Nf4 Bc8 25. Nd3 $19) 24. Qh3 (24. Qf3 f5 $17 (24... Qxc2 $6 25.
+Qg4+ Kh8 26. Qxe6 $11)) 24... Bc8 $19 25. c4 (25. Nd4 $5 $19) 25... e5 26. Qh4
+Qg4 {Black prepares the advance d4} (26... Bg4 27. Ng1 e4 28. cxd5 cxd5 29. Nh3
+$19) 27. Qxg4+ (27. Rxf6 Qxh4 (27... Qxe2 $6 28. h3 Rxf6 29. Qxf6 $17) 28.
+Rxf8+ Kxf8 29. gxh4 e4 $19) 27... Bxg4 28. Nc3 (28. Nc1 e4 $19) 28... d4 29.
+Na4 (29. h3 Be6 30. Ne4 Be7 $19) 29... Be2 30. Rc1 (30. Ra1 Bxc4 31. Nb6 Be6
+$19) 30... d3 31. Nc3 (31. Rb1 {doesn't improve anything} Rb8 32. b3 f5 $19)
+31... Bb4 32. Ne4 (32. Nxe2 {no good, but what else?} dxe2 33. Bxc6 e1=Q+ 34.
+Rxe1 Bxe1 35. b3 $19) 32... f5 33. Nf2 e4 34. a3 (34. Nd1 {
+a fruitless try to alter the course of the game} e3 $1 {Decoy: e3} 35. Nxe3 Bd2
+$19) 34... d2 35. Ra1 (35. Rc2 {hardly improves anything} Rd8 36. Rxd2 Rxd2 $19
+) 35... Bc5 (35... e3 $142 {finishes off the opponent} 36. h4 Bxc4 37. Bf3 exf2
+38. axb4 $19) 36. Nd1 Bxc4 37. b4 (37. h4 {
+a last effort to resist the inevitable} Re8 38. Nc3 $19) 37... Bd4 (37... Bd4
+38. Rb1 Bd3 $19) 0-1
+
+[Event "NC Closed"]
+[Site "Chapel Hill"]
+[Date "1974.09.01"]
+[Round "4"]
+[White "David Steele"]
+[Black "Greg Samsa"]
+[Result "1-0"]
+[ECO "D35"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "57"]
+[EventDate "1974.??.??"]
+
+{D35: Queen's Gambit Declined: Exchange Variation} 1. c4 (1. e4 e6 $11) 1...
+Nf6 2. Nc3 e6 {Consolidates d5} (2... e5 3. Nf3 $11) 3. Nf3 d5 4. d4 Be7 5. e3
+(5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 Nd7 $14) 5... O-O $11 6. cxd5 (6. Bd3 dxc4 7.
+Bxc4 h6 $11) 6... exd5 7. Bd3 Re8 8. O-O {
+White castles and improves king safety} Nbd7 (8... Bd6 9. Re1 $11) 9. b3 c6 {
+Controls b5} 10. Qc2 Bd6 11. Rb1 (11. Re1 Re7 $14) 11... Qe7 12. Nd2 Bc7 13. e4
+dxe4 14. Ndxe4 Nxe4 15. Nxe4 ({Not} 15. Bxe4 Nf6 16. Bf3 g6 $17) 15... Nf8 16.
+Re1 (16. Bg5 Qb4 $11) 16... Be6 17. Bg5 f6 (17... Qd7 18. Nc5 Qxd4 19. Be3 $15)
+18. Bh4 g5 {Black threatens to win material: g5xh4} (18... Rad8 19. Nc5 Qf7 20.
+f3 $14) 19. Bg3 $14 Kg7 $2 (19... Bxg3 $142 {and Black can hope to survive} 20.
+fxg3 Rad8 $14) 20. Nxf6 $18 Kxf6 21. d5 $1 {Deflection: c6} cxd5 (21... cxd5
+22. Qc3+ {Double attack} (22. Qxc7 {Pinning}) (22. Qxc7 {Deflection}) (22. Qc3+
+{Decoy})) (21... Bxd5 22. Rxe7 {Pinning} (22. Rxe7 {Deflection}) (22. Qb2+ {
+Decoy})) 22. Bxc7 (22. Qxc7 $6 Qxc7 23. Bxc7 Bf5 24. Bxf5 Kxf5 $14) 22... Rac8
+$2 (22... Ng6 $142 $5 $18) 23. Be5+ Kf7 24. Qe2 Kg8 25. Ba1 Qd6 (25... Ng6 26.
+Bb5 $18) 26. Qh5 Bf7 27. Qxg5+ Bg6 (27... Ng6 28. g3 d4 29. Rxe8+ Rxe8 30. Rd1
+$18) 28. h4 (28. Qg4 $142 $5 {might be the shorter path} a6 29. Qd4 Re7 $18)
+28... Kf7 (28... Ne6 {there is nothing better in the position} 29. Rxe6 $1 {
+takes home the point} Rxe6 $18) 29. h5 1-0
+
+[Event "NC Closed"]
+[Site "Chapel Hill"]
+[Date "1974.09.02"]
+[Round "6"]
+[White "David Steele"]
+[Black "Ken Collins"]
+[Result "1/2-1/2"]
+[ECO "B74"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "42"]
+[EventDate "1974.??.??"]
+
+{B74: Sicilian Dragon: Classical System with 9 Nb3} 1. e4 c5 2. Nf3 d6 {
+Consolidates e5} 3. d4 cxd4 4. Nxd4 {
+Black is behind in developement. Black's piece can't move: f8} Nf6 {
+Black threatens to win material: Nf6xe4} 5. Nc3 g6 {Prevents intrusion on f5}
+6. Be2 {Black is behind in developement} Bg7 7. O-O O-O 8. Be3 Nc6 9. Nb3 {
+Black has a cramped position} (9. h3 Bd7 $11) 9... Be6 10. f4 Qc8 11. h3 {
+White has a very active position} Rd8 {Black has a cramped position} 12. Bf3 {
+White has a very active position} Bc4 {Black threatens to win material: Bc4xf1}
+13. Rf2 e5 14. Nd5 (14. Nd2 exf4 15. Nxc4 fxe3 16. Nxe3 Qe6 $15) 14... Bxd5 (
+14... Nxd5 $5 15. exd5 Ne7 $17) 15. exd5 $15 Ne7 16. fxe5 (16. Qd3 $142 $5 $15
+{is interesting}) 16... dxe5 $17 17. Bg5 Nexd5 18. Qf1 (18. Bxd5 $142 Rxd5 19.
+Qe2 $17) 18... Nf4 (18... e4 $142 $5 19. Be2 Qe6 $17) 19. Re1 {
+White threatens to win material: Re1xe5} Re8 20. Bxf6 Bxf6 {
+Opposite coloured bishops appeared} 21. Bg4 Qc7 1/2-1/2
+
+[Event "NC Closed"]
+[Site "Raleigh"]
+[Date "1979.09.01"]
+[Round "1"]
+[White "Duchess (Duke Computer Progra"]
+[Black "David Steele"]
+[Result "0-1"]
+[ECO "C01"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "64"]
+[EventDate "1979.??.??"]
+
+{C01: French: Exchange Variation} 1. e4 e6 2. d4 b6 (2... d5 3. exd5 exd5 4.
+Nf3 $11) 3. Nf3 Bb7 4. e5 {White gets more space} (4. Nc3 Bb4 5. Bd3 Bxc3+ 6.
+bxc3 Nf6 $14) 4... f5 (4... c5 5. Nc3 $11) 5. Bc4 {
+Black is behind in developement} Ne7 (5... a6 6. d5 b5 7. Bb3 $16) 6. O-O (6.
+Nc3 c6 $14) 6... Nbc6 (6... c5 7. Na3 cxd4 8. Nb5 $11 (8. Qxd4 $143 Bxf3 9.
+gxf3 Nbc6 $15)) 7. Bd2 (7. a3 Ng6 $14) 7... Ng6 8. Re1 Nh4 9. Bf1 (9. d5 Nxf3+
+10. Qxf3 Nb4 11. Bxb4 Bxb4 $11) 9... Nxf3+ $11 10. Qxf3 {
+Black has a cramped position} Qh4 11. c3 {Prevents intrusion on b4} O-O-O 12.
+Qd3 d6 13. g3 {White threatens to win material: g3xh4} Qe7 (13... Qh5 $5 {
+is an interesting alternative} 14. exd6 Bxd6 $11) 14. exd6 $14 Qxd6 {
+Black has a new backward pawn: e6} 15. Bf4 (15. Bg2 Kb8 $14) 15... Qd5 (15...
+Qd7 16. Qc4 Re8 17. Nd2 $14) 16. Qc4 $14 Bd6 17. Rxe6 $4 {
+not a good decision, because now the opponent is right back in the game} (17.
+Bxd6 $142 {saving the game} Rxd6 18. Qxd5 exd5 19. Nd2 $14) 17... Nxd4 $1 $19 {
+Clearance: c6. .} 18. Qxd5 (18. cxd4 -- {Clearance} (18... Qh1# {Mate attack}))
+(18. Qxd4 -- {Clearance} (18... Qh1# {Mate attack})) (18. -- Qh1# {Mate threat}
+) 18... Bxd5 19. Rxd6 Nf3+ 20. Kh1 (20. Kg2 cxd6 (20... Rxd6 $6 21. Bxd6 Ne1+
+22. Kg1 $17) 21. Na3 g5 $19) 20... cxd6 (20... Rxd6 $6 21. c4 Bc6 22. Bxd6 Nd4+
+23. Kg1 $17) 21. Bg2 Bb7 22. Na3 (22. Bxf3 Bxf3+ 23. Kg1 Rhg8 $19) 22... g5 23.
+Be3 h5 24. Nb5 (24. Bd4 Rh6 25. Bxf3 Bxf3+ 26. Kg1 Re8 $19) 24... h4 25. Nxa7+
+$4 {shortens the misery for White} (25. Nd4 hxg3 26. Nxf3 $19) 25... Kb8 26.
+Bxb6 (26. Bxf3 {doesn't get the cat off the tree} Bxf3+ (26... Kxa7 {
+is a bad alternative} 27. Bxb7 Kxb7 28. Bxg5 $14) 27. Kg1 Kxa7 28. Bxg5 Rdg8
+$19) 26... hxg3 27. h3 Rxh3+ 28. Bxh3 Rh8 29. Kg2 Ne5+ 30. Kg1 (30. Kf1 {
+the last chance for counterplay} Rxh3 31. fxg3 Rh1+ 32. Bg1 $19) 30... Rxh3 31.
+fxg3 Rh1+ 32. Kf2 Rxa1 (32... Rxa1 33. b3 Rxa2+ 34. Ke3 Rb2 $19) 0-1
+
+[Event "NC Closed"]
+[Site "Raleigh"]
+[Date "1979.09.01"]
+[Round "2"]
+[White "David Steele"]
+[Black "Maurice Dana"]
+[Result "1-0"]
+[ECO "E00"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "47"]
+[EventDate "1979.??.??"]
+
+{E00: Catalan Bogo-Indian (3 g3 Bb4+)} 1. d4 Nf6 2. c4 (2. Nf3 c5 $11) 2... e6
+3. g3 Bb4+ 4. Bd2 Bxd2+ 5. Nxd2 (5. Qxd2 O-O $11) 5... c5 (5... O-O 6. Bg2 $11)
+6. dxc5 $14 Qa5 {Black threatens to win material: Qa5xc5} 7. Bg2 Qxc5 8. Ngf3
+O-O 9. O-O Nc6 10. a3 {Secures b4} (10. Rc1 Qe7 $11) 10... Ne7 (10... b6 11.
+Qa4 $14) 11. b4 {White threatens to win material: b4xc5} Qc7 12. Rc1 {
+White prepares c5} (12. c5 b5 $14) 12... Rb8 (12... a5 13. Nb1 $14) 13. Nd4 a6
+{Covers b5} (13... d6 14. Nb5 Qb6 15. a4 $14) 14. c5 e5 (14... d5 15. cxd6 Qxd6
+16. Nc4 $16) 15. N4b3 d5 16. cxd6 Qxd6 17. Nc4 Qxd1 (17... Qc7 18. Nd6 Qb6 19.
+Na5 $16) 18. Rfxd1 (18. Rcxd1 $6 Be6 19. Nbd2 Ng6 $14) 18... Ng6 19. Nb6 Re8 $4
+{the position was bad, and this mistake simply hastens the end} (19... Bg4 $142
+20. Kf1 Rfe8 $18) 20. Nxc8 $18 Rexc8 21. Rxc8+ Rxc8 22. Bxb7 Rc3 23. Rd3 Rxd3
+24. exd3 1-0
+
+[Event "NC Closed"]
+[Site "Raleigh"]
+[Date "1979.09.02"]
+[Round "3"]
+[White "Jim Watson"]
+[Black "David Steele"]
+[Result "0-1"]
+[ECO "C67"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "80"]
+[EventDate "1979.??.??"]
+
+{C67: Ruy Lopez: Berlin Defence: 4 0-0 Nxe4} 1. e4 e5 2. Nf3 {
+White threatens to win material: Nf3xe5} Nc6 3. Bb5 Nf6 {
+Black threatens to win material: Nf6xe4} 4. O-O Nxe4 5. d4 Be7 6. Qe2 {
+White threatens to win material: Qe2xe4} Nd6 7. Bxc6 bxc6 8. dxe5 {
+Black has the pair of bishops} Nb7 (8... Nf5 9. Qe4 g6 10. c4 $14) 9. c4 {
+Black has a cramped position. Black's piece can't move: c8} O-O {
+Black castles and improves king safety} 10. Bf4 (10. Nc3 a6 $14) 10... d5 (
+10... f6 11. Nbd2 $11) 11. exd6 (11. Rd1 Nc5 $14) 11... cxd6 12. Nc3 Bg4 {
+Black has a cramped position} 13. Qd2 Bxf3 14. gxf3 Qd7 15. Kg2 {
+White king safety dropped} (15. Rfe1 Nc5 $11) 15... Rad8 16. Rg1 (16. Be3 f5
+$15) 16... Qf5 (16... Nc5 17. Be3 $15) 17. Rae1 {
+White threatens to win material: Re1xe7} Rfe8 (17... Rd7 18. Ne4 $11) 18. Bg3 (
+18. Ne4 Bf8 $11) 18... Nc5 19. Ne4 d5 (19... Ne6 $5 {should be considered} 20.
+Bxd6 c5 $15) 20. Nxc5 $11 Bxc5 21. cxd5 cxd5 22. Rxe8+ Rxe8 23. Re1 (23. Rc1 $5
+Bb6 24. a4 $11) 23... Rxe1 $15 24. Qxe1 Qe6 {
+Black threatens to win material: Qe6xe1} (24... Qd7 25. Qc3 Bb6 26. Qb4 $15)
+25. Qe5 (25. Qa5 Bb6 26. Qb5 d4 $11) 25... h6 (25... Qxe5 26. Bxe5 f6 27. Bf4
+$11) 26. Kf1 (26. Qb8+ Kh7 $11) 26... Qa6+ (26... Bf8 27. b3 $11) 27. Kg2 $11
+Qe6 {Twofold repetition} 28. Kf1 (28. Qb8+ Kh7 $11) 28... g6 29. Qb8+ Kh7 30.
+Be5 g5 31. Kg2 Kg6 32. Qc7 {White threatens to win material: Qc7xc5} Bb6 {
+Black threatens to win material: Bb6xc7} 33. Qc3 Qd7 34. Bd4 Bc7 (34... Bxd4
+35. Qd3+ Kg7 36. Qxd4+ f6 $11) 35. Be5 {White threatens to win material: Be5xc7
+} (35. Qd3+ Kh5 $14) 35... Bb6 (35... Bxe5 $5 {is worth consideration} 36. Qxe5
+d4 $15) 36. Bd4 $11 Bc7 {Twofold repetition} (36... Bxd4 37. Qd3+ Kg7 38. Qxd4+
+f6 39. b4 $11) 37. Qd3+ $14 Kh5 38. Qe2 $4 {
+with this move White loses his initiative} (38. Bxa7 $142 {and White hangs on}
+Bxh2 39. Bd4 $16) 38... Kh4 $17 39. Be5 $4 {causes further problems for ?} (39.
+Kf1 $142 Qh3+ 40. Ke1 $17) 39... Qh3+ $19 40. Kg1 Bxe5 (40... Bxe5 41. Qxe5
+Qxf3 $19) 0-1
+
+[Event "NC Closed"]
+[Site "Raleigh"]
+[Date "1979.09.02"]
+[Round "4"]
+[White "David Steele"]
+[Black "Streeter"]
+[Result "1-0"]
+[ECO "B21"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "86"]
+[EventDate "1979.??.??"]
+
+{B21: Sicilian: 2 f4 and Morra Gambit} 1. e4 c5 (1... e5 2. Nf3 Nf6 3. Nxe5 $11
+) 2. d3 (2. Nf3 e6 $11) 2... Nc6 3. Be2 e6 4. f4 d5 5. Nf3 dxe4 6. dxe4 Qxd1+
+7. Bxd1 Nf6 {Black threatens to win material: Nf6xe4} 8. Nbd2 b6 9. c3 {
+Controls b4+d4} Bb7 10. O-O {White castles and improves king safety} Be7 11.
+Bc2 O-O 12. Re1 Rfd8 13. Nc4 b5 {Black threatens to win material: b5xc4} 14.
+Nce5 (14. Ne3 Na5 $11) 14... c4 {This push gains space} 15. a4 a6 (15... b4 $15
+) 16. Nxf7 (16. Be3 $5 $11 {must be considered}) 16... Kxf7 {Black wins a piece
+} (16... Bc5+ 17. Kf1 Kxf7 18. Ng5+ Ke7 19. f5 $17) 17. Ng5+ Kg8 18. e5 Ng4 (
+18... Nd5 $5 19. Nxe6 Rdc8 $17) 19. Nxe6 $11 Rd7 20. h3 {
+White threatens to win material: h3xg4} Nh6 21. f5 Nf7 {
+Black threatens to win material: Nf7xe5} 22. Bf4 (22. f6 gxf6 23. exf6 Bd6 $15)
+22... Ncxe5 (22... b4 $5 $15 {is worth looking at}) 23. Bxe5 $11 Nxe5 (23...
+Rd2 24. Be4 Bxe4 25. Rxe4 Nxe5 26. Rxe5 $11) 24. Rxe5 $14 Bxg2 $4 (24... bxa4
+$142 {was possible} 25. Re2 a3 26. bxa3 Rc8 $14) 25. Kxg2 $18 Rd2+ 26. Kf3 Rxc2
+(26... b4 {does not improve anything} 27. Be4 Rb8 28. Bd5 $18) 27. Nd4 Bf6 28.
+Nxc2 Bxe5 29. axb5 a5 30. Ne3 (30. b6 {seems even better} Ra6 31. Ne3 Rxb6 32.
+Nxc4 Rb5 33. Rxa5 Rxa5 34. Nxa5 Kf7 $18) 30... Rb8 31. Nxc4 (31. b6 {
+and White can already relax} Bh2 32. Nxc4 Rc8 33. Nxa5 Rc5 $18) 31... Rxb5 (
+31... Bc7 32. Na3 Kf7 $18) 32. Rxa5 Rxa5 33. Nxa5 Kf7 34. Ke4 Kf6 35. Nc6 Bc7
+36. Nd4 Bb8 37. b4 g5 (37... g6 {doesn't change the outcome of the game} 38.
+fxg6 Kxg6 39. c4 $18) 38. fxg6 $1 {decapitation} Kxg6 (38... Kxg6 39. c4 {
+Passed pawn}) (38... hxg6 39. c4 {Passed pawn}) 39. c4 Kg5 (39... Bh2 {
+cannot undo what has already been done} 40. b5 Kf7 41. c5 $18) 40. Nf3+ (40. c5
+$142 $5 {keeps an even firmer grip} Kf6 $18) 40... Kf6 41. c5 (41. b5 {
+seems even better} Ke7 42. Kd5 Bg3 $18) 41... Ke6 42. b5 Ba7 (42... Bg3 $18 {
+praying for a miracle}) 43. b6 Bb8 1-0
+
+[Event "NC Closed"]
+[Site "Raleigh"]
+[Date "1979.09.03"]
+[Round "5"]
+[White "Greg Samsa"]
+[Black "David Steele"]
+[Result "1/2-1/2"]
+[ECO "A93"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "19"]
+[EventDate "1979.??.??"]
+
+{A93: Classical Dutch: Classical Stonewall: 7 b3} 1. Nf3 f5 (1... Nf6 2. d4 $11
+) 2. g3 Nf6 3. Bg2 e6 4. d4 Be7 5. c4 d5 {
+Black threatens to win material: d5xc4} 6. O-O O-O 7. Nbd2 (7. Nc3 Kh8 $14)
+7... c6 (7... Nc6 8. cxd5 Qxd5 9. e3 $14) 8. b3 (8. Qc2 a6 $14) 8... Bd7 (8...
+c5 9. Bb2 $14) 9. Bb2 Be8 (9... Bd6 10. c5 Be7 11. Qc2 $14) 10. e3 1/2-1/2
+
+[Event "NC Closed"]
+[Site "Raleigh"]
+[Date "1979.09.03"]
+[Round "6"]
+[White "David Steele"]
+[Black "Ron Simpson"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "42"]
+[EventDate "1979.??.??"]
+
+{B31: Sicilian: 2...Nc6 3 Bb5 g6} 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5.
+Re1 Nf6 6. c3 {Consolidates b4+d4} O-O 7. d4 (7. d3 d6 $11) 7... cxd4 8. cxd4 {
+Black has a cramped position. Black's piece can't move: c8} d5 {
+Black threatens to win material: d5xe4} 9. e5 {
+White threatens to win material: e5xf6.} Ne8 (9... Ne4 10. Nc3 $11) 10. h3 {
+Black has a cramped position} Qb6 {Black threatens to win material: Qb6xb5} (
+10... Nc7 11. Be2 $14) 11. Nc3 $14 {White threatens to win material: Nc3xd5}
+Nc7 12. Bxc6 (12. Bf1 a6 $14) 12... Qxc6 {Black has the pair of bishops} 13.
+Bg5 f6 14. exf6 exf6 15. Bf4 {White has an active position} Ne6 {
+Black threatens to win material: Ne6xf4} 16. Bg3 Bh6 17. Qb3 {
+Attacking the isolated pawn on d5. White threatens to win material: Qb3xd5} Rd8
+18. Re2 a5 19. a4 Ra6 20. Rae1 Bf8 {White has an active position} 21. Nb5 {
+A classical outpost} Qc4 1/2-1/2
+

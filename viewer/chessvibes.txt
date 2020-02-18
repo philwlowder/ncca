@@ -1,0 +1,17 @@
+from chessvibes.
+
+new PgnViewer(
+{ boardName: "demo",
+pgnFile: '/games/london10_r5.pgn',
+pieceSize: 35,
+pauseBetweenMoves: 800,
+boardImagePath: "http://www.chessvibes.com/boards",
+showCoordinates: true,
+addVersion: false,
+autoScrollMoves: true,
+newlineForEachMainMove: false,
+hideBracketsOnTopLevelVariation: true,
+movesFormat: 'main_on_own_line',
+moveAnimationLength: 0.1,
+variationStartString: '('
+}

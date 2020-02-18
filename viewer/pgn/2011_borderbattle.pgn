@@ -1,0 +1,179 @@
+[Event "BorderBattle 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.03.19"]
+[Round "1"]
+[White "Jones, Craig"]
+[Black "Lamby, Philipp"]
+[WhiteUSCF "2302"]
+[BlackUSCF "2188"]
+[Result "0-1"]
+[ECO "E13"]
+[Board "1"]
+[Input "DGT9616"]
+[Owner "South Carolina Chess Association"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6
+5.Bg5 h6 6.Bh4 g5 7.Bg3 Ne4 8.Qc2 Bb7 9.e3 d6 10.Bd3 Bxc3+
+11.bxc3 f5 12.O-O Nd7 13.d5 exd5 14.Nd4 Qf6 15.cxd5 Bxd5
+16.Nb5 Kd8 17.f3 Nxg3 18.hxg3 f4 19.c4 Bb7 20.Be4 Rb8
+21.gxf4 gxf4 22.Nxa7 fxe3 23.Bxb7 Rxb7 24.Nc6+ Kc8 25.Qe4
+Ne5 26.Nb4 Qg5 27.Nd5 Rg8 28.f4 Qh4 29.Qf5+ Nd7 30.Rfe1 Qg4
+31.Ne7+ Kb8 32.Qd5 Nf6 33.Qc6 Rg7 34.Rxe3 d5 35.g3 Qxf4
+36.Nxd5 Rxg3+ 37.Rxg3 Qxg3+ 38.Kf1 Qd3+ 39.Kg2 Qe4+ 40.Kf2
+Qd4+ 41.Kf3 Qxa1 42.Qxf6 Qxf6+ 43.Nxf6 Ra7 44.Ng4 Rxa2 45.c5
+Ra3+ 46.Kg2 h5 47.Nf6 h4 48.Ne4 b5 49.c6 b4 0-1
+
+[Event "Border Battle 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.03.19"]
+[Round "2"]
+[White "Phillipp Lamby"]
+[Black "Craig Jones"]
+[WhiteUSCF "2188"]
+[BlackUSCF "2302"]
+[Result "1/2-1/2"]
+[Board "1"]
+[Input "DGT9616"]
+[Owner "South Carolina Chess Association"]
+
+1.e4 g6 2.d4 Bg7 3.c4 c5 4.d5 d6
+5.Nc3 Nf6 6.f4 O-O 7.Nf3 e6 8.Be2 exd5 9.cxd5 Re8 10.e5 dxe5
+11.fxe5 Ng4 12.O-O Nxe5 13.Bf4 Nbd7 14.d6 Nxf3+ 15.Bxf3 Ne5
+16.Nb5 Bd7 17.Nc7 Nxf3+ 18.Qxf3 Bc6 19.Qd1 Qh4 20.Qd2 Bd4+
+21.Kh1 Qg4 22.Nxe8 Rxe8 23.Rae1 Rxe1 24.Rxe1 h5 25.Bg3 h4
+26.Qf4 Qxf4 27.Bxf4 h3 28.Be3 hxg2+ 29.Kg1 Kf8 30.Bxd4 cxd4
+31.Rd1 1/2-1/2
+
+[Event "BorderBattle 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.03.19"]
+[Round "3"]
+[White "Jones, Craig"]
+[Black "Lamby, Philipp"]
+[WhiteUSCF "2302"]
+[BlackUSCF "2188"]
+[Result "1-0"]
+[ECO "E13"]
+[Board "1"]
+[Input "DGT9616"]
+[Owner "South Carolina Chess Association"]
+
+1.a3 d5 2.b4 e5 3.Bb2 Bd6 4.Nf3 Qe7
+5.e3 Nf6 6.c4 c6 7.Be2 O-O 8.Nc3 dxc4 9.Bxc4 Bg4 10.Qc2 Nbd7
+11.Nh4 Nb6 12.Ba2 Nfd5 13.Nf5 Bxf5 14.Qxf5 Nxc3 15.Bxc3 Na4
+16.h4 Nxc3 17.dxc3 e4 18.Rc1 a5 19.Bb1 Rfe8 20.h5 axb4
+21.axb4 h6 22.O-O Qe5 23.Qxe5 Rxe5 24.Rfd1 Rd8 25.Rd4 Rxh5
+26.Rcd1 Bh2+ 27.Kf1 Rxd4 28.Rxd4 f5 29.Ba2+ Kf8 30.g3 Ke7
+31.Kg2 g5 32.Bc4 Bxg3 33.fxg3 g4 34.Rd1 Rg5 35.Ra1 Rg7
+36.Ra8 Kf6 37.Rf8+ Kg5 38.Be6 Re7 39.Bxf5 Re5 40.Bc8 b6
+41.Rg8+ Kh5 42.Bxg4+ 1-0
+
+[Event "Border Battle 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.03.19"]
+[Round "4"]
+[White "Phillipp Lamby"]
+[Black "Craig Jones"]
+[WhiteUSCF "2188"]
+[BlackUSCF "2302"]
+[Result "1/2-1/2"]
+[Board "1"]
+[Input "DGT9616"]
+[Owner "South Carolina Chess Association"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O
+5.Nge2 b6 6.a3 Bxc3+ 7.Nxc3 Bb7 8.Bd3 c5 9.d5 exd5 10.cxd5
+Re8 11.O-O a6 12.e4 d6 13.Bg5 Nbd7 14.f4 b5 15.Qf3 c4 16.Bc2
+a5 17.Qh3 Qb6+ 18.Kh1 b4 19.Na4 Qb5 20.Rae1 c3 21.e5 dxe5
+22.Bxf6 Nxf6 23.fxe5 Rxe5 24.Bd3 Qe8 25.Rxe5 Qxe5 26.bxc3
+bxc3 27.Nxc3 Rc8 28.Na4 Rd8 29.Nb6 h6 30.Qf3 Bxd5 31.Nxd5
+Qxd5 32.Qxd5 Rxd5 33.Rf3 Ng4 34.Bc4 Rd1+ 35.Rf1 Rxf1+
+36.Bxf1 Kf8 37.Kg1 Ke7 38.Be2 Ne5 39.Kf2 Kd6 40.Ke3 Kd5
+41.Kf4 g6 42.Bb5 f5 43.h4 Ke6 44.Be2 Nf7 45.Bc4+ Kf6 46.a4
+Nd6 47.Bd3 g5+ 48.hxg5+ hxg5+ 49.Ke3 Ke5 50.g3 g4 51.Kf2 Kd4
+52.Ba6 Ne4+ 53.Kg2 Nc5 54.Bb5 Ke3 55.Be8 f4 56.gxf4 Kxf4
+57.Bc6 Ne4 58.Bxe4 Kxe4 59.Kg3 Kd4 60.Kxg4 1/2-1/2
+
+Event "Border Battle 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.03.19"]
+[Round "1"]
+[White "Samuel Xin"]
+[Black "Kenzie Moore"]
+[WhiteUSCF "2085"]
+[BlackUSCF "1860"]
+[Result "1/2-1/2"]
+[Board "2"]
+[Input "DGT9599"]
+[Owner "South Carolina Chess Association"]
+
+Xin vs Moore Round 1 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7
+5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bb4 9.Qd2 Nc5 10.Nxc6
+bxc6 11.Qd4 Qa5 12.Bd2 Rb8 13.a3 Bxc3 14.Bxc3 Qb6 15.b4 Ne4
+16.Qxb6 axb6 17.Bb2 Ke7 18.Bd3 Ra8 19.Ke2 Bb7 20.Rad1 h5
+21.g4 d4 22.Kf1 f5 1/2-1/2
+
+[Event "Border Battle 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.03.19"]
+[Round "2"]
+[White "Kenzie Moore"]
+[Black "Samuel Xin"]
+[WhiteUSCF "1860"]
+[BlackUSCF "2085"]
+[Result "1/2-1/2"]
+[Board "2"]
+[Input "DGT9599"]
+[Owner "South Carolina Chess Association"]
+
+1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Nc3 Nc6
+5.d3 Nf6 6.Na4 Bb6 7.Nxb6 axb6 8.Be2 O-O 9.O-O Qe7 10.Kh1 h6
+11.Be3 Rd8 12.Qe1 d5 13.fxe5 Nxe5 14.Bd4 Nxf3 15.Rxf3 Nh7
+16.Qg3 Ng5 17.Re3 dxe4 18.Rxe4 Qf8 19.Rh4 Qe7 20.Bh5 Re8
+21.Rf1 Be6 22.Rhf4 c5 23.Bc3 f5 24.Bxe8 Rxe8 25.Re1 Qf7
+26.h4 Nh7 27.Rxf5 Bxf5 28.Rxe8+ Nf8 29.Qb8 Bd7 30.Rd8 Bc6
+31.Kh2 Qe7 32.Qe5 Qxh4+ 33.Kg1 Qg4 34.Rxf8+ Kxf8 35.Qb8+ Kf7
+36.Qc7+ Kg8 37.g3 Qd1+ 38.Kf2 Qxc2+ 39.Ke1 Qc1+ 40.Ke2 Qg5
+41.Qc8+ Kh7 42.g4 Qe7+ 43.Kd2 Bd7 44.Qxb7 Qg5+ 45.Kc2 Qxg4
+46.Qxb6 c4 47.dxc4 Qxc4 48.Qd4 Qxd4 49.Bxd4 h5 50.Be5 g5
+51.Kd2 Kg6 52.Ke2 Kf5 53.Bd6 h4 54.Kf2 Bc6 55.Kg1 Kg4 56.Kh2
+Kh5 57.a3 g4 58.Be5 Ba4 1/2-1/2
+
+Event "Border Battle 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.03.19"]
+[Round "3"]
+[White "Samuel Xin"]
+[Black "Kenzie Moore"]
+[WhiteUSCF "2085"]
+[BlackUSCF "1860"]
+[Result "1-0"]
+[Board "2"]
+[Input "DGT9599"]
+[Owner "South Carolina Chess Association"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 5.a3
+Bf8 6.f4 Nh6 7.Nf3 c5 8.g3 Ba6 9.Bh3 Nc6 10.Be3 g6 11.Qd2
+Na5 12.O-O-O Nc4 13.Qf2 Nf5 14.Bxf5 gxf5 15.h3 Qc7 16.g4
+fxg4 17.hxg4 Rc8 18.f5 Nxe3 19.Qxe3 cxd4 20.Nxd4 Bc5 21.fxe6
+fxe6 22.Qh6 Bxa3 23.Qxe6+ Kf8 24.Rhf1+ 1-0
+
+[Event "Border Battle 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.03.19"]
+[Round "4"]
+[White "Kenzie Moore"]
+[Black "Samuel Xin"]
+[WhiteUSCF "1860"]
+[BlackUSCF "2085"]
+[Result "0-1"]
+[Board "2"]
+[Input "DGT9599"]
+[Owner "South Carolina Chess Association"]
+
+1.c4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6
+5.Nc3 Bg7 6.Be3 Nf6 7.Nxc6 bxc6 8.Bd4 d6 9.e4 O-O 10.Be2 c5
+11.Be3 Rb8 12.Qc2 Qb6 13.Rb1 Ng4 14.Bxg4 Bxg4 15.O-O Be6
+16.b3 f5 17.Nd5 Bxd5 18.exd5 f4 19.Bd2 f3 20.g3 Qc7 21.h3
+Qd7 22.Kh2 Rf5 23.Qe4 Be5 24.Qg4 Kg7 25.Rbe1 h5 26.Qe4 h4
+27.Bf4 hxg3+ 28.fxg3 Rh8 29.Qxf3 Rxh3+ 30.Kg2 Rxf4 0-1

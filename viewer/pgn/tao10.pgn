@@ -1,0 +1,195 @@
+[Event "The Asheboro Open X"]
+[Site "?"]
+[Date "2006.04.03"]
+[Round "1"]
+[White "Chumachenko"]
+[Black "Branton"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2454"]
+[BlackElo "1907"]
+[Annotator "Fritz 9 (30s)"]
+[PlyCount "65"]
+[SourceDate "2006.11.11"]
+
+{E12: Queen's Indian: Unusual White 4th moves, 4 a3, 4 Nc3 Bb7 5 a3 and 4 Nc3
+Bb7} 1. d4 e6 2. Nf3 Nf6 3. c4 b6 4. a3 Be7 5. d5 O-O 6. Nc3 Bb7 7. g3 Re8 (
+7... Na6 8. Bg2 Nc5 9. Nd4 a5 10. O-O Ne8 11. Rb1 Qc8 12. b4 axb4 13. axb4 Na6
+14. Nc6 Bf6 15. Ne4 Kh8 16. Nxf6 Nxf6 17. Bb2 Ng8 18. Qd2 f6 19. Bc3 e5 20. f4
+Qe8 21. b5 Nc5 22. Nb4 {
+Henley,R (2525)-Ivanov,I (2515)/New York 1983/MCD/1/2-1/2}) 8. Bg2 a5 (8... d6
+9. O-O Bf8 10. Ne1 c6 11. e4 cxd5 12. exd5 e5 13. Nd3 Nbd7 14. Be3 e4 15. Nf4
+Ne5 16. b3 Neg4 17. Re1 Bc8 18. Bd4 g5 19. Nfe2 Bf5 20. h3 Ne5 21. Bxe5 Rxe5
+22. Nd4 Qd7 23. Nxf5 {
+Sharma,D (2369)-Ahmed,S (2297)/Dhaka 2004/CBM 100 ext/0-1 (72)}) 9. O-O Na6 10.
+Bf4 $146 (10. e4 exd5 11. cxd5 d6 12. Nd4 Nc5 13. b3 Bf8 14. Re1 g6 15. Bb2 Bg7
+16. Qc2 Ng4 17. Rad1 Qd7 18. h3 Nf6 19. f4 Nh5 20. Kh2 Re7 21. Nc6 Ree8 22. b4
+axb4 23. axb4 Na6 24. b5 Nc5 {
+Huss,A (2330)-Adhami,V (2335)/La Valetta 1980/EXT 2000/0-1 (35)}) (10. e4 exd5
+11. cxd5 Bc5 $14) 10... Nc5 $11 11. Nd4 Bf8 12. Bg5 h6 13. Bxf6 Qxf6 {
+Black has the pair of bishops} 14. Ndb5 {
+White threatens to win material: Nb5xc7} Rac8 (14... Rec8 $5 $11 {
+is interesting}) 15. b4 $14 axb4 (15... exd5 16. bxc5 c6 17. cxb6 cxb5 18. Nxd5
+Bxd5 19. Bxd5 Qxb6 20. cxb5 Qxb5 21. e4 $16) 16. axb4 $16 Na6 (16... exd5 $142
+$5 17. bxc5 c6 18. cxb6 cxb5 19. Nxd5 Bxd5 20. Bxd5 Qxb6 21. cxb5 Qxb5 $16) 17.
+dxe6 $18 Bxg2 18. Kxg2 Qxe6 (18... Ra8 19. exf7+ Qxf7 20. Rxa6 Rxa6 21. Nxc7
+$18) 19. Rxa6 Qxc4 (19... c6 20. Na7 (20. Rxb6 $6 Qxc4 21. Nd6 Bxd6 22. Qxd6
+Qxc3 $16) 20... Qxc4 21. Qd3 (21. Nxc8 $143 Qxa6 22. Nd6 Re6 $16) (21. Rxb6 $6
+{is much weaker} Rc7 22. Qa1 Bxb4 $11) 21... Qxd3 22. exd3 $18) 20. Qd4 (20.
+Qd5 $5 {might be the shorter path} Qg4 21. h3 Qg6 22. Qxd7 Bxb4 $18) 20... Qxd4
+21. Nxd4 Bxb4 22. Nd5 Bc5 23. e3 Re5 24. Nc3 Kf8 25. Rd1 Ke7 (25... Bb4 26.
+Nde2 $18) 26. Nb3 d6 27. f4 Re6 28. e4 Kd7 29. Nxc5+ bxc5 30. e5 f5 $2 (30...
+Rb8 $18) 31. Nd5 (31. Nb5 {seems even better} Rb8 32. exd6 cxd6 33. Nxd6 Re2+
+34. Kf3 Rxh2 35. Nxf5+ Kc7 $18) 31... Rb8 (31... Kd8 {is not much help} 32. Ne3
+g6 33. Nc4 $18) 32. Ra7 Rc8 (32... Rb2+ {is still a small chance} 33. Kg1 dxe5
+34. Nxc7+ Ke7 35. Nxe6+ Kxe6 36. Ra6+ Ke7 37. fxe5 Re2 $18) 33. Nb6+ (33. Nb6+
+Kd8 34. Nxc8 Kxc8 35. exd6 Rxd6 36. Rxd6 cxd6 37. Rxg7 $18) (33. exd6 $142 $5 {
+and White can already relax} Rxd6 34. Nb6+ Kd8 35. Rxd6+ cxd6 36. Nxc8 Kxc8 37.
+Rxg7 c4 $18) 1-0
+
+[Event "The Asheboro Open X"]
+[Site "?"]
+[Date "2006.04.03"]
+[Round "3"]
+[White "Chumachenko"]
+[Black "Tiselsky"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2454"]
+[BlackElo "1558"]
+[Annotator "Fritz 9 (30s)"]
+[PlyCount "77"]
+[SourceDate "2006.11.11"]
+
+{E12: Queen's Indian: Unusual White 4th moves, 4 a3, 4 Nc3 Bb7 5 a3 and 4 Nc3
+Bb7} 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 Be7 6. d5 O-O 7. g3 d6 (7...
+Na6 8. Bg2 Nc5 9. Nd4 a5 10. O-O Ne8 11. Rb1 Qc8 12. b4 axb4 13. axb4 Na6 14.
+Nc6 Bf6 15. Ne4 Kh8 16. Nxf6 Nxf6 17. Bb2 Ng8 18. Qd2 f6 19. Bc3 e5 20. f4 Qe8
+21. b5 Nc5 22. Nb4 {Henley,R (2525)-Ivanov,I (2515)/New York 1983/MCD/1/2-1/2})
+8. Bg2 e5 9. b4 $146 (9. O-O Bc8 (9... Nbd7 10. Ne1 Ne8 11. e4 g6 12. b4 Ng7
+13. Nd3 a6 14. f4 f6 15. f5 g5 16. h4 h6 17. Bf3 Qe8 18. Ra2 Qf7 19. Rh2 Kh7
+20. Kg2 Rh8 21. Rfh1 g4 22. Bxg4 Kg8 23. Be3 Rh7 24. Qd2 {
+Sarno,S (2395)-Squarci,F (2016)/St Vincent 2004/CBM 098 ext/1-0 (44)}) (9...
+Ne8 10. Ne1 f5 11. f4 exf4 12. gxf4 Nd7 13. Nf3 g6 14. Nd4 Ng7 15. b4 Rb8 16.
+Ncb5 a6 17. Na7 Bf6 18. Rb1 Bxd4+ 19. Qxd4 Qf6 20. Qd2 Qf7 21. e4 fxe4 22. Bxe4
+Nf6 23. Bg2 Rbe8 24. Bb2 {
+Tisera,N (2175)-Larrarte,S/Trelew 1995/EXT 97/1/2-1/2 (35)}) 10. Nxe5 dxe5 11.
+d6 Bxd6 12. Bxa8 c6 13. b4 Bh3 14. Re1 Qc7 15. b5 Rd8 16. Bg5 Be7 17. Qa4 h6
+18. Bxf6 Bxf6 19. bxc6 Be6 20. Nb5 Qc8 21. Bb7 {
+1-0 Ewald,P-Hinte,F/Eppingen 1988/GER}) 9... a5 10. Bb2 Nbd7 11. O-O axb4 12.
+axb4 Rxa1 13. Qxa1 Qa8 14. Nb5 (14. Nh4 $5 $16) 14... c6 $14 15. dxc6 Bxc6 16.
+Na7 Be4 17. b5 {White has a new backward pawn: c4} Nc5 {A sound move} 18. Nc6
+Bxc6 19. bxc6 e4 (19... Qb8 $142 $5 $14 {has some apparent merit}) 20. Nd4 $18
+Qxa1 $2 (20... Qc8 $142 21. f3 Bd8 $18) 21. Rxa1 (21. Bxa1 $6 Ra8 $18) 21...
+Rc8 (21... Re8 22. Bh3 d5 23. c7 dxc4 24. c8=Q Rxc8 25. Bxc8 $18) 22. Ra7 Bf8 (
+22... Bd8 {doesn't get the cat off the tree} 23. Bh3 Rb8 24. Nb5 $18) 23. Bh3
+Re8 24. c7 Nfd7 (24... d5 {doesn't do any good} 25. Nc6 Bd6 26. c8=Q Rxc8 27.
+Bxc8 dxc4 28. Ra8 $18) 25. Nc6 Rc8 26. Bd4 (26. Bxd7 {seems even better} Nxd7
+27. Rb7 h5 $18) 26... Ne6 27. Bxe6 fxe6 28. Rb7 e5 29. Be3 Kf7 (29... d5 {
+does not help much} 30. Na7 Rxc7 31. Rxc7 $18) 30. Na7 Ra8 (30... Rxc7 {
+hardly improves anything} 31. Rxc7 Ke6 32. Nc8 $18) 31. c8=Q Rxc8 32. Nxc8 Ke6
+33. Nxb6 Nxb6 34. Bxb6 (34. Rxb6 {might be the shorter path} Kf7 $18) 34... Be7
+35. f4 exf3 36. exf3 g5 (36... Bf6 {does not improve anything} 37. h4 $18) 37.
+Kf2 h6 (37... h5 {a fruitless try to alter the course of the game} 38. Ke3 $18)
+38. Ke3 Kf7 (38... h5 $18 {there is nothing better in the position}) 39. Bd8 (
+39. Bd8 Kf6 40. Bxe7+ Ke6 41. Ke4 d5+ 42. cxd5+ Kf7 43. Bxg5+ Ke8 44. Bxh6 Kd8
+45. d6 Kc8 46. Rc7+ Kd8 47. Bg5+ Ke8 48. d7+ Kf7 49. Kf5 e4 50. d8=Q#) 1-0
+
+[Event "The Asheboro Open X"]
+[Site "?"]
+[Date "2006.04.03"]
+[Round "2"]
+[White "Timmel"]
+[Black "Chumachenko"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "2057"]
+[BlackElo "2454"]
+[Annotator "Fritz 9 (30s)"]
+[PlyCount "42"]
+[SourceDate "2006.11.11"]
+
+{D94: Grünfeld: 4 Nf3 Bg7 5 e3} 1. c4 Nf6 2. Nc3 d5 3. d4 g6 4. Nf3 Bg7 5. e3
+O-O 6. b3 c5 7. Bd3 (7. Bb2 cxd4 8. exd4 Nc6 9. Be2 Bg4 10. O-O dxc4 11. Ne5
+Bxe2 12. Nxe2 cxb3 13. Qxb3 Na5 14. Qh3 e6 15. Nf4 Nd5 16. Nxe6 fxe6 17. Qxe6+
+Kh8 18. Ba3 Nf4 19. Nf7+ Rxf7 20. Qxf7 Qxd4 21. Rae1 h6 {
+Rasmussen,L (2240)-Ristic,N (2415)/Luxembourg 1990/EXT 97/1-0 (44)}) (7. dxc5
+dxc4 8. Qxd8 Rxd8 9. Nb5 Nd5 10. Nfd4 a6 11. bxc4 axb5 12. cxd5 Rxd5 13. Bxb5
+Rxc5 14. Be2 Nc6 15. Bb2 Nxd4 16. exd4 Rc2 17. Bc1 Bxd4 18. Rb1 Bf5 19. Bd1
+Bxf2+ 20. Kf1 Bd3+ 21. Be2 Rxe2 {
+Stephensen,M-Kwapinski,L (1895)/Esbjerg 2004/CBM 101 ext/0-1}) 7... Nc6 8. Bb2
+$146 (8. h3 cxd4 9. exd4 dxc4 10. Bxc4 e6 11. O-O a6 12. a4 Qc7 13. Ne2 Rd8 14.
+Qc2 Nb4 15. Qc3 Nfd5 16. Bxd5 Qxc3 17. Nxc3 Nxd5 18. Nxd5 Rxd5 19. Be3 Bd7 20.
+Rac1 Bc6 21. Rfd1 h6 22. Kf1 Rad8 {
+Clasen,L-Klein,A/Troisdorf 1999/EXT 2002/1/2-1/2 (36)}) (8. Ne5 cxd4 (8... Nxe5
+9. dxe5 dxc4 10. bxc4 Ng4 11. f4 e6 12. Qe2 Nh6 13. Bb2 f6 14. exf6 Bxf6 15.
+O-O Bd7 16. Be4 Rb8 17. Rad1 Qe8 18. g4 Bc6 19. Bxc6 Qxc6 20. g5 Bxc3 21. Bxc3
+Nf5 22. e4 Nd4 23. Bxd4 {Pust,E-Lorenz,J/Germany 1991/EXT 97-B/1/2-1/2 (37)})
+9. Nxc6 bxc6 10. exd4 c5 11. Ne2 cxd4 12. Nxd4 Ng4 13. Bb2 Qa5+ 14. Kf1 e5 15.
+Be2 f5 16. Nc6 Qc5 17. Qxd5+ Qxd5 18. cxd5 e4 19. Bxg7 Kxg7 20. Bxg4 fxg4 21.
+Ke2 Ba6+ 22. Ke3 Rf5 {
+Perez Mas,J-Picornell Morant,J/Aragon 1997/EXT 2003/1-0 (55)}) (8. dxc5 $2 {
+would be great except for} Ne4 {Theme: Clearance for g7-a1} 9. Bxe4 Bxc3+ (9...
+dxe4 $6 10. Nd4 $17) 10. Bd2 Bxd2+ (10... dxe4 $143 11. Bxc3 exf3 12. Qxf3 $19)
+(10... Bxa1 $6 11. cxd5 f5 12. Bc2 $17) 11. Nxd2 dxe4 12. Nxe4 Bf5 13. Qxd8
+Rfxd8 $19 (13... Nxd8 $6 14. Nc3 $19)) 8... Bg4 9. dxc5 Ne4 {
+Black threatens to win material: Ne4xc3. Clearance to allow g7-b2} 10. Qc1 $2 (
+10. Nxe4 {Exploits the pin} Bxb2) 10... Nb4 11. Be2 Nxc5 12. O-O Nbd3 (12...
+Ncd3 13. Qb1 Nxb2 14. Qxb2 Bxf3 15. Bxf3 $19) 13. Qc2 $17 Nxb2 14. Qxb2 Bxf3
+15. gxf3 $2 (15. Bxf3 $142 dxc4 16. Rad1 $17) 15... d4 $19 16. exd4 Qxd4 17.
+Rac1 $2 (17. Qa3 Rac8 18. Nd5 $19) 17... Qf4 18. Kg2 Rad8 (18... Be5 {
+makes it even easier for Black} 19. Rh1 Rad8 20. Qa3 $19) 19. Qa3 (19. Rg1 {
+doesn't change the outcome of the game} Nd3 20. Bxd3 Rxd3 $19) 19... Be5 (19...
+Nd3 $5 {and Black can already relax} 20. Rcd1 Be5 21. Rh1 Qg5+ 22. Kf1 $19) 20.
+Rh1 Nd3 21. Rc2 (21. h4 {praying for a miracle} Bd6 22. c5 Bxc5 23. Qa4 $19)
+21... Ne1+ $3 {A double attack} (21... Ne1+ 22. Kf1 Nxc2 $19) 0-1
+
+[Event "The Asheboro Open X"]
+[Site "?"]
+[Date "2006.03.04"]
+[Round "3"]
+[White "McCartney, Patrick"]
+[Black "Timmel, John"]
+[Result "1/2-1/2"]
+[ECO "A02"]
+[WhiteElo "1973"]
+[BlackElo "2058"]
+[Annotator "Fritz 9 (30s)"]
+[PlyCount "82"]
+[EventDate "2006.??.??"]
+[SourceDate "2006.11.11"]
+
+{A02: Bird's Opening} 1. f4 c5 2. Nf3 Nc6 3. e3 g6 4. d4 cxd4 5. exd4 d5 6. c3
+Bg7 (6... Bg4 7. Bd3 Bxf3 8. Qxf3 e6 9. O-O h5 10. f5 gxf5 11. Bxf5 exf5 12.
+Qxf5 Qd7 13. Re1+ Be7 14. Qf3 O-O-O 15. Bf4 Nf6 16. Nd2 Rhg8 17. b4 Bd6 18. Rf1
+Qg4 19. Qxg4+ hxg4 20. Bxd6 Rxd6 21. Rae1 {
+Bergmann,J-Madl,I (2435)/Recklinghausen 1999/EXT 2000/0-1}) 7. Bd3 Nh6 (7...
+Nf6 8. O-O Bg4 9. Nbd2 O-O 10. Qe1 Qd7 11. Ne5 Qe6 12. Qe3 Nxe5 13. fxe5 Nd7
+14. h3 Bf5 15. Bxf5 gxf5 16. Nf3 f6 17. exf6 Qxe3+ 18. Bxe3 Rxf6 19. Rae1 e6
+20. h4 Bh6 21. Bxh6 Rxh6 22. Ng5 {
+Trapp,M (1506)-Hannes,D (1145)/Willingen 2003/CBM 094 ext/1/2-1/2 (58)}) 8. O-O
+O-O 9. Na3 $146 (9. Ne5 f6 10. Nxc6 bxc6 11. Nd2 e5 12. fxe5 fxe5 13. Rxf8+
+Qxf8 14. Nb3 Nf5 15. dxe5 Bxe5 16. Bxf5 Bxf5 17. Be3 Qd6 18. h3 Re8 19. Qd2
+Bh2+ 20. Kh1 Bg3 21. Rf1 Re4 22. Nd4 Bd7 23. Bh6 Re8 {
+Janik,K (2210)-Radziewicz,I (2085)/Krynica 1994/EXT 98/1/2-1/2 (51)}) 9... Rb8
+10. Nc2 b5 (10... Bf5 11. Be2 $14) 11. Ne5 $16 {
+White threatens to win material: Ne5xc6} Qb6 12. Kh1 Nxe5 (12... e6 13. a4 bxa4
+14. Rxa4 $14) 13. fxe5 $16 f6 (13... Bg4 14. Qe1 Qe6 15. Bg5 $18) 14. Ne3 (14.
+exf6 $5 Rxf6 15. Bf4 $18) 14... fxe5 15. Rxf8+ Bxf8 16. Nxd5 Qd6 {
+Black threatens to win material: Qd6xd5} 17. Be4 Ng4 18. Qc2 $4 {
+hands over the advantage to the opponent} (18. Qf3 $142 {
+and White is still in the game} exd4 19. Bf4 $16) 18... exd4 $17 19. Bf4 e5 20.
+Bg3 Be6 21. h3 (21. Qe2 $5 Bxd5 22. Qxg4 dxc3 23. bxc3 Bxe4 24. Qxe4 $17) 21...
+Bxd5 $19 22. hxg4 Qc6 $4 {letting the wind out of his own sails} (22... Rc8
+$142 $19 {and Black could have gained the advantage}) 23. Qb3 {
+White pins: Qb3xd5} Bxb3 {Deflection from c6} 24. Bxc6 Bc4 25. b3 {
+White threatens to win material: b3xc4} (25. cxd4 $5 Rb6 26. d5 $11) 25... Rb6
+$15 26. bxc4 Rxc6 27. cxb5 Rxc3 28. Bxe5 {Black has a new passed pawn: d4} Bc5
+29. Rd1 (29. a4 Kf7 $17) 29... Rc4 $17 30. Rf1 (30. g5 Kf7 $19) 30... Rb4 $19
+31. Rd1 Kf7 32. a3 Rc4 33. Re1 Bxa3 34. Kh2 (34. Bf4 $142 $19) 34... Bc1 $4 {
+Black lets it slip away} (34... Bb4 $142 {would have given Black the upper hand
+} 35. Rd1 Bc5 $19) 35. Bxd4 $11 Bf4+ 36. g3 Bxg3+ {Demolishes the pawn shield}
+37. Kxg3 Rxd4 {A rook endgame occured} 38. Ra1 {
+The rook intends Re1-a1-a6-c6. White threatens to win material: Ra1xa7} Rd7 39.
+Ra6 Rb7 {Black threatens to win material: Rb7xb5} 40. Kh4 h6 41. Rc6 {
+A beautiful square!} (41. Ra5 Ke8 $11) 41... Rxb5 $15 1/2-1/2

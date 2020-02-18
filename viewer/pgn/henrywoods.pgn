@@ -1,0 +1,69 @@
+[Event "ACF-36.Congress Consolation"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Woods, H."]
+[Black "Towsen, AN."]
+[Result "1-0"]
+[ECO "A85"]
+[Annotator "Rybka 3 (120s)"]
+[PlyCount "51"]
+[EventDate "1935.??.??"]
+
+{A85: Dutch Defence: 2 c4 Nf6 3 Nc3} {(Editor's NOTE)  Henry Woods was the
+first official NC Chess Champion.  He earned the title for 1935, tied in 1936,
+won again in 1938, and tied in 1946.  However, records are missing for many
+years in between, so King Henry may have won more than four times.  Our
+research is ongoing, and we welcome any information you may have on this our
+first NC Chess Champion.   (Tom Hales, Editor NC Gambit)} 1. Nf3 e6 (1... Nf6
+2. d4 $11) 2. c4 f5 (2... Nf6 3. Nc3 $14) 3. Nc3 Nf6 4. d4 Bb4 5. Bd2 O-O 6. e3
+(6. g3 c5 $11) 6... b6 7. g3 Bb7 8. Bg2 d6 {Prevents intrusion on e5} 9. O-O
+Qe8 (9... Bxc3 10. Bxc3 Nbd7 11. b4 $11) 10. Nb5 $14 {
+White threatens to win material: Nb5xc7} Bxd2 11. Nxc7 {Black wins a piece} Qd7
+{Black threatens to win material: Qd7xc7} 12. Nxa8 {
+White's piece can't move: a8} Ba5 13. Ng5 d5 $4 (13... Bxg2 $142 {
+the rescuing straw} 14. Kxg2 h6 $14) 14. Nc7 $1 $18 {Decoy: c7} Qxc7 15. a3 $4
+{White has let it slip away} (15. Nxe6 $142 $5 {and White can already relax}
+Qxc4 16. Nxf8 Qc8 $18) 15... dxc4 (15... Qe7 $5 16. b4 b5 17. bxa5 bxc4 $16)
+16. Nxe6 $18 Qd7 (16... Qf7 $142 $5 17. Nxf8 Bxg2 18. Kxg2 Kxf8 $18) 17. Nxf8
+Kxf8 18. Bxb7 Qxb7 19. Qc2 b5 (19... Nc6 $18) 20. Qxf5 Bd8 (20... Nc6 {
+is no salvation} 21. a4 Bb6 22. axb5 $18) 21. a4 a6 (21... b4 {
+doesn't get the bull off the ice} 22. Qc5+ Ke8 23. Qxc4 $18) 22. axb5 axb5 (
+22... Qxb5 {is not much help} 23. Qc8 Ke7 24. Rfc1 $18) 23. Qc5+ Be7 (23... Qe7
+{doesn't get the cat off the tree} 24. Qxb5 Nbd7 25. Qxc4 $18) 24. Ra7 Bxc5 25.
+Rxb7 Bd6 26. Rxb5 1-0
+
+[Event "USA-36.Congress Consolation"]
+[Site "?"]
+[Date "1935.??.??"]
+[Round "?"]
+[White "Kent, Horace"]
+[Black "Woods, H."]
+[Result "1-0"]
+[ECO "C51"]
+[Annotator "Rybka 3 (90s)"]
+[PlyCount "31"]
+[EventDate "1935.??.??"]
+
+{C51: Evans Gambit: Declined and Accepted without 5...Ba5} {(Editor's NOTE) 
+Henry Woods was the first official NC Chess Champion.  He earned the title for
+1935, tied in 1936, won again in 1938, and tied in 1946.  However, records are
+missing for many years in between, so King Henry may have won more than four
+times.  Our research is ongoing, and we welcome any information you may have
+on this our first NC Chess Champion.   (Tom Hales, Editor NC Gambit)} 1. e4 e5
+2. Nf3 Nc6 3. Bc4 Bc5 4. b4 (4. c3 Nf6 5. b4 Bb6 $11) 4... Bb6 (4... Bxb4 5.
+O-O $15) 5. b5 {White threatens to win material: b5xc6} (5. d3 Nf6 $11) 5...
+Na5 {Black threatens to win material: Na5xc4} 6. Nxe5 Qf6 {
+Black has a mate threat} (6... Qg5 7. Nxf7 Qxg2 8. Rf1 Nxc4 9. Nxh8 Qxe4+ 10.
+Qe2 Qxe2+ 11. Kxe2 $17) 7. Bxf7+ $11 Ke7 $4 {weakening the position} (7... Kf8
+$142 {was necessary} 8. d4 d6 9. Bxg8 dxe5 $14) 8. d4 $18 d6 9. Qh5 (9. Nc3
+$142 {would have given White a clear advantage} c6 10. Ba3 $18) 9... g6 $16 10.
+Bxg6 $1 {Double attack: h8/e7} hxg6 $2 (10... Bxd4 $142 11. Bg5 Bxe5 $16) 11.
+Nxg6+ $18 Kd8 $4 {but even a better move would not have saved the game} (11...
+Kd7 12. Nxh8 Bxd4 $18) 12. Nxh8 (12. Qxh8 $6 Qxg6 13. O-O Be6 $18) 12... Qxd4 (
+12... Kd7 {does not solve anything} 13. Bg5 Qg7 14. c3 $18) 13. Bg5+ Nf6 (13...
+Ne7 {does not help much} 14. O-O Bd7 15. Qh7 $18) 14. Qh4 Ke7 (14... Qb4+ {
+is the last straw} 15. c3 Bxf2+ 16. Kxf2 Qxb5 17. Bxf6+ Kd7 18. Qg4+ Kc6 $18)
+15. Qh7+ Kd8 16. Qg8+ (16. Qg8+ Kd7 17. Qf7+ Kd8 18. Bxf6+ Qxf6 19. Qxf6+ Kd7
+20. Ng6 Nc6 21. Qf7+ Kd8 22. bxc6 Bxf2+ 23. Kxf2 Bf5 24. Qf8#) 1-0
+

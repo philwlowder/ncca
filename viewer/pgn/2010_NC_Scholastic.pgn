@@ -1,0 +1,146 @@
+
+[Event "NC Girls Championship"]
+[Site "?"]
+[Date "2010.03.27"]
+[Round "2"]
+[White "Ray, Bethany"]
+[Black "Campbell, Grace"]
+[Result "0-1"]
+[ECO "A47"]
+[WhiteElo "1116"]
+[BlackElo "1709"]
+[Annotator "Deep Rybka 4 x64 (60s)"]
+[PlyCount "90"]
+[SourceDate "2006.11.11"]
+
+{A47: 1 d4 Nf6 2 Nf3 b6: Torre, London and Colle Systems} 1. d4 Nf6 2. Nf3 b6
+3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. Bg5 O-O 7. Nc3 h6 {
+Black threatens to win material: h6xg5} 8. Bf4 d5 9. Re1 c5 10. Be5 (10. dxc5
+Bxc5 11. Ne5 Nc6 $11) 10... Nc6 11. e3 (11. Bxf6 Bxf6 12. e3 Qc7 $15) 11... Nd7
+(11... Ne4 12. h4 $17) 12. Qd2 Ndxe5 13. dxe5 (13. Nxe5 $5 Nxe5 14. dxe5 $15)
+13... Qb8 $17 14. e4 d4 15. Ne2 Nxe5 16. Nxe5 Qxe5 17. Qf4 Qxf4 18. Nxf4 Bd6 (
+18... g5 $5 19. e5 Bxg2 20. Nxg2 $19) 19. e5 $17 Bxg2 20. Nxg2 Be7 21. Rac1 c4
+22. c3 d3 23. Re4 b5 24. Kf1 Rfd8 25. Rd1 Rac8 26. Ke1 a5 27. Kd2 Bc5 28. f4
+Kf8 29. Ne3 Bxe3+ 30. Rxe3 Ke7 31. Re4 Kd7 (31... a4 32. Rh1 $17) 32. Rd4+ (32.
+b3 $5 $15 {should be examined more closely}) 32... Kc6 $17 33. Rxd8 $2 (33. Re4
+$5 $17) 33... Rxd8 $19 34. Ke3 (34. h4 Kd5 $19) 34... Kd5 35. Rd2 (35. Rf1 b4
+36. Rc1 Kc5 $19) 35... Rb8 (35... g5 $142 {seems even better} 36. Rf2 Rg8 $19)
+36. a3 $2 (36. Rf2 $19) 36... b4 37. a4 (37. cxb4 {praying for a miracle} axb4
+38. axb4 Rxb4 39. h4 $19) 37... bxc3 38. bxc3 Rb3 39. Kf3 (39. Ra2 $19 {
+hoping against hope}) 39... Rxc3 40. Ra2 (40. Ke3 Ra3 41. Rf2 Rxa4 42. f5 exf5
+43. h4 $19) 40... Rc2 41. Ra1 Kd4 42. h4 Rh2 43. Rb1 d2 44. Kg4 (44. g4 {
+is not the saving move} c3 45. Kg3 c2 46. Rb7 d1=Q 47. Kxh2 Qe2+ 48. Kh3 c1=Q
+49. Rd7+ Ke4 50. Rd4+ Kxd4 51. g5 Qce3#) 44... c3 45. f5 (45. Kh5 {
+doesn't get the cat off the tree} c2 46. Rb8 d1=Q+ 47. g4 Qe1 48. Rd8+ Ke3 49.
+Rd3+ Kxd3 50. g5 Rxh4#) 45... c2 (45... c2 46. Rb4+ axb4 47. Kh5 d1=Q+ 48. g4
+exf5 49. e6 Qxg4#) 0-1
+
+[Event "NC Scholastic Championships 2010"]
+[Site "?"]
+[Date "2010.02.28"]
+[Round "5"]
+[White "Noden, Eric"]
+[Black "Campbell, Will"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "1657"]
+[BlackElo "1907"]
+[PlyCount "66"]
+[SourceDate "2006.11.11"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+b5 9. f4 Bb7 10. Bf3 O-O 11. fxe5 dxe5 12. Qxd8 Rxd8 13. Be3 b4 14. Na4 Nbd7
+15. Nac5 Nxc5 16. Nxc5 Bxc5 17. Bxc5 Bxe4 18. Bxb4 Rab8 19. Be7 Rd2 20. Bxf6
+Bxf3 21. Bxe5 Rxg2+ 22. Kh1 Ba8 23. h4 Rxc2+ 24. Kg1 Rg2+ 25. Kh1 Re2+ 26. Kg1
+Rxe5 27. Rac1 Re2 28. Rfd1 h6 29. Rc7 Kh7 30. Rdd7 Rbxb2 31. Rxf7 Rb1+ 32. Rf1
+Rg2+ 33. Kh1 Rxf1# 0-1
+
+[Event "NC Scholastic Championships 2010"]
+[Site "?"]
+[Date "2010.02.28"]
+[Round "4"]
+[White "Campbell, Will"]
+[Black "High, David"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "1907"]
+[BlackElo "1928"]
+[PlyCount "139"]
+[SourceDate "2006.11.11"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Bxf6 gxf6 11. Nd5 Bg7 12. Bd3 Ne7 13. c4 Nxd5 14. cxd5
+Qa5+ 15. Qd2 Qxd2+ 16. Kxd2 Bd7 17. Nc2 Rg8 18. g3 Bh6+ 19. Ne3 Ke7 20. Rac1
+Rgc8 21. Rxc8 Rxc8 22. Rc1 Bxe3+ 23. fxe3 Rxc1 24. Kxc1 Kd8 25. Kc2 Kc7 26. Be2
+f5 27. exf5 Bxf5+ 28. Bd3 e4 29. Be2 Bh3 30. Kc3 f5 31. g4 Kd8 32. gxf5 Ke7 33.
+Kd4 Bg2 34. b4 Kf6 35. Bh5 Kxf5 36. Be8 Kg4 37. Bd7+ Kh4 38. Bc8 h5 39. Bxa6
+Kh3 40. Bxb5 Kxh2 41. Bd7 Kg3 42. b5 Bf1 43. b6 Ba6 44. Kxe4 h4 45. Kd4 Kf3 46.
+e4 Kf4 47. a4 Bb7 48. a5 Ba6 49. Bf5 Bb7 50. Be6 Ba6 51. Bd7 Bb7 52. Be6 Ba6
+53. Bf5 Bb7 54. Kd3 Ba6+ 55. Kd2 h3 56. Bxh3 Kxe4 57. Bf1 Kxd5 58. Bxa6 Kc6 59.
+Bc8 d5 60. Kd3 d4 61. Kxd4 Kb5 62. b7 Kc6 63. b8=R Kc7 64. Rb2 Kc6 65. Rb6+ Kc7
+66. Kc5 Kd8 67. Rb7 Ke8 68. Kd6 Kd8 69. Be6 Ke8 70. Rb8# 1-0
+
+[Event "NC Scholastic Championships 2010"]
+[Site "?"]
+[Date "2010.02.27"]
+[Round "3"]
+[White "Wang, Tianqi"]
+[Black "Campbell, Will"]
+[Result "0-1"]
+[ECO "B25"]
+[WhiteElo "1812"]
+[BlackElo "1907"]
+[PlyCount "78"]
+[SourceDate "2006.11.11"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 b6 10. d4 Bb7 11. Qd2 a6 12. a3 Qc7 13. Rad1 Rfd8 14. g4 Rac8 15. a4
+Na5 16. Qe2 d5 17. e5 Nc4 18. Bc1 Bf8 19. Kh1 Nc6 20. Qf2 cxd4 21. Nxd4 Nxd4
+22. Qxd4 Na5 23. Qd3 Bb4 24. Na2 Be7 25. Be3 Nc4 26. Bd4 Bc5 27. b3 Na5 28. Nc1
+Bxd4 29. Qxd4 Qxc2 30. Qd3 Qc5 31. f5 d4 32. f6 Bxg2+ 33. Kxg2 Qf8 34. Ne2 Nc6
+35. Qg3 Qc5 36. Qh4 Nxe5 37. Ng3 Qd5+ 38. Kh3 Rc2 39. Rg1 Nf3 0-1
+
+[Event "NC Scholastic Championships 2010"]
+[Site "?"]
+[Date "2010.02.27"]
+[Round "2"]
+[White "Campbell, Will"]
+[Black "Cartee, Elliot"]
+[Result "1-0"]
+[ECO "A31"]
+[WhiteElo "1907"]
+[BlackElo "1675"]
+[PlyCount "107"]
+[SourceDate "2006.11.11"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. Nc3 Qc7 5. Nb5 Qd8 6. Bf4 Na6 7. dxc5 Bg7 8.
+Be5 O-O 9. e3 Ne4 10. Bxg7 Kxg7 11. Qd4+ Nf6 12. Be2 Qa5+ 13. Qd2 Qxd2+ 14.
+Nxd2 Nxc5 15. b4 Nce4 16. Nxe4 Nxe4 17. Bf3 Ng5 18. Be2 d6 19. Nc7 Rb8 20. h4
+Ne6 21. Nd5 Re8 22. Kd2 b6 23. a4 Bb7 24. Rhc1 Rbc8 25. g3 Bc6 26. e4 Bxd5 27.
+cxd5 Nd4 28. Bc4 Nf3+ 29. Ke3 Ne5 30. Ba6 Rxc1 31. Rxc1 Ra8 32. Rc7 Kf6 33. Bb7
+Rb8 34. Bc6 a5 35. bxa5 bxa5 36. Bb5 Ra8 37. f3 h5 38. Kf4 e6 39. dxe6 Kxe6 40.
+Ke3 Kf6 41. f4 Ng4+ 42. Kd4 Rd8 43. Bc4 Rf8 44. Ra7 Nh6 45. Rxa5 Ng8 46. Ra7
+Ne7 47. e5+ dxe5+ 48. fxe5+ Kf5 49. Rxe7 Rc8 50. Rxf7+ Kg4 51. Bb5 Rd8+ 52. Rd7
+Rf8 53. e6 Re8 54. Ke5 1-0
+
+[Event "NC Scholastic Championships 2010"]
+[Site "?"]
+[Date "2010.02.27"]
+[Round "1"]
+[White "Fan, Jim"]
+[Black "Campbell, Will"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1465"]
+[BlackElo "1907"]
+[PlyCount "92"]
+[SourceDate "2006.11.11"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. Nxd4 d6 7. exd6 Bxd6 8.
+Nb5 O-O 9. Bc4 Be5 10. Qh5 Bf6 11. Bd3 g6 12. Qf3 Nc6 13. Be4 Qb6 14. Bxd5 exd5
+15. N5a3 Re8+ 16. Be3 d4 17. cxd4 Nxd4 18. Qd1 Qa5+ 19. Nc3 Nf5 20. O-O Bxc3
+21. bxc3 Nxe3 22. fxe3 Qxa3 23. Qd4 Be6 24. Rf4 Rad8 25. Qf6 Qb2 26. Raf1 Rd2
+27. Qg5 Bd5 28. e4 Bxe4 29. R4f2 Rxf2 30. Rxf2 Qa1+ 31. Rf1 Qxc3 32. Qf4 Qd4+
+33. Rf2 f5 34. g4 Qd1+ 35. Rf1 Qxg4+ 36. Qg3 Qxg3+ 37. hxg3 Rc8 38. Re1 Rc2 39.
+g4 Rg2+ 40. Kf1 Rxg4 41. a4 Rh4 42. Re3 g5 43. a5 g4 44. Kf2 Rh2+ 45. Kg1 Rh1+
+46. Kf2 h5 0-1
