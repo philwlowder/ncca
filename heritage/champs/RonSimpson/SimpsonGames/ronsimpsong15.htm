@@ -1,0 +1,355 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META name="GENERATOR" content="ChessBase HTML Publisher 3.0">
+<STYLE TYPE='text/css'>
+<!--
+body {color: 000000; font-family:Arial; font-size:13pt;  font: normal}
+p {color: 000000; font-family:Arial; font-size:13pt;  font: normal}
+h1 {color: 000000}
+h4 {color: 000000}
+.e1b {font-family:Arial; font-size:13pt;  font-style: normal; text-decoration: none}
+.e0 {color: 000000; font-family:Arial; font-size:13pt;  font-style: normal; text-decoration: none}
+.e1 {color: #000000; font-family:Arial; font-size:13pt;  font-style: normal; text-decoration: none}
+.e2 {color: #000000; font-family:Arial; font-size:13pt;  font-style: normal; text-decoration: none}
+.e3 {color: #000000; font-family:Arial; font-size:13pt;  font-style: normal; text-decoration: none}
+.e4 {color: #000000; font-family:Arial; font-size:13pt;  font-style: normal; text-decoration: none}
+.game {font-family:Arial; font-size:13pt;  font-style: normal;}
+//-->
+</STYLE>
+</HEAD>
+<BODY bgcolor="#FEFDE8"link="#B70801" vlink="#637178" >
+<script>
+<!--
+function g0(a,b) { parent.frames[0].g0(a,b); };
+
+var n15 = new Array();
+var b15 = -1;
+var m15 = new Array(1);
+var fenNota="rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";
+m15[1] = new Array(27,34,59,32,10,18,32,34);
+m15[1].base = new Array(6,7,8,9,0);
+m15[1].root =0;
+m15[1].move =5;
+m15[2] = new Array(52,44,2,29);
+m15[2].base = new Array(11,12,0);
+m15[2].root =0;
+m15[2].move =6;
+m15[3] = new Array(27,34,52,44,2,20,45,30);
+m15[3].base = new Array(14,15,16,17,0);
+m15[3].root =0;
+m15[3].move =7;
+m15[4] = new Array(52,44,14,22);
+m15[4].base = new Array(19,20,0);
+m15[4].root =0;
+m15[4].move =8;
+m15[5] = new Array(1,18,61,52);
+m15[5].base = new Array(26,27,0);
+m15[5].root =0;
+m15[5].move =13;
+m15[6] = new Array(37,28,1,18);
+m15[6].base = new Array(29,30,0);
+m15[6].root =0;
+m15[6].move =14;
+m15[7] = new Array(3,17,48,40);
+m15[7].base = new Array(32,33,0);
+m15[7].root =0;
+m15[7].move =15;
+m15[8] = new Array(56,58,1,18);
+m15[8].base = new Array(37,38,0);
+m15[8].root =0;
+m15[8].move =18;
+m15[9] = new Array(5,12,60,62,127,61);
+m15[9].base = new Array(40,41,41,0);
+m15[9].root =0;
+m15[9].move =19;
+m15[10] = new Array(5,12,60,62,127,61);
+m15[10].base = new Array(44,45,45,0);
+m15[10].root =0;
+m15[10].move =21;
+m15[11] = new Array(30,21,14,21,59,38,18,12);
+m15[11].base = new Array(47,48,49,50,0);
+m15[11].root =0;
+m15[11].move =23;
+m15[12] = new Array(24,3,56,58);
+m15[12].base = new Array(52,53,0);
+m15[12].root =0;
+m15[12].move =24;
+m15[13] = new Array(30,21,14,21,59,31,21,29);
+m15[13].base = new Array(55,56,57,58,0);
+m15[13].root =0;
+m15[13].move =25;
+m15[14] = new Array(19,12,51,45);
+m15[14].base = new Array(60,61,0);
+m15[14].root =0;
+m15[14].move =26;
+m15[15] = new Array(30,21,14,21,59,38);
+m15[15].base = new Array(63,64,65,0);
+m15[15].root =0;
+m15[15].move =27;
+m15[16] = new Array(7,6,56,58);
+m15[16].base = new Array(69,70,0);
+m15[16].root =0;
+m15[16].move =30;
+m15[17] = new Array(37,30,21,38,59,45,19,46,55,46,10,12);
+m15[17].base = new Array(72,73,74,75,76,77,0);
+m15[17].root =0;
+m15[17].move =31;
+m15[19] = new Array(44,37,10,17,42,52,21,38);
+m15[19].base = new Array(83,84,85,86,0);
+m15[19].root =18;
+m15[19].move =3;
+m15[18] = new Array(30,37,46,37,19,37,45,37,10,37,61,37);
+m15[18].base = new Array(79,80,81,82,87,88,0);
+m15[18].root =0;
+m15[18].move =32;
+m15[20] = new Array(4,6,71,5,56,58);
+m15[20].base = new Array(91,91,92,0);
+m15[20].root =0;
+m15[20].move =34;
+m15[21] = new Array(46,39,12,6);
+m15[21].base = new Array(94,95,0);
+m15[21].root =0;
+m15[21].move =35;
+m15[22] = new Array(10,17,49,33);
+m15[22].base = new Array(97,98,0);
+m15[22].root =0;
+m15[22].move =36;
+m15[23] = new Array(12,6);
+m15[23].base = new Array(101,0);
+m15[23].root =0;
+m15[23].move =38;
+m15[24] = new Array(22,5);
+m15[24].base = new Array(104,0);
+m15[24].root =0;
+m15[24].move =40;
+m15[26] = new Array(29,22,15,30,22,13,4,5);
+m15[26].base = new Array(109,110,111,112,0);
+m15[26].root =25;
+m15[26].move =1;
+m15[25] = new Array(21,15,30,23,12,39,54,46);
+m15[25].base = new Array(107,108,113,114,0);
+m15[25].root =0;
+m15[25].move =42;
+m15[27] = new Array(43,29,2,20,30,21,4,6,71,5);
+m15[27].base = new Array(116,117,118,119,119,0);
+m15[27].root =0;
+m15[27].move =43;
+m15[28] = new Array(43,29,4,6,71,5,29,2);
+m15[28].base = new Array(122,123,123,124,0);
+m15[28].root =0;
+m15[28].move =45;
+m15[0] = new Array(51,35,11,27,62,45,6,21,50,34,10,18,57,42,8,16,34,27,18,27,58,37,12,20,52,44,21,31,37,30,3,24,45,51,31,21,61,43,1,18,48,40,5,19,60,62,127,61,24,10,53,37,15,23,30,39,14,30,39,46,23,31,59,45,30,38,45,53,18,12,56,58,10,3,46,39,12,22,39,30,19,12,37,29,20,29,30,21,12,21,43,29);
+m15[0].base = new Array(0,1,2,3,4,5,10,13,18,21,22,23,24,25,28,31,34,35,36,39,42,43,46,46,51,54,59,62,66,67,68,71,78,89,90,93,96,99,100,102,103,105,106,115,120,121,0);
+m15[0].root =0;
+m15[0].move =0;
+//-->
+</script>
+<P><h3>(16) Chumachenko ,Andrey (2445) - Simpson ,Ron (2352) [D13]<BR>
+ Asheboro Open 41 Asheboro  (3), 03.01.2009<BR>
+<I> [Rybka 3 (120s)]</I><BR>
+</h3></P>
+<P><B>
+</B>D13: Slav Defence: Exchange variation without ...Bf5
+ <B></B>Hi, this is FM RON SIMPSON with some comments on my game with FM Chumachenko.  
+**********
+First, some general comments:  I am preparing deeply for the &quot;Land in the Sky&quot; tournament, and my performance reflected this preparation.  The relationship between analyzing well and opening study appears to have a reciprocal nature. Throughout my games, I found myself unable to remain in the moment (analyzing each move independent of opening theory).  My games were quite instructive for me in respect to self reflection. Perhaps one day I will address this topic in greater depth!
+**********
+Now on to this game:  My preparation for Chumachenko was correct in that we entered the a6-Slav.  I had studied many positions in the Slav, but unfortunately for me the exchange variation was something I skimmed over. 
+**********
+ <B><BR><BR>
+<a href="javascript:g0(1,0)" id='0' CLASS='e0' name="zeroAnchor">1.d4</a>
+ <a href="javascript:g0(2,0)" id='0' CLASS='e0'>d5</a>
+ <a href="javascript:g0(3,0)" id='0' CLASS='e0'>2.Nf3</a>
+ <a href="javascript:g0(4,0)" id='0' CLASS='e0'>Nf6</a>
+ <a href="javascript:g0(5,0)" id='0' CLASS='e0'>3.c4</a>
+ <a href="javascript:g0(6,0)" id='0' CLASS='e0'>c6</a>
+ </B> [<a href="javascript:g0(1,1)" id='0' CLASS='e1'>3...dxc4</a>
+ <a href="javascript:g0(2,1)" id='0' CLASS='e1'>4.Qa4+</a>
+ <a href="javascript:g0(3,1)" id='0' CLASS='e1'>c6</a>
+ <a href="javascript:g0(4,1)" id='0' CLASS='e1'>5.Qxc4=</a>
+] <B><BR><BR>
+<a href="javascript:g0(7,0)" id='0' CLASS='e0'>4.Nc3</a>
+ </B> [<a href="javascript:g0(1,2)" id='0' CLASS='e1'>4.e3</a>
+ <a href="javascript:g0(2,2)" id='0' CLASS='e1'>Bf5=</a>
+] <B><BR><BR>
+<a href="javascript:g0(8,0)" id='0' CLASS='e0'>4...a6</a>
+ </B>Secures b5 <B></B> [<a href="javascript:g0(1,3)" id='0' CLASS='e1'>4...dxc4</a>
+ <a href="javascript:g0(2,3)" id='0' CLASS='e1'>5.e3</a>
+ <a href="javascript:g0(3,3)" id='0' CLASS='e1'>Be6</a>
+ <a href="javascript:g0(4,3)" id='0' CLASS='e1'>6.Ng5=</a>
+] <B><BR><BR>
+<a href="javascript:g0(9,0)" id='0' CLASS='e0'>5.cxd5</a>
+ </B> [<a href="javascript:g0(1,4)" id='0' CLASS='e1'>5.e3</a>
+ <a href="javascript:g0(2,4)" id='0' CLASS='e1'>g6=</a>
+] <B><BR><BR>
+<a href="javascript:g0(10,0)" id='0' CLASS='e0'>5...cxd5</a>
+ <a href="javascript:g0(11,0)" id='0' CLASS='e0'>6.Bf4</a>
+ </B>(FM SIMPSON):  Now the game appeared simple, with little for me to be concerned about. Our opening struggle seemed to have subsided, and both sides were now ready to develop without any real danger looming. However, this is where inexperience CAN and DOES go wrong!
+********** 
+(FM SIMPSON):  My feel for the position and my understanding of piece placement wasn't flowing!  It was as if I was in this position for the FIRST TIME, with only memories to guide me. I failed to think my way through to the next move, instead trying to recall previous studies.
+**********
+ <B><BR><BR>
+<a href="javascript:g0(12,0)" id='0' CLASS='e0'>6...e6</a>
+ </B>(FM SIMPSON):  Blocking my light squared Bishop!! <B><BR><BR>
+<a href="javascript:g0(13,0)" id='0' CLASS='e0'>7.e3</a>
+ <a href="javascript:g0(14,0)" id='0' CLASS='e0'>Nh5</a>
+ </B>(FM SIMPSON):  Ah, as you can see now my brain is confused... 8-|
+********** <B></B> [<a href="javascript:g0(1,5)" id='0' CLASS='e1'>7...Nc6</a>
+ <a href="javascript:g0(2,5)" id='0' CLASS='e1'>8.Be2+/=</a>
+] <B><BR><BR>
+<a href="javascript:g0(15,0)" id='0' CLASS='e0'>8.Bg5</a>
+ </B>White threatens to win material: Bg5xd8
+**********
+(FM SIMPSON):  Chumachenko played well, with straightforward moves taking little or no risk, but achieving a good position.  The basic difference between our play is that he is held to fundamental opening principles, while I am violated many of these principles!
+**********
+  <B></B> [<a href="javascript:g0(1,6)" id='0' CLASS='e1'>8.Be5</a>
+ <a href="javascript:g0(2,6)" id='0' CLASS='e1'>Nc6+/=</a>
+] <B><BR><BR>
+<a href="javascript:g0(16,0)" id='0' CLASS='e0'>8...Qa5</a>
+ </B> [<a href="javascript:g0(1,7)" id='0' CLASS='e1'>8...Qb6</a>
+ <a href="javascript:g0(2,7)" id='0' CLASS='e1'>9.a3+/=</a>
+] <B><BR><BR>
+<a href="javascript:g0(17,0)" id='0' CLASS='e0'>9.Nd2</a>
+ <a href="javascript:g0(18,0)" id='0' CLASS='e0'>Nf6</a>
+ <a href="javascript:g0(19,0)" id='0' CLASS='e0'>10.Bd3</a>
+ </B> [<a href="javascript:g0(1,8)" id='0' CLASS='e1'>10.Rc1</a>
+ <a href="javascript:g0(2,8)" id='0' CLASS='e1'>Nc6+/=</a>
+] <B><BR><BR>
+<a href="javascript:g0(20,0)" id='0' CLASS='e0'>10...Nc6</a>
+ </B> [<a href="javascript:g0(1,9)" id='0' CLASS='e1'>10...Be7</a>
+ <a href="javascript:g0(2,9)" id='0' CLASS='e1'>11.0-0+/=</a>
+] <B><BR><BR>
+<a href="javascript:g0(21,0)" id='0' CLASS='e0'>11.a3</a>
+ </B>Covers b4 <B><BR><BR>
+<a href="javascript:g0(22,0)" id='0' CLASS='e0'>11...Bd6</a>
+ </B> [<a href="javascript:g0(1,10)" id='0' CLASS='e1'>11...Be7</a>
+ <a href="javascript:g0(2,10)" id='0' CLASS='e1'>12.0-0+/=</a>
+] <B><BR><BR>
+<a href="javascript:g0(23,0)" id='0' CLASS='e0'>12.0-0</a>
+ </B> [<a href="javascript:g0(1,11)" id='0' CLASS='e1'>12.Bxf6</a>
+ <a href="javascript:g0(2,11)" id='0' CLASS='e1'>gxf6</a>
+ <a href="javascript:g0(3,11)" id='0' CLASS='e1'>13.Qg4</a>
+ <a href="javascript:g0(4,11)" id='0' CLASS='e1'>Ne7+/=</a>
+] <B><BR><BR>
+<a href="javascript:g0(24,0)" id='0' CLASS='e0'>12...Qc7</a>
+ </B> [<a href="javascript:g0(1,12)" id='0' CLASS='e1'>12...Qd8</a>
+ <a href="javascript:g0(2,12)" id='0' CLASS='e1'>13.Rc1+/-</a>
+] <B><BR><BR>
+<a href="javascript:g0(25,0)" id='0' CLASS='e0'>13.f4</a>
+ </B> [<a href="javascript:g0(1,13)" id='0' CLASS='e1'>13.Bxf6</a>
+ <a href="javascript:g0(2,13)" id='0' CLASS='e1'>gxf6</a>
+ <a href="javascript:g0(3,13)" id='0' CLASS='e1'>14.Qh5</a>
+ <a href="javascript:g0(4,13)" id='0' CLASS='e1'>f5+/=</a>
+] <B><BR><BR>
+<a href="javascript:g0(26,0)" id='0' CLASS='e0'>13...h6</a>
+ </B> [<a href="javascript:g0(1,14)" id='0' CLASS='e1'>13...Be7</a>
+ <a href="javascript:g0(2,14)" id='0' CLASS='e1'>14.Nf3+/-</a>
+] <B><BR><BR>
+<a href="javascript:g0(27,0)" id='0' CLASS='e0'>14.Bh4</a>
+ </B> [<a href="javascript:g0(1,15)" id='0' CLASS='e1'>14.Bxf6!?</a>
+ <a href="javascript:g0(2,15)" id='0' CLASS='e1'>gxf6</a>
+ <a href="javascript:g0(3,15)" id='0' CLASS='e1'>15.Qg4+/-</a>
+] <B><BR><BR>
+<a href="javascript:g0(28,0)" id='0' CLASS='e0'>14...g5</a>
+ </B>Black threatens to win material: g5xh4 <B><BR><BR>
+<a href="javascript:g0(29,0)" id='0' CLASS='e0'>15.Bg3</a>
+ </B>(FM SIMPSON):  Ok, this position is interesting but I am not sure how to resolve the tension!
+********** <B><BR><BR>
+<a href="javascript:g0(30,0)" id='0' CLASS='e0'>15...h5</a>
+ </B>Black prepares the advance g4
+**********
+(FM SIMPSON)  Ambitious on my part! <B></B> [<a href="javascript:g0(1,16)" id='0' CLASS='e1'>15...Rg8</a>
+ <a href="javascript:g0(2,16)" id='0' CLASS='e1'>16.Rc1+/-</a>
+] <B><BR><BR>
+<a href="javascript:g0(31,0)" id='0' CLASS='e0'>16.Qf3</a>
+ </B> [<a href="javascript:g0(1,17)" id='0' CLASS='e1'>16.fxg5</a>
+ <a href="javascript:g0(2,17)" id='0' CLASS='e1'>Ng4</a>
+ <a href="javascript:g0(3,17)" id='0' CLASS='e1'>17.Qf3</a>
+ <a href="javascript:g0(4,17)" id='0' CLASS='e1'>Bxg3</a>
+ <a href="javascript:g0(5,17)" id='0' CLASS='e1'>18.hxg3</a>
+ <a href="javascript:g0(6,17)" id='0' CLASS='e1'>Qe7+/-</a>
+] <B><BR><BR>
+<a href="javascript:g0(32,0)" id='0' CLASS='e0'>16...g4</a>
+ </B>(FM SIMPSON):  Better was gxf4.  (Editor--Analysis below)
+**********   <B></B> [<a href="javascript:g0(1,18)" id='0' CLASS='e1'>16...gxf4</a>
+ <a href="javascript:g0(2,18)" id='0' CLASS='e1'>17.Bxf4</a>
+ <a href="javascript:g0(3,18)" id='0' CLASS='e1'>Bxf4</a>
+ <a href="javascript:g0(4,18)" id='0' CLASS='e1'>18.Qxf4</a>
+ <I> (<a href="javascript:g0(1,19)" id='0' CLASS='e2'>‹18.exf4</a>
+ <a href="javascript:g0(2,19)" id='0' CLASS='e2'>Qb6</a>
+ <a href="javascript:g0(3,19)" id='0' CLASS='e2'>19.Ne2</a>
+ <a href="javascript:g0(4,19)" id='0' CLASS='e2'>Ng4-/+</a>
+) </I><a href="javascript:g0(5,18)" id='0' CLASS='e1'>18...Qxf4</a>
+ <a href="javascript:g0(6,18)" id='0' CLASS='e1'>19.Rxf4+/-</a>
+] <B><BR><BR>
+<a href="javascript:g0(33,0)" id='0' CLASS='e0'>17.Qf2</a>
+ <a href="javascript:g0(34,0)" id='0' CLASS='e0'>Ne7</a>
+ </B> [<a href="javascript:g0(1,20)" id='0' CLASS='e1'>17...0-0</a>
+ <a href="javascript:g0(2,20)" id='0' CLASS='e1'>18.Rac1+/-</a>
+] <B><BR><BR>
+<a href="javascript:g0(35,0)" id='0' CLASS='e0'>18.Rac1</a>
+ </B>(FM SIMPSON):  Simple but effective.  (EDITOR's NOTE):  They don't call Andrey the Karpov of NC for nothing!
+********** <B></B> [<a href="javascript:g0(1,21)" id='0' CLASS='e1'>18.Bh4</a>
+ <a href="javascript:g0(2,21)" id='0' CLASS='e1'>Neg8+-</a>
+] <B><BR><BR>
+<a href="javascript:g0(36,0)" id='0' CLASS='e0'>18...Qd8</a>
+ </B>(FM SIMPSON):  Better was Qb6
+**********
+(FM SIMPSON):  I'm simply moving in the dark, with no real feel for the position, and most importantly with no imagination!!  I couldn't think of any good things to do.
+**********
+  <B></B> [<a href="javascript:g0(1,22)" id='0' CLASS='e1'>18...Qb6</a>
+ <a href="javascript:g0(2,22)" id='0' CLASS='e1'>19.b4+-</a>
+] <B><BR><BR>
+<a href="javascript:g0(37,0)" id='0' CLASS='e0'>19.Bh4+-</a>
+ <a href="javascript:g0(38,0)" id='0' CLASS='e0'>Ng6?</a>
+ </B> [<a href="javascript:g0(1,23)" id='0' CLASS='e1'>19...Neg8+-</a>
+] <B><BR><BR>
+<a href="javascript:g0(39,0)" id='0' CLASS='e0'>20.Bg5</a>
+ <a href="javascript:g0(40,0)" id='0' CLASS='e0'>Be7?</a>
+ </B> [<a href="javascript:g0(1,24)" id='0' CLASS='e1'>20...Nf8+-</a>
+] <B><BR><BR>
+<a href="javascript:g0(41,0)" id='0' CLASS='e0'>21.f5</a>
+ <a href="javascript:g0(42,0)" id='0' CLASS='e0'>exf5</a>
+ </B>(FM SIMPSON):  And the game is over for me!  (EDITOR's NOTE):  This position requires more than a passing glance by average players to understand why the game is over.  A rich position!
+**********  <B></B> [<a href="javascript:g0(1,25)" id='0' CLASS='e1'>21...Nh7</a>
+ doesn't improve anything <a href="javascript:g0(2,25)" id='0' CLASS='e1'>22.Bh6</a>
+ <I> (<a href="javascript:g0(1,26)" id='0' CLASS='e2'>22.fxg6?!</a>
+ <a href="javascript:g0(2,26)" id='0' CLASS='e2'>Nxg5</a>
+ <a href="javascript:g0(3,26)" id='0' CLASS='e2'>23.gxf7+</a>
+ <a href="javascript:g0(4,26)" id='0' CLASS='e2'>Kf8+-</a>
+) </I><a href="javascript:g0(3,25)" id='0' CLASS='e1'>22...Bh4</a>
+ <a href="javascript:g0(4,25)" id='0' CLASS='e1'>23.g3+-</a>
+] <B><BR><BR>
+<a href="javascript:g0(43,0)" id='0' CLASS='e0'>22.Bxf6</a>
+ </B> [<a href="javascript:g0(1,27)" id='0' CLASS='e1'>>=22.Bxf5!?</a>
+ keeps an even firmer grip <a href="javascript:g0(2,27)" id='0' CLASS='e1'>22...Be6</a>
+ <a href="javascript:g0(3,27)" id='0' CLASS='e1'>23.Bxf6</a>
+ <a href="javascript:g0(4,27)" id='0' CLASS='e1'>0-0+-</a>
+] <B><BR><BR>
+<a href="javascript:g0(44,0)" id='0' CLASS='e0'>22...Bxf6</a>
+ <a href="javascript:g0(45,0)" id='0' CLASS='e0'>23.Bxf5</a>
+ </B>(FM SIMPSON):  I resigned at this point.
+**********
+(FM SIMPSON):  Andrey's game was solid and well-played.   
+**********
+(FM SIMPSON):  Now for some closing thoughts:  Many chess players may think this was a bad tournament for me because of the score, but actually this was a great tournament for me. My preparation for the Land in the Sky has intensified, and I will be in better chess shape because of this tournament.
+
+(FM SIMPSON):  I would love to see what your computer analysis has to say about some of the positions.   
+**********
+(EDITOR's NOTE):  This was analyzed with DEEP RYBKA 3.0 on a dedicated, hopped up and tripped out computer monster.  I added an additional 30s per move, to total 120s per ply.  At this level, the computer normally sees at least 18 moves deep, and should be over 3000 in rating.    
+
+<B></B> [<a href="javascript:g0(1,28)" id='0' CLASS='e1'>23.Bxf5</a>
+ <a href="javascript:g0(2,28)" id='0' CLASS='e1'>0-0</a>
+ <a href="javascript:g0(3,28)" id='0' CLASS='e1'>24.Bxc8+-</a>
+] <B> 1-0</B></P>
+<BR><BR></CENTER>
+<script>
+<!--
+if ( parent.loaded >= 1 )
+{	parent.frames[0].Start( parent.frames[1].m15, parent.frames[1].n15, false );
+}
+ else parent.loaded++;
+//-->
+</script>
+</BODY></HTML>
