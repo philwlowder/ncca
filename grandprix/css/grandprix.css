@@ -1,0 +1,380 @@
+body {
+margin: 0px;
+padding: 0px;
+font-family: Georgia, Times, Times New Roman, serif;
+}
+
+.container {
+position: relative;
+float: left;
+margin: 5px 0px 0px 10px;
+border: 1px solid black;
+background-color: #FEFDE8; /* background color from Chessbase.com */
+color: #272727; /* text color */
+width: 950px;
+}
+
+a img {
+border:none;
+}
+
+ .header {
+position: relative;
+float: left;
+border-width: 0px 0px 1px 0px;
+border-style: solid;
+border-color: black;
+height: 100px;
+width: 950px;
+margin: 0px 0px 0px 0px;
+background-color: palegoldenrod;
+}
+
+.header img {
+float: left;
+margin: 0px 0px 0px 0px;
+border: 0px solid green;
+}
+
+h2 {
+margin-left: 25px;
+}
+
+h3 {
+margin-left: 25px;
+}
+
+h4 {
+margin: 0px 0px 0px 50px;
+width: 800px;
+font-style: italic;
+font-weight: normal;
+text-align: center;
+}
+
+#logo {
+position: relative;
+float: left;
+height: 75px;
+width: 75px;
+margin: 10px 1px 1px 10px;
+border: 1px solid black;
+}
+
+.caption {
+float: left;
+clear: both;
+text-align:center;
+font-size:12px;
+margin-left: 10px;
+color: black;
+}
+
+#title  {
+width: 750px;
+border: 0px solid green;
+margin: 0 auto;
+text-align: center;
+margin-top: 20px;
+}
+
+#title p {
+font-size: 40px;
+margin: 5px 5px 5px 5px;
+text-align: center;
+}
+
+#credits{
+position: relative;
+float: left;
+height: 100px;
+width: 900px;
+border-width: 0px;
+border-color: green; 
+border-style: dotted;
+margin: 10px 0px 0px 10px;
+}
+
+.imagebox {
+position: relative;
+float: right;
+width: 400px;
+height: 100px;
+border-width: 0px;
+border-color: green; 
+border-style: dotted;
+}
+
+#author{
+position: relative;
+float: left;
+height: 100px;
+width: 400px;
+border-width: 0px;
+border-color: green; 
+border-style: dotted;
+}
+
+.center  {
+text-align: center;
+}
+
+#columnleft {
+position: relative;
+float: left;
+width: 450px;
+margin: 0px 0px 0px 10px;
+border-width: 0px;
+border-color: black; 
+border-style: dotted;
+}
+
+#columnleft h3 {
+margin-left: 10px;
+text-align: left;
+}
+
+#columnright {
+position: relative;
+float: left;
+width: 450px;
+margin: 0px 0px 0px 10px;
+border-width: 0px;
+border-color: green; 
+border-style: dotted;
+}
+
+#columnright h3 {
+margin-left: 5px;
+text-align: left;
+}
+
+.middle  {
+position: relative;
+float: left;
+width: 950px;
+color: 8c8c8c;
+background-color: #FEFDE8;         /* background color from Chessbase.com */
+margin: 25px 0px 0px 0px;
+border: 0px dashed green;
+}
+
+.middle p {
+font-size: 16px;
+text-indent: 25px;
+color: 8c8c8c;
+margin: 10px 5px 10px 5px;
+border: 0px solid black;
+}
+
+.middle  li {
+margin: 0px;
+padding: 0px;
+margin-top: 10px;
+list-style-type:none;
+}
+
+/* grandprixtable */
+
+.grandprixtable { 
+position: relative;
+float: left;
+width: 450px;
+border-collapse:collapse; 
+margin: 20px 0px 25px 0px;
+}
+
+.grandprixtable caption { 
+background: palegoldenrod; 
+border-top: 1px; 
+border-right: 1px;
+border-bottom: 0px;
+border-left: 1px;
+border-style: solid; 
+border-color: lightsteelblue; 
+font-size: 18px; 
+text-align: center;
+padding: 10px 8px 10px 8px; 
+margin: 10px 0px 0px 0px; 
+}
+
+.grandprixtable th { 
+background: palegoldenrod;
+font-size:16px; 
+border: 1px solid lightsteelblue; 
+padding:5px 8px 5px 8px;
+}
+
+.grandprixtable tr { 
+height: 32px;
+border-top: 1px; 
+border-right: 1px;
+border-bottom: 1px;
+border-left: 1px;
+border-style: solid; 
+border-color: lightsteelblue; 
+}
+
+.grandprixtable td { 
+font-size:16px; 
+border-top: 0px; 
+border-right: 1px;
+border-bottom: 1px;
+border-left: 1px;
+border-style: solid; 
+border-color: lightsteelblue; 
+padding:0px 8px 0px 8px;
+}
+
+.grandprixtable tr.salmon td  { 
+color:#000000; 
+background-color: #FEE0C6; 
+border-top: 1px; 
+border-right: 1px;
+border-bottom: 1px;
+border-left: 1px;
+border-style: solid; 
+border-color: lightsteelblue; 
+}
+
+.grandprixtable tr.blue td  { 
+color:#000000; 
+background-color: #E0EEEE; 
+border-top: 1px; 
+border-right: 1px;
+border-bottom: 1px;
+border-left: 1px;
+border-style: solid; 
+border-color: lightsteelblue; 
+}
+
+
+/* prize fund table */
+
+#prizefund { 
+position: relative;
+float: left;
+width: 910px;
+border-collapse:collapse; 
+margin: 0px 0px 10px 20px;
+}
+
+#prizefund caption { 
+background-color: #E0EEEE; 
+border-top: 1px; 
+border-right: 1px;
+border-bottom: 0px;
+border-left: 1px;
+border-style: solid; 
+border-color: lightsteelblue; 
+font-size: 18px; 
+text-align: center;
+padding: 10px 8px 10px 8px; 
+margin: 10px 0px 0px 0px; 
+}
+
+#prizefund th { 
+background-color: #E0EEEE; 
+font-size:16px; 
+border: 1px solid lightsteelblue; 
+padding:5px 8px 5px 8px;
+}
+
+#prizefund tr { 
+height: 32px;
+border-top: 1px; 
+border-right: 1px;
+border-bottom: 1px;
+border-left: 1px;
+border-style: solid; 
+border-color: lightsteelblue; 
+}
+
+#prizefund td { 
+font-size:16px; 
+border-top: 1px; 
+border-right: 1px;
+border-bottom: 1px;
+border-left: 1px;
+border-style: solid; 
+border-color: lightsteelblue; 
+padding:0px 8px 0px 8px;
+}
+
+#prizefund tr.salmon td  { 
+color:#000000; 
+background-color: #FEE0C6; 
+border-top: 1px; 
+border-right: 1px;
+border-bottom: 1px;
+border-left: 1px;
+border-style: solid; 
+border-color: lightsteelblue; 
+}
+
+#prizefund tr.blue td  { 
+color:#000000; 
+background-color: #E0EEEE; 
+border-top: 1px; 
+border-right: 1px;
+border-bottom: 1px;
+border-left: 1px;
+border-style: solid; 
+border-color: lightsteelblue; 
+}
+
+
+.footer {
+position: relative;
+float: left;
+width: 950px;
+height: 150px;
+margin: 50px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+border-style: dotted;
+border-width: 1px 0px 0px 0px;
+background-color: palegoldenrod;
+}
+
+.footer p {
+padding: 0px;
+font-size: 12px;
+margin: 20px 0px 0px 10px;
+border: 0px solid black;
+ }
+
+#footermenutop {
+width: 500px;
+height: 20px;
+font-size: 14px;
+line-height: 20px;
+border: 0px dotted black;
+margin: 0 auto;
+margin-top: 25px;
+padding: 5px 0px 5px 0px;
+}
+
+#footermenutop a{
+text-decoration: none;
+}
+
+#footermenubottom {
+width: 375px;
+height: 20px;
+font-size: 14px;
+line-height: 20px;
+border: 0px dotted green;
+margin: 0 auto;
+padding: 0px 0px 5px 0px;
+}
+
+#footermenubottom a {
+text-decoration: none;
+}
+
+.spacebar{
+position: relative;
+float: left;
+width:890px;
+height:25px;
+}

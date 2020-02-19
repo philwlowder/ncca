@@ -1,0 +1,548 @@
+/* -------------------------------------- v1.0 | 20080212 from  http://meyerweb.com/eric/tools/css/reset/ -----------------  */
+/* -------------------------------------- css reset values ----------------------------------------------------------------- */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent; }
+
+ol, ul { 	list-style: none; }
+blockquote, q { 	quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: '';	content: none; }
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* --------------------------- end of reset --------------------------------------------------------- */
+
+/* ----------------- a simple grid system based on the work of Nicole Sullivan http://wiki.github.com/stubbornella/oocss/ */
+
+.line:after,.lastUnit:after{clear:both;display:block;visibility:hidden;overflow:hidden;height:0 !important;line-height:0;font-size:xx-large;content:" x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x ";}
+.line{*zoom:1; border: 0 solid red;}
+.unit{float:left;}
+.size100{float:none}
+.size90{width:90% }
+.size80{width:80% }
+.size70{width:70% }
+.size60{width:60% }
+.size50{width:50% }
+.size48{width:48% }
+.size45{width:45% }
+.size40{width:40% }
+.size30{width:30% }
+.size25{width:25% }
+.size22{width:22% }
+.size20{width:20% }
+.size16{width:16% }
+.size15{width:15% }
+.size10{width:10% }
+.lastUnit{display:table-cell;float:none;width:auto;*display:block;*zoom:1;_position:relative;_left:-3px;_margin-right:-3px;}
+
+/* -------------------------------- end grid values -------------------------------------------------------- */
+
+body {
+    font-family: arial,helvetica,clean,sans-serif;
+    font-size: 14px;
+    letter-spacing: .5px;
+    font-size-adjust: none;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.231;
+    background-color: #F5F3EF;
+}
+
+.bottom_10 {margin-bottom: 10px;}
+.bottom_25 {margin-bottom: 25px;}
+.bottom_50 {margin-bottom: 50px;}
+
+.bold {font-weight: bold;}
+.center {text-align: center; vertical-align:bottom;}
+.font14{font-size: 14px;}
+.font16{font-size: 16px;}
+.font18{font-size: 18px;}
+.font20 {font-size: 20px;}
+.font24 {font-size: 24px;}
+
+.height_130 {line-height: 130%}
+.height_150  {line-height: 150%}
+.height_175  {line-height: 175%}
+
+.indent_15{text-indent: 15px;}
+.indent_20{text-indent: 20px;}
+.indent_25{text-indent: 25px;}
+
+.float_left {position:relative; float: left;}
+.float_right {position:relative; float: right;}
+.left { margin: 10px 5px 10px 5px; float:left;}
+
+.left_10 {margin-left: 10px;}
+.left_25 {margin-left: 25px;}
+.left_50 { margin-left: 50px;}
+.left_75 { margin-left: 75px;}
+.left_100 { margin-left: 100px;}
+.left_125 { margin-left: 125px;}
+
+.left_10pc {margin-left: 10%;}
+.left_15pc {margin-left: 15%;}
+.left_20pc {margin-left: 20%;}
+.left_25pc {margin-left: 25%;}
+
+.color_blue {background-color: #65a8da;} /* home page header blue */
+.color_green {background-color: #58AE8B;} /* sub page header green */
+.red {color: red;}
+
+.right { margin: 10px 10px 10px 5px; float: right;}
+.right_10 {margin-right: 10px;}
+.right_10pc {margin-right: 10%}
+.right_20pc {margin-right: 20%}
+.right_30pc {margin-right: 30%}
+
+.top_10pc { margin-top: 10%;}
+.top_25 { margin-top: 25px;}
+.top_15 { margin-top: 15px;}
+.top_50 {margin-top: 50px;}
+.top_75{margin-top: 75px;}
+.top_100 {margin-top: 100px;}
+.top_150 {margin-top: 150px;}
+
+.top_10 { margin-top: 10px;}
+.top_none {margin-top: 0;}
+
+.width_100 {width: 100%;}
+.width_90 {width: 90%;}
+.width_75 {width: 75%;}
+.width_60 {width: 60%;}
+.width_50 {width: 50%;}
+
+.table img { float: right;}
+.logo img{ margin: 5px 0 0 5px;} 
+.nav { border-top: 1px solid black; width: 980px;}
+.nav img { float: right;}
+
+.noindent { text-indent: 0; }
+
+h1 { font-size: 32px;}
+h2 { font-size: 24px; text-align: left; margin: 30px 0 10px 0;}
+h3 { font-size: 18px; text-align: left; margin: 5px 0 10px 5px; }
+h4 { font-size: 16px; text-align: left; margin: 5px 0 10px 5px; }
+
+.heading  {text-align: center;}
+
+/* --------------------------  the Page class wraps around all the content    ------------------------------------ */
+
+.page {
+margin-right: auto;
+margin-left: auto;
+margin-top: 10px;
+margin-bottom: 50px;
+border: 1px solid black;
+background-color: #fdfdfa;  
+color: black; /* text color */
+width: 960px;
+}
+
+
+/* -----------------------------------  a header class for the home page   ----------------------------------------------- */
+
+.home_header {
+border-bottom: 1px solid black;
+height: 100px;
+width: 960px;
+background-color: #65a8da;
+font-size: 40px;
+}
+
+/* -----------------------------------  a header class for each page    ----------------------------------------------- */
+
+.header {
+border-bottom: 1px solid black;
+height: 100px;
+width: 960px;
+margin-bottom: 25px;
+background-color: #58AE8B;
+}
+
+.title  {font-weight:normal; margin-top: 40px; margin-bottom: 10px;}
+
+.heading h2 { font-size: 20px; text-align: center; margin: 10px 0 0 0;}
+.heading h3 { font-size: 16px; text-align: center; margin: 10px 0 0 0;}
+.heading {margin: 0 0 20px 0;}
+
+.header span{
+font-size: 24px;
+}
+
+.first {
+color: white;
+margin-right: 10px;
+}
+
+/* -----------------------------------  a a chessboard logo for each page    ----------------------------------------------- */
+
+.nccalogo {
+background-image:url(../jpeg/nccaboard.jpg);
+display:block;
+height:75px;
+width:75px;
+margin: 10px 0 0 10px;
+border: 1px solid black;
+}
+  
+/* --------------------------- the css_box class is a generic box that is extended by other classes ----------------------- */
+/* ---------------------------- attempting OOCSS or object oriented css  -------------------------------------------------- */ 
+
+.css_box {
+border: 0 solid #00008B;	/* color darkblue -- change 0 to 1px to see the box border  */
+margin-top: 10px; 
+margin-bottom: 10px;
+}
+
+.css_box li {
+margin: 3px 0 0 25px;
+}
+
+.css_box p {
+margin-bottom: 7px;
+margin-top: 7px;
+}
+
+.clubs {
+margin-left: 15%;
+width: 60%;
+}
+
+.clubs h2 {
+line-height: 130%;
+}
+
+.club_address{
+margin-left: 25px;
+line-height: 130%;
+}
+
+.alert{
+  /* background-color: #FFFFCC; */
+  background-image: url(../png/info48.png);
+  background-position: left top;
+  background-repeat:no-repeat;
+}
+
+.alert p{
+margin: 0 0 5px 75px;
+font-size: 16px;
+border: 0 solid black;
+}
+
+
+.slide_picture {
+background-color: #F9F9F9;
+border: 1px solid #CCCCCC;
+padding: 4px 4px 4px 4px;
+font-size: 10px;
+color: black;
+margin-left: 0;
+margin-right: 0;
+}
+
+.slide_picture img {
+background-color: #ffffff;          
+border: 2px solid #CCCCCC;
+}
+
+.krushpic {
+background-color: #F9F9F9;
+border: 1px solid #CCCCCC;
+padding: 4px 8px 4px 4px;
+font-size: 10px;
+color: black;
+margin-left: 5px;
+margin-right: 5px;
+}
+
+.krushpic img {
+background-color: #ffffff;          
+border: 2px solid #CCCCCC;
+}
+
+.picture {
+background-color: #F9F9F9;
+border: 1px solid #CCCCCC;
+padding: 4px 8px 4px 4px;
+font-size: 10px;
+color: black;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.picture img {
+background-color: #ffffff;          
+border: 2px solid #CCCCCC;
+}
+
+.normal_list li {
+list-style-type: square;
+}
+
+.nested_list li ul li  {
+list-style-type: circle;
+margin: 5px 0 5px 25px;
+}
+
+/* ---------------------------- column ------------------------------------------------- */
+
+.column {
+margin-left: 20px;
+margin-right: 5px;
+border: 0 solid black;
+}
+
+.column h3 {
+font-size: 16px;
+text-align: center;
+}
+
+.column p {
+letter-spacing: .5px;
+margin-top: 5px;
+margin-bottom: 10px;
+}
+
+
+.sig {
+margin-top: 15px;
+margin-left: 30px;
+color: black;
+font-size: 14px;
+letter-spacing: normal;
+text-indent: none;
+}
+
+ .sig p:first-line {
+font-size: 16px;
+}
+
+
+/* the NEW class defines the What's New area */
+
+.new { width: 450px;
+font-size: 13px;
+margin: 0 0 0 0;
+padding: 5px 5px 5px 5px;
+background-color: #F2F2F2;
+border: 1px solid black;
+text-indent: 0;
+}
+
+.new p { margin: 5px 5px 5px 5px; }
+
+/* the CORNER class contains an embedded google doc */
+
+
+.corner {
+width: 450px;
+/* background-color: #65a8da; */		 /* blue */
+background-color: #e8c89d; 					/* tan */
+border: 1px solid red;
+margin: 5px 0 0 0;
+padding: 50px 0 0 0;
+text-indent: 0;
+}
+
+.corner h4 { margin: 10px 0 0 10px;}
+
+.corner p {
+text-indent: 0;
+margin: 5px 50px 5px 5px;
+}
+
+.sitemap {
+margin: 50px 0 50px 50px;
+}
+
+.sitemap ul li {
+font-size: 18px;
+line-height: 150%;
+list-style-type: disc;
+margin: 10px 0 2px 25px;
+}
+
+.sitemap ul li ul li  {
+font-size: 14px;
+line-height: 120%;
+margin: 10px 0 2px 50px;
+list-style-type: circle;
+}
+
+.article {
+position: relative;
+float: left;
+width: 750px;
+border-bottom: 1px;
+border-bottom-style:dashed;
+border-bottom-color: black;
+font-size: 14px;
+margin: 20px 0 20px 50px;
+padding: 0 0 10px 0;
+}
+
+.article p {
+text-indent: 20px;
+}
+
+
+/* -------------------- the css_table class is a generic table that will be extended by other classes ---------------------- */
+/* --------------------- attempting OOCSS or object oriented css  ---------------------------------------------------------- */ 
+
+.css_table {
+border: 0 solid #B0C4DE;	/* lightsteelblue */
+margin-top: 25px;
+margin-bottom: 25px;
+background: #fdfdfa;
+}
+
+.css_table caption {
+background: #fdfdfa;
+font-size: 18px;
+padding-left: 5px;
+text-align: left;
+}
+
+.css_table th {
+background: #FFF7E6;
+font-size:14px;
+border: 1px solid #B0C4DE;  /* lightsteelblue */
+padding-left: 5px;
+padding-right: 5px;
+}
+
+.css_table tr:hover{background-color: #FFF7E6;} 
+
+
+.css_table tr {
+line-height: 40px;
+border: 0 solid #B0C4DE;	/* lightsteelblue */
+}
+
+.css_table td {
+border: 1px solid #B0C4DE;	/* lightsteelblue */
+padding-left: 5px;
+padding-right: 15px;
+font-size: 14px;
+}
+
+
+.multiday{
+background-color: #EDEFF2;
+}
+
+.css_table tr.white {
+line-height: 20px;
+padding-top: 5px;
+background-color: white;
+border: 1px solid lightsteelblue;
+}
+
+.css_table tr.salmon {
+line-height: 20px;
+padding-top: 5px;
+background-color: #FEE0C6;
+border: 1px solid lightsteelblue;
+}
+
+.css_table .yellow{
+background-color: yellow;
+}
+
+.css_table tr.blue {
+line-height: 20px;
+padding-top: 5px;
+background-color: #E0EEEE;
+border: 1px solid lightsteelblue;
+}
+
+.date {
+width: 160px;
+}
+
+.name { 
+}
+
+.location {
+
+}
+
+.grand_prix{
+text-align: center;
+}
+
+.cross_table {
+text-align: center;
+}
+
+.report { 
+text-align: center;
+}
+
+.photo { 
+text-align: center;
+}
+
+
+
+
+
+/* ------------------------- a footer class for the bottom of each page --------------------------------- */
+
+.footer {
+width: 960px;
+height: 100px;
+margin-top: 25px;
+border-top: 1px solid white;
+background-color: #e8c89d;
+}
+
+.footer p {
+font-size: 12px;
+margin-top: 25px;
+margin-left: 10%;
+}
+
+/* --------------------  bannermenu is an advertisemnet just above the footer  ----------------------------------- */
+
+.bannermenu {
+margin: 0 auto;
+height: 36px;
+margin: 50px 0 0 0;  /* positions the top menu 25 pixels from the left side of the container border */
+width: 960px;               /* makes the width of the banner 980px */
+border: 0 solid red;      /* change to a 1px value to see the border for this class */
+font-size: 22px;
+}
+
+.bannermenu ul{
+margin: 0;
+padding: 0;
+float: left;
+margin: 0 0 0 40px;
+}
+
+.bannermenu ul li {
+display: inline;
+}
+
+.bannermenu ul li a {
+float: left;
+color: blue;
+padding: 0 45px 0 45px;     /* creates space around the menu item */
+text-decoration: underline;
+}
+
+.bannermenu ul li a:visited{
+color: purple;
+}
+
+.bannermenu ul li a:hover{
+color: silver;
+}
