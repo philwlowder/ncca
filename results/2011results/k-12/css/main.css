@@ -1,0 +1,477 @@
+/* -------------------------------------- v1.0 | 20080212 from  http://meyerweb.com/eric/tools/css/reset/ -----------------  */
+/* -------------------------------------- css reset values ----------------------------------------------------------------- */
+
+html, body, div, span, applet, object, iframe, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent; }
+
+ol, ul { 	list-style: none; }
+blockquote, q { 	quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: '';	content: none; }
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* --------------------------- end of reset --------------------------------------------------------- */
+
+/* ----------------- a simple grid system based on the work of Nicole Sullivan http://wiki.github.com/stubbornella/oocss/ */
+
+.line:after,.lastUnit:after{clear:both;display:block;visibility:hidden;overflow:hidden;height:0 !important;line-height:0;font-size:xx-large;content:" x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x ";}
+.line{*zoom:1; border: 0px solid red;}
+.unit{float:left;}
+.size100{float:none; border:0px solid red;}
+.size90{width:90%; border: 0px solid black;}
+.size80{width:80%; border: 0px dashed red;}
+.size70{width:70%; border: 0px solid black;}
+.size60{width:60%; border: 0px solid black;}
+.size55{width:55%; border: 0px solid black;}
+.size50{width:50%; border: 0px solid black;}
+.size48{width:48%; border: 0px solid red;}
+.size45{width:45%; border: 0px solid black;}
+.size40{width:40%; border: 0px solid black;}
+.size30{width:30%; border: 0px solid black;}
+.size25{width:25%; border: 0px solid black;}
+.size20{width:20%; border: 0px solid black;}
+.size15{width:15%; border: 0px solid black;}
+.size10{width:10%; border: 0px solid black;}
+.lastUnit{display:table-cell;float:none;width:auto;*display:block;*zoom:1;_position:relative;_left:-3px;_margin-right:-3px;}
+
+/* -------------------------------- end grid values -------------------------------------------------------- */
+
+body { 
+line-height: 125%;
+font-size: 14px; 
+font-family: Arial, Helvetica, sans-serif; 
+background-color: #F5F3EF;
+}
+
+.bottom_10 {margin-bottom: 10px;}
+.bottom_25 {margin-bottom: 25px;}
+.bottom_50 {margin-bottom: 50px;}
+
+.bold {font-weight: bold;}
+.center {text-align: center; vertical-align:bottom;}
+.font14{font-size: 14px;}
+.font16{font-size: 16px;}
+.font18{font-size: 18px;}
+.font20 {font-size: 20px;}
+.font24 {font-size: 24px;}
+
+.height_130 {line-height: 130%}
+.height_150  {line-height: 150%}
+.height_175  {line-height: 175%}
+
+.indent_15{text-indent: 15px;}
+.indent_20{text-indent: 20px;}
+.indent_25{text-indent: 25px;}
+
+.float_left {position:relative; float: left;}
+.float_right {position:relative; float: right;}
+.left {margin: 10px 5px 10px 5px; float:left;}
+
+.left_10 {margin-left: 10px;}
+.left_25 {margin-left: 25px;}
+.left_50 { margin-left: 50px;}
+.left_75 { margin-left: 75px;}
+.left_100 { margin-left: 100px;}
+.left_125 { margin-left: 125px;}
+
+.left_10pc {margin-left: 10%;}
+.left_15pc {margin-left: 15%;}
+.left_20pc {margin-left: 20%;}
+.left_25pc {margin-left: 25%;}
+.left_60pc {margin-left: 60%;}
+
+
+.color_green {background-color: #58AE8B;} /* sub page header green */
+.red {color: red;}
+
+
+.rightplus { margin: 10px 50px 10px 25px; float: right;}
+.right { margin: 10px 10px 10px 5px; float: right;}
+.right_10 {margin-right: 10px;}
+.right_10pc {margin-right: 10%}
+.right_20pc {margin-right: 20%}
+.right_30pc {margin-right: 30%}
+
+.top_10pc { margin-top: 10%;}
+.top_25 { margin-top: 25px;}
+.top_15 { margin-top: 15px;}
+.top_50 {margin-top: 50px;}
+.top_100 {margin-top: 100px;}
+
+.top_10 { margin-top: 10px;}
+.top_none {margin-top: 0px;}
+.top_50 { margin-top: 50px;}
+
+.width_100 {width: 100%;}
+.width_90 {width: 90%;}
+.width_75 {width: 75%;}
+.width_60 {width: 60%;}
+.width_50 {width: 50%;}
+
+.table img { float: right;}
+
+.noindent { text-indent: 0px; }
+
+h1 { font-size: 34px; text-align: left; margin: 0px 0px 0px 0px; font-weight: 300;}
+h2 { font-size: 22px; text-align: left; margin: 30px 0px 10px 0px; font-weight: 300;}
+h3 { font-size: 18px; text-align: left; margin: 5px 0px 10px 5px; font-weight: 300;}
+h4 { font-size: 16px; text-align: left; margin: 5px 0px 10px 5px; }
+
+
+/* --------------------------  the Page class wraps around all the content    ------------------------------------ */
+
+.page {
+position: relative;
+margin-right: auto;
+margin-left: auto;
+margin-top: 10px;
+margin-bottom: 50px;
+border: 1px solid black;
+background-color: #fdfdfa;  
+color: black; /* text color */
+width: 960px;
+}
+
+
+/* heading for home page */ 
+
+.heading  {
+text-align: center;
+margin: 0px 0px 20px 0;
+}
+
+/* -----------------------------------  a header class for each sub page    ----------------------------------------------- */
+
+.header {
+border-bottom: 1px solid black;
+height: 100px;
+width: 960px;
+margin-bottom: 0;
+/* for background color, see logo.css */
+}
+
+.title  {
+text-align: center;
+width: 790px;
+padding-top: 35px;
+height: 40px;
+font-weight:normal; 
+border: 0 solid black;
+}
+
+
+/* --------------------------- the css_box class is a generic box that is extended by other classes ----------------------- */
+/* ---------------------------- attempting OOCSS or object oriented css  -------------------------------------------------- */ 
+
+.css_box {
+border: 0 solid #00008B;	/* color darkblue -- change 0px to 1px to see the box border  */
+margin-top: 10px; 
+margin-bottom: 10px;
+}
+
+.css_box li {
+margin: 3px 0px 0px 25px;
+}
+
+.css_box p {
+margin-bottom: 7px;
+margin-top: 7px;
+}
+
+.box_title {
+display:inline;
+font-size: 18px;
+font-weight: 500;
+padding-left: 10px;
+}
+
+.bullet {
+display:inline;
+font-size: 16px;
+font-weight:300;
+margin: 0 0 0 25px;
+}
+
+
+/* ---------------------------*/
+
+
+.clubs {
+margin-left: 15%;
+width: 60%;
+background-color: #F2F2F2;
+border: 1px solid #B5B5B5;
+margin: 20px 0px 20px 150px;
+padding: 10px 20px 10px 25px;
+}
+
+
+.club_address{
+margin-left: 25px;
+line-height: 130%;
+}
+
+
+.slide_picture {
+background-color: #F9F9F9;
+border: 1px solid #CCCCCC;
+padding: 4px 4px 4px 4px;
+font-size: 10px;
+color: black;
+margin-left: 0px;
+margin-right: 0px;
+}
+
+/* ---------------------------*/
+
+.slide_picture img {
+background-color: #ffffff;          
+border: 2px solid #CCCCCC;
+}
+
+.picture {
+background-color: #F9F9F9;
+border: 1px solid #CCCCCC;
+padding: 4px 8px 4px 4px;
+font-size: 10px;
+color: black;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.picture img {
+background-color: #ffffff;          
+border: 2px solid #CCCCCC;
+}
+
+/* ---------------------------*/
+
+.normal_list li {
+list-style-type: square;
+}
+
+.nested_list li ul li  {
+list-style-type: circle;
+margin: 5px 0px 5px 25px;
+}
+
+/* ---------------------------- column ------------------------------------------------- */
+
+.column {
+margin-left: 25px;
+margin-right: 10px;
+border: 1px solid black;
+}
+
+.column p {
+margin-top: 5px;
+margin-bottom: 10px;
+}
+
+/* ---------------------------*/
+
+.sig {
+margin-top: 15px;
+margin-left: 30px;
+color: black;
+font-size: 14px;
+letter-spacing: normal;
+text-indent: none;
+}
+
+.sig p:first-line {
+font-size: 16px;
+}
+
+
+/* ---------------------------*/
+
+.sitemap {
+margin: 50px 0px 50px 50px;
+}
+
+.sitemap ul li {
+font-size: 18px;
+line-height: 150%;
+list-style-type: disc;
+margin: 10px 0px 2px 25px;
+}
+
+.sitemap ul li ul li  {
+font-size: 14px;
+line-height: 120%;
+margin: 10px 0px 2px 50px;
+list-style-type: circle;
+}
+
+/* ---------------------------*/
+
+.article {
+width: 600px;
+background-color: #F2F2F2;
+font-size: 14px;
+margin: 20px 0px 20px 100px;
+padding: 10px 20px 10px 25px;
+}
+
+.article p {
+text-indent: 20px;
+}
+
+/* ---------------------------*/
+
+.news {
+width: 700px;
+background-color: #F2F2F2;
+border: 1px solid #B5B5B5;
+font-size: 14px;
+margin: 20px 0px 20px 100px;
+padding: 10px 20px 10px 25px;
+}
+
+.news_title {
+font-size: 22px;
+color: #3C7C63;
+padding: 10px 20px 10px 25px;
+}
+
+.news_date {
+font-size: 16px;
+padding: 10px 20px 10px 0px;
+}
+
+.news p {
+padding: 10px 20px 10px 25px;
+}
+
+/* -------------------- the css_table class is a generic table that will be extended by other classes ---------------------- */
+/* --------------------- attempting OOCSS or object oriented css  ---------------------------------------------------------- */ 
+
+.css_table {
+border: 0 solid #B0C4DE;	/* lightsteelblue */
+margin-top: 25px;
+margin-bottom: 25px;
+background: #fdfdfa;
+}
+
+.css_table caption {
+background: #fdfdfa;
+font-size: 14px;
+padding-left: 5px;
+text-align: left;
+}
+
+.css_table th {
+background: #FFF7E6;
+font-size:14px;
+border: 1px solid #B0C4DE;  /* lightsteelblue */
+padding-left: 5px;
+padding-right: 5px;
+}
+
+.css_table tr:hover{background-color: #FFE4A8;} 
+
+.css_table tr {
+line-height: 40px;
+border: 0 solid #B0C4DE;	/* lightsteelblue */
+}
+
+.css_table td {
+border: 1px solid #B0C4DE;	/* lightsteelblue */
+padding-left: 5px;
+padding-right: 15px;
+font-size: 14px;
+}
+
+.multiday{
+background-color: #B0C4DE;
+}
+
+.date {
+width: 160px;
+}
+
+.name { 
+text-align: left;
+}
+
+.location {
+text-align: left;
+}
+
+.grand_prix{
+text-align: center;
+}
+
+.cross_table {
+text-align: center;
+}
+
+.report { 
+text-align: center;
+}
+
+.photo { 
+text-align: center;
+}
+
+/* ------------------------- a footer class for the bottom of each page --------------------------------- */
+
+.footer {
+width: 960px;
+height: 100px;
+margin-top: 25px;
+border-top: 1px solid white;
+}
+
+.footer p {
+font-size: 12px;
+margin-top: 25px;
+margin-left: 10%;
+}
+
+/* ---------------------------*/
+
+.backtotop {
+
+margin: 5px 5px 5px 25px;
+
+}
+
+/* --------------------  bannermenu is an advertisemnet just above the footer  ----------------------------------- */
+
+.bannermenu {
+margin: 0 auto;
+height: 36px;
+width: 960px;               /* makes the width of the banner 960px */
+border: 0px solid red;      /* change to a 1px value to see the border for this class */
+font-size: 22px;
+}
+
+.bannermenu ul{
+margin: 0;
+padding: 0;
+}
+
+.bannermenu ul li {
+display: inline;
+}
+
+.bannermenu ul li a {
+color: blue;
+padding: 0px 45px 0px 45px;     /* creates space around the menu item */
+text-decoration: underline;
+}
+
+.bannermenu ul li a:visited{
+color: purple;
+}
+
+.bannermenu ul li a:hover{
+color: silver;
+}

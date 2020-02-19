@@ -1,0 +1,192 @@
+/* -------------------------------------- v1.0 | 20080212 from  http://meyerweb.com/eric/tools/css/reset/ -----------------  */
+/* -------------------------------------- css reset values ----------------------------------------------------------------- */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent; }
+
+ol, ul { 	list-style: none; }
+blockquote, q { 	quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: '';	content: none; }
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/* -------------------------------- end grid values -------------------------------------------------------- */
+
+h1 { font-size: 28px;}
+h2 { font-size: 22px; font-weight: 300; padding: 25px 0px 0px 300px; border: 0px solid black; }
+h3 { font-size: 18px; text-align: left; margin: 5px 0px 10px 5px; }
+h4 { font-size: 16px; text-align: left; margin: 5px 0px 10px 5px; }
+
+/* --------------------------  the Page class wraps around all the content    ------------------------------------ */
+
+
+.width80{width: 80%}
+.width70{width: 70%}
+.width60{width: 60%}
+.width50{width: 50%}
+.width40{width: 40%}
+.width30{width: 30%}
+.width20{width: 20%}
+
+.floatright{ float: right;}
+.floatleft{ float: left;}
+.clearright{ clear: right;}
+.clearleft{ clear: left;}
+
+.margintop50 {margin-top: 50px;}
+.marginleft50 {margin-top: 50px;}
+
+body {
+font-family: Arial, Helvetica, sans-serif; 
+background-color: #E0E0E0;
+font-size: 16px; 
+}
+
+.page {
+margin-right: auto;
+margin-left: auto;
+width: 100%;
+max-width: 860px;
+margin-top: 20px;
+margin-bottom: 50px;
+border: 1px solid black;
+background-color: white;
+}
+
+.header {
+width: 100%;
+height: 100px;
+border-bottom: 0px solid black;
+}
+
+.header p {
+font-size: 20px;
+margin: 20px 0 0 50px;
+}
+
+.header img {
+max-width: 318px;
+width: 40%;
+margin: 0% 0% 0% 3%;
+}
+
+
+.nav {
+width: 100%;
+height: 40px;
+background-color: #F2F2F2;
+border-top: 1px solid #B5B5B5;
+border-bottom: 1px solid #B5B5B5;
+}
+
+.main {
+width: 100%;
+background-color: white;
+}
+
+.footer { 
+width: 100%;
+height: 50px;
+background-color: white;
+border-top: 0px solid black;
+}
+  
+.footer_box {
+position: relative;
+width: 400px;
+color:#2159A9;
+margin: 15px 0px 0px 50px;
+border: 0px solid #00008B;	/* color darkblue -- change 0px to 1px to see the box border  */
+}
+
+.frame {
+width: 50%;
+position: relative;
+margin: 0 0 0 10%;
+border: 0px solid red;
+}
+
+.article {
+position: relative;
+margin: 20px 0px 20px 100px;
+border: 0px solid #CCCCCC;
+}
+
+.article p {
+text-indent: 0;
+margin: 12px 0px 12px 0px;
+}
+
+.art-title {
+margin: 0 0 0 100px;
+}
+
+.article2{
+position: relative;
+border: 0px solid #CCCCCC;
+margin-bottom: 50px;
+}
+
+.article2 p{
+font-size: 1.3em;
+text-indent: 0em;
+margin: 25px 0px 0px 25px;
+}
+
+
+.picture {
+background-color: #F9F9F9;
+border: 1px solid #CCCCCC;
+padding: 4px;
+font-size: 11px;
+color: black;
+}
+
+.picture img {
+border: 1px solid #CCCCCC;
+vertical-align: middle;
+margin-bottom: 5px;
+}
+
+.right { margin: 10px 5px 10px 5px; float:right; }
+.left { margin: 10px 5px 10px 5px; float:left;}
+
+
+.menu {
+font-size: 1.3em;
+margin: 0% 0% 0% 3%;  /* positions the top menu 160 pixels from the left side of the container border */
+width: 100%; 
+border: 0px solid black;      /* add a 1px value to see the border for this element */
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.menu ul li {
+display: inline;
+}
+
+.menu ul li a{
+/* height: 30px; */
+color: #2159A9;
+padding-left: 1%;
+padding-right: 1%;
+padding-top: 11px;    /* creates space around the menu item */
+padding-bottom: 10px;
+border: 0px solid red;  /* */
+text-decoration: none;
+}
+
+.menu ul li a:visited{
+color: purple;
+}
+
+.menu ul li a:hover{
+color: white;
+background-color:#2159A9;  /* dark blue */
+}

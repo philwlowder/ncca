@@ -1,0 +1,222 @@
+
+.header {
+position: relative;
+float: left;
+border-width: 1px 1px 0px 1px;
+border-style: solid;
+border-color: black;
+height: 100px;
+width: 950px;
+margin: 5px 0px 0px 5px;
+background-color: #58AE8B;
+}
+
+.header img {
+float: left;
+margin: 0px 0px 0px 0px;
+border: 0px solid green;
+}
+
+.logo {
+position: relative;
+float: left;
+height: 75px;
+width: 75px;
+margin: 10px 1px 1px 10px;
+border: 1px solid black;
+}
+
+.caption {
+float: left;
+clear: both;
+text-align: center;
+font-size: 12px;
+margin-left: 10px;
+color: black;
+}
+
+.title  {
+width: 750px;
+border: 0px solid green;
+margin: 0 auto;
+text-align: center;
+margin-top: 20px;
+}
+
+.title p {
+font-size: 40px;
+margin: 5px 5px 5px 5px;
+text-align: center;
+}
+
+
+h1 {
+font-size: 32px;
+border: 0px solid black;
+width: 500px;
+margin: 100px 0px 0px 50px;
+}
+
+h2 {
+font-size: 26px;
+border: 0px solid black;
+width: 600px;
+margin: 25px 0px 0px 50px;
+}
+
+.middle  {
+position: relative;
+float: left;
+width: 950px;
+color: black;
+background-color: white;       
+margin: 0px 0px 0px 5px;
+border: 1px solid black;
+border-bottom-width: 0px;
+}
+
+.middle p {
+font-size: 14px;
+color: black;
+margin: 0px 0px 0px 0px;
+}
+
+.alert {
+position: relative;
+float: left;
+font-size: 18px;
+width: 850px;
+height: 75px;
+border: 0px solid black;
+margin: 0px 0px 10px 50px;
+}
+
+.alert p {
+positional: relative;
+float: right;
+font-size: 16px;
+margin: 25px 350px 0px 0px;
+}
+
+.alert img {
+positional: relative;
+float: left;
+margin: 10px 0px 10px 100px;
+}
+
+.article {
+position: relative;
+float: left;
+margin: 0px 0px 0px 50px;
+border: 0px solid black;
+width: 850px;
+}
+
+.article p {
+font-size: 15px;
+margin: 10px 0px 20px 0px;
+}
+
+.footer {
+position: relative;
+float: left;
+width: 950px;
+height: 150px;
+margin: 0px 0px 0px 5px;
+border-color: black;
+border-top-style: dotted;
+border-bottom-style: solid;
+border-right-style: solid;
+border-left-style: solid;
+border-width: 1px 1px 1px 1px;
+background-color: #e8c89d;
+}
+
+.footer p {
+position: relative;
+float: left;
+padding: 0px;
+font-size: 12px;
+margin: 20px 0px 0px 10px;
+border: 0px solid black;
+}
+
+.footermenutop {
+position: relative;
+float: left;
+width: 950px;
+height: 20px;
+font-size: 14px;
+line-height: 20px;
+border: 0px dotted black;
+text-align: center;
+word-spacing: 4px;
+margin: 25px 0px 5px 0px;
+}
+
+.footermenutop a{
+text-decoration: none;
+}
+
+.footermenubottom {
+position: relative;
+float: left;
+text-align: center;
+width: 950px;
+height: 20px;
+font-size: 14px;
+line-height: 20px;
+border: 0px dotted green;
+word-spacing: 4px;
+}
+
+.footermenutop a{
+text-decoration: none;
+}
+
+.footermenubottom a {
+text-decoration: none;
+}
+
+.spacebar{
+position: relative;
+float: left;
+width:890px;
+height:25px;
+}
+
+.tournaments {
+position: relative;
+float: left;
+border-collapse:collapse;
+margin:20px 0px 20px 100px;
+}
+
+.tournaments caption {
+background: white;
+font-size: 18px;
+text-align: left;
+padding: 10px 8px 10px 8px;
+}
+
+.tournaments th {
+background: #FFF7E6;
+font-size:16px;
+border: 1px solid lightsteelblue;
+padding:5px 8px 5px 8px;
+}
+
+.tournaments tr {
+height: 30px;
+line-height: 32px;
+}
+
+.tournaments td {
+font-size:14px;
+padding:0px 8px 0px 8px;
+border: 1px solid lightsteelblue;
+}
+
+.center {
+text-align: center;
+}

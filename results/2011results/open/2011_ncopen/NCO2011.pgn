@@ -1,0 +1,429 @@
+[Event "NC Open 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.09.02"]
+[Round "1.1"]
+[White "Kacheishvili, GM Georgi"]
+[Black "Mabe, LM Chris"]
+[Result "1/2-1/2"]
+[Annotator "Smith,Daniel M."]
+[PlyCount "159"]
+[EventDate "2011.09.02"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 g5 12. Ne3 gxf4 13. Nxf5 O-O-O 14. Qc2
+Ng6 15. O-O h5 16. Rfc1 Kb8 17. b4 fxg3 18. hxg3 h4 19. b5 hxg3 20. Nxg3 Nf4
+21. Rab1 Nxg2 22. Nd5 Ne3 23. Nxc7 Nxc2 24. bxc6 Kxc7 25. cxd7 Bc5 26. Rxc2 b6
+27. Rc4 Rdg8 28. Kg2 Kxd7 29. Rd1+ Kc7 30. e3 Rd8 31. Rdd4 Rxd4 32. exd4 Rh4
+33. f4 Rxf4 34. Ne2 Re4 35. Kf3 f5 36. Rc1 Kc6 37. a5 Kb7 38. dxc5 bxc5 39.
+Rxc5 Ra4 40. Rxf5 Ka6 41. Ke3 Rxa5 42. Rf7 Re5+ 43. Kd3 Kb6 44. Nc3 Rh5 45.
+Rf6+ Kb7 46. Kc4 Rh7 47. Rg6 Rc7+ 48. Kb4 Rc6 49. Rg7+ Rc7 50. Rg5 Rh7 51. Kb5
+Re7 52. Nd5 Rf7 53. Kc5 Rh7 54. Rf5 Rg7 55. Rh5 Rf7 56. Kb5 Rg7 57. Nb4 Kc7 58.
+Rd5 Rg1 59. Na6+ Kc8 60. Rc5+ Kd7 61. Rc7+ Kd6 62. Rxa7 Rg5+ 63. Kb6 Rg4 64.
+Ra8 Rg1 65. Rd8+ Ke5 66. Nc5 Rh1 67. Nd3+ Kf5 68. Kc5 Rd1 69. Rd5+ Kf6 70. Kd4
+Ke6 71. Ke4 Ra1 72. Rd4 Kf6 73. Rb4 Kg5 74. Rb5+ Kf6 75. Rf5+ Ke6 76. Nf4+ Ke7
+77. Re5+ Kd7 78. Rb5 Re1+ 79. Kd4 Kc6 80. Rg5 {Draw after move 112} 1/2-1/2
+
+[Event "NC Open 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.09.02"]
+[Round "1"]
+[White "LM John Russell Potter"]
+[Black "GM Lubomir Ftacnik"]
+[Result "0-1"]
+[Board "2"]
+[Input "DGT9599"]
+[Owner "South Carolina Chess Association"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. e3 a6 5. a4 e6 6. Nf3 c5 7. b3 Nc6 8. Bb2 cxd4
+9. exd4 Bb4 10. Rc1 Qa5 11. Bd3 Ne4 12. Qc2 Bxc3+ 13. Bxc3 Nb4 14. Bxb4 Qxb4+
+15. Ke2 O-O 16. Rhd1 Bd7 17. Ne5 Be8 18. f3 f6 19. Ng4 Bh5 20. h3 f5 21. Ne5
+Qe7 22. Kf1 Qg5 23. Re1 Qg3 24. fxe4 fxe4+ 25. Kg1 exd3 26. Qxd3 Qf2+ 27. Kh1
+Rf4 28. Rf1 Qxd4 29. Qxd4 Rxd4 30. g4 Be8 31. c5 Re4 32. c6 bxc6 33. Nxc6 h6
+34. Ne7+ Kh7 35. Rf8 d4 36. Kg1 d3 37. Rd1 Re3 38. h4 Bc6 39. Rf7 Bf3 40. Kf2
+Bxd1 41. Kxe3 Ra7 42. Kxd3 Bxg4 43. Rf4 Rd7+ 44. Rd4 Rxd4+ 45. Kxd4 Bd1 46. Kc3
+g5 47. hxg5 hxg5 48. Nc6 g4 49. Nd4 e5 50. Nf5 Kg6 51. Ng3 Kg5 52. Ne4+ Kf4 53.
+Nf2 g3 54. Nh3+ Ke3 55. a5 Bg4 56. Ng1 Kf2 57. b4 Kxg1 58. b5 axb5 59. a6 Bf3
+0-1
+
+[Event "NC Open 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.09.03"]
+[Round "1a"]
+[White "NM Donny Gray"]
+[Black "IM Jonathan Schroer"]
+[Result "0-1"]
+[Board "2"]
+[Input "DGT9599"]
+[Owner "South Carolina Chess Association"]
+[WhiteClock "1:15"]
+[BlackClock "1:15"]
+[Clock "B/0:59"]
+
+1. e4 { [%clk 1:15] } c5 { [%clk 1:04] } 2. Nc3 { [%clk 1:15] } e6 { [%clk
+1:04] } 3. f4 { [%clk 1:15] } d5 { [%clk 1:04] } 4. Nf3 { [%clk 1:14] } dxe4 {
+[%clk 1:04] } 5. Nxe4 { [%clk 1:14] } Nc6 { [%clk 1:04] } 6. Bb5 { [%clk 1:08]
+} Bd7 { [%clk 1:03] } 7. Qe2 { [%clk 1:03] } Nh6 { [%clk 1:02] } 8. b3 { [%clk
+0:58] } Nf5 { [%clk 0:59] } 9. c3 { [%clk 0:56] } Be7 { [%clk 0:53] } 10. Bb2
+{ [%clk 0:52] } O-O { [%clk 0:52] } 11. O-O { [%clk 0:51] } Qb6 { [%clk 0:48]
+} 12. Bxc6 { [%clk 0:47] } Bxc6 { [%clk 0:48] } 13. c4 { [%clk 0:44] } Bxe4 {
+[%clk 0:39] } 14. Qxe4 { [%clk 0:44] } Rad8 { [%clk 0:39] } 15. g4 { [%clk
+0:36] } Nd4 { [%clk 0:35] } 16. Nxd4 { [%clk 0:34] } cxd4 { [%clk 0:35] } 17.
+f5 { [%clk 0:28] } Bf6 { [%clk 0:23] } 18. d3 { [%clk 0:23] } exf5 { [%clk
+0:22] } 19. Qxf5 { [%clk 0:19.58] } Rfe8 { [%clk 0:15.12] } 20. Rae1 { [%clk
+0:15.48] } h6 { [%clk 0:10.35] } 21. Bc1 { [%clk 0:09.53] } Qa6 { [%clk
+0:09.47] } 22. a4 { [%clk 0:08.58] } Qb6 { [%clk 0:08.53] } 23. Qb5 { [%clk
+0:08.18] } Qc6 { [%clk 0:08.21] } 24. Qxc6 { [%clk 0:07.25] } bxc6 { [%clk
+0:08.21] } 25. b4 { [%clk 0:07.23] } Be7 { [%clk 0:04.35] } 26. Bd2 { [%clk
+0:07.00] } a6 { [%clk 0:04.21] } 27. Re4 { [%clk 0:06.21] } Bh4 { [%clk
+0:03.24] } 28. Rff4 { [%clk 0:04.22] } Bg5 { [%clk 0:03.20] } 29. Rxe8+ {
+[%clk 0:02.32] } Rxe8 { [%clk 0:03.20] } 30. Rf2 { [%clk 0:02.37] } Bxd2 {
+[%clk 0:02.55] } 31. Rxd2 { [%clk 0:02.37] } Re1+ { [%clk 0:02.55] } 32. Kf2 {
+[%clk 0:02.36] } Rb1 { [%clk 0:02.51] } 33. Kf3 { [%clk 0:01.57] } Rxb4 {
+[%clk 0:02.51] } 34. Ke4 { [%clk 0:01.57] } Rxa4 { [%clk 0:02.51] } 35. Kxd4 {
+[%clk 0:01.57] } Ra5 { [%clk 0:02.51] } 36. Rb2 { [%clk 0:01.53] } Rg5 { [%clk
+0:02.51] } 37. h3 { [%clk 0:01.47] } h5 { [%clk 0:02.41] } 38. gxh5 { [%clk
+0:01.35] } Rxh5 { [%clk 0:02.41] } 39. Rb8+ { [%clk 0:01.24] } Kh7 { [%clk
+0:02.41] } 40. Rc8 { [%clk 0:01.24] } Rh4+ { [%clk 0:02.38] } 41. Kc3 { [%clk
+0:01.24] } Rh6 { [%clk 0:02.38] } 42. d4 { [%clk 0:01.19] } a5 { [%clk
+0:02.31] } 43. Ra8 { [%clk 0:01.19] } Rxh3+ { [%clk 0:02.31] } 44. Kc2 { [%clk
+0:01.19] } Ra3 { [%clk 0:02.31] } 45. Kb2 { [%clk 0:01.10] } Rd3 { [%clk
+0:02.31] } 46. Rxa5 { [%clk 0:01.16] } Rxd4 { [%clk 0:02.31] } 47. Rc5 { [%clk
+0:01.16] } Rd6 { [%clk 0:02.31] } 48. Kc3 { [%clk 0:01.15] } g6 { [%clk
+0:02.09] } 49. Re5 { [%clk 0:01.15] } f6 { [%clk 0:02.07] } 50. c5 { [%clk
+0:01.11] } Rd1 { [%clk 0:01.58] } 51. Re6 { [%clk 0:01.11] } Rc1+ { [%clk
+0:01.58] } 52. Kd4 { [%clk 0:01.11] } Kg7 { [%clk 0:01.50] } 53. Rxc6 { [%clk
+0:01.09] } g5 { [%clk 0:01.50] } 54. Rc7+ { [%clk 0:01.02] } Kg6 { [%clk
+0:01.50] } 55. Rc8 { [%clk 1:00] } 0-1
+
+[Event "NC Open 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.09.03"]
+[Round "1a"]
+[White "IM John Bartholomew"]
+[Black "Oliver Fernando"]
+[Result "1-0"]
+[Board "1"]
+[Input "DGT9616"]
+[Owner "South Carolina Chess Association"]
+[WhiteClock "1:15"]
+[BlackClock "1:15"]
+[Clock "B/n/a"]
+
+1. d4 { [%clk 1:15] } g6 { [%clk 1:14] } 2. e4 { [%clk 1:14] } Bg7 { [%clk
+1:14] } 3. Nc3 { [%clk 1:14] } d6 { [%clk 1:14] } 4. Nf3 { [%clk 1:13] } Nf6 {
+[%clk 1:14] } 5. Be2 { [%clk 1:12] } O-O { [%clk 1:13] } 6. O-O { [%clk 1:12]
+} c6 { [%clk 1:11] } 7. Re1 { [%clk 1:08] } h6 { [%clk 1:04] } 8. h3 { [%clk
+1:05] } b5 { [%clk 1:03] } 9. e5 { [%clk 1:04] } Ne8 { [%clk 1:01] } 10. exd6
+{ [%clk 1:02] } Nxd6 { [%clk 0:58] } 11. Bf4 { [%clk 0:56] } a6 { [%clk 0:50]
+} 12. Qd2 { [%clk 0:51] } Kh7 { [%clk 0:46] } 13. Bd3 { [%clk 0:48] } Nd7 {
+[%clk 0:37] } 14. Qe3 { [%clk 0:42] } b4 { [%clk 0:35] } 15. Qxe7 { [%clk
+0:39] } bxc3 { [%clk 0:34] } 16. Qxd6 { [%clk 0:38] } cxb2 { [%clk 0:33] } 17.
+Rab1 { [%clk 0:38] } Rb8 { [%clk 0:23] } 18. Qa3 { [%clk 0:24] } Rb7 { [%clk
+0:18.56] } 19. Rxb2 { [%clk 0:23] } Re8 { [%clk 0:17.18] } 20. Rxb7 { [%clk
+0:16.44] } Rxe1+ { [%clk 0:16.27] } 21. Nxe1 { [%clk 0:16.39] } Bxb7 { [%clk
+0:16.27] } 22. Nf3 { [%clk 0:15.57] } Qf6 { [%clk 0:07.36] } 23. Bg3 { [%clk
+0:15.03] } Bf8 { [%clk 0:03.17] } 24. Qa4 { [%clk 0:13.59] } Kg8 { [%clk
+0:02.14] } 25. Bxa6 { [%clk 0:13.17] } Ba8 { [%clk 0:02.14] } 26. Bd3 { [%clk
+0:12.35] } Nb6 { [%clk 0:02.07] } 27. Qa5 { [%clk 0:10.55] } c5 { [%clk
+0:02.07] } 28. dxc5 { [%clk 0:10.32] } Bxf3 { [%clk 0:02.07] } 29. cxb6 {
+[%clk 0:08.44] } Bb7 { [%clk 0:02.07] } 30. Ba6 1-0
+
+[Event "NC Open 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.09.03"]
+[Round "2"]
+[White "IM JONATHAN SCHROER"]
+[Black "GM ALEXANDER SHABALOV"]
+[Result "0-1"]
+[Board "2"]
+[Input "DGT9599"]
+[Owner "South Carolina Chess Association"]
+[WhiteClock "1:29"]
+[BlackClock "1:30"]
+[Clock "W/0:03.10"]
+
+1. d4 { [%clk 1:29] } Nf6 { [%clk 1:29] } 2. c4 { [%clk 1:29] } g6 { [%clk
+1:29] } 3. Nc3 { [%clk 1:29] } Bg7 { [%clk 1:29] } 4. e4 { [%clk 1:28] } d6 {
+[%clk 1:29] } 5. Be2 { [%clk 1:28] } O-O { [%clk 1:29] } 6. Nf3 { [%clk 1:28]
+} e5 { [%clk 1:29] } 7. dxe5 { [%clk 1:28] } dxe5 { [%clk 1:29] } 8. Qxd8 {
+[%clk 1:28] } Rxd8 { [%clk 1:29] } 9. Bg5 { [%clk 1:28] } Nbd7 { [%clk 1:25] }
+10. O-O-O { [%clk 1:27] } Rf8 { [%clk 1:25] } 11. Nd5 { [%clk 1:26] } Nxe4 {
+[%clk 1:24] } 12. Be3 { [%clk 1:21] } Ndc5 { [%clk 1:22] } 13. Nxc7 { [%clk
+1:13] } Rb8 { [%clk 1:22] } 14. Nd2 { [%clk 1:12] } b6 { [%clk 1:20] } 15. Nxe4
+{ [%clk 0:39] } Nxe4 { [%clk 1:20] } 16. Nb5 { [%clk 0:39] } Bf5 { [%clk 0:42]
+} 17. Nxa7 { [%clk 0:27] } Ra8 { [%clk 0:35] } 18. Nc6 { [%clk 0:26] } Rxa2 {
+[%clk 0:30] } 19. Ne7+ { [%clk 0:23] } Kh8 { [%clk 0:26] } 20. Nxf5 { [%clk
+0:23] } gxf5 { [%clk 0:26] } 21. Bd3 { [%clk 0:20] } Nc5 { [%clk 0:24] } 22.
+Kb1 { [%clk 0:15.27] } Ra4 { [%clk 0:13.46] } 23. Bxf5 { [%clk 0:15.04] } e4 {
+[%clk 0:10.08] } 24. Bxc5 { [%clk 0:08.19] } bxc5 { [%clk 0:10.03] } 25. Bxe4
+{ [%clk 0:07.52] } Rxc4 { [%clk 0:08.02] } 26. Bd5 { [%clk 0:04.16] } Ra4 {
+[%clk 0:06.04] } 27. Rhe1 { [%clk 0:02.50] } Rb8 { [%clk 0:03.25] } 28. Re2 {
+[%clk 0:02.21] } c4 { [%clk 0:02.33] } 29. Rc1 { [%clk 0:01.03] } c3 { [%clk
+0:01.44] } 30. b3 { [%clk 0:00.23] } Ra5 { [%clk 1:00] } 31. Bxf7 { [%clk
+0:44] } Ra1+ { [%clk 0:50] } 32. Kc2 { [%clk 0:43] } Ra2+ { [%clk 0:48] } 33.
+Kd1 { [%clk 0:43] } Rd8+ { [%clk 0:43] } 34. Ke1 { [%clk 0:43] } Rxe2+ { [%clk
+0:40] } 35. Kxe2 { [%clk 0:42] } Rd2+ { [%clk 0:40] } 36. Kf3 { [%clk 0:32] }
+Bd4 { [%clk 0:37] } 37. Bd5 { [%clk 0:19.22] } Rxf2+ { [%clk 0:34] } 38. Kg3 {
+[%clk 0:18.14] } Rb2 { [%clk 0:24] } 39. Kg4 { [%clk 0:17.08] } Kg7 { [%clk
+0:24] } 40. h4 { [%clk 0:15.31] } Kf6 { [%clk 0:24] } 41. Be4 { [%clk 0:14.44]
+} h6 { [%clk 0:18.57] } 42. Rc2 { [%clk 0:13.33] } Rxb3 { [%clk 0:18.28] } 43.
+Kf3 { [%clk 0:13.15] } Ke5 { [%clk 0:17.01] } 44. g4 { [%clk 0:11.39] } Rb1 {
+[%clk 0:15.08] } 45. Bh7 { [%clk 0:09.28] } Rf1+ { [%clk 0:13.02] } 46. Ke2 {
+[%clk 0:08.27] } Rh1 { [%clk 0:11.57] } 47. h5 { [%clk 0:08.06] } Rh3 { [%clk
+0:11.48] } 48. Bf5 { [%clk 0:08.44] } Kf4 { [%clk 0:06.49] } 49. Rc1 { [%clk
+0:08.44] } Bc5 { [%clk 0:08.48] } 50. Rf1+ { [%clk 0:06.31] } Ke5 { [%clk
+0:08.47] } 51. Rf3 { [%clk 0:05.40] } Rh2+ { [%clk 0:08.21] } 52. Kd3 { [%clk
+0:05.40] } c2 { [%clk 0:07.54] } 53. Rf1 { [%clk 0:05.33] } Ba3 { [%clk
+0:07.53] } 54. Re1+ { [%clk 0:07.27] } Kf6 { [%clk 0:07.31] } 0-1
+
+[Event "NC Open 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.09.03"]
+[Round "2"]
+[White "GM LUBOMIR FTACNIK"]
+[Black "FM KAZIM GULAMALI"]
+[Result "1-0"]
+[Board "1"]
+[Input "DGT9616"]
+[Owner "South Carolina Chess Association"]
+[WhiteClock "1:30"]
+[BlackClock "1:30"]
+[Clock "W/0:26"]
+
+1. Nf3 { [%clk 1:30] } Nf6 { [%clk 1:27] } 2. c4 { [%clk 1:30] } e6 { [%clk
+1:25] } 3. g3 { [%clk 1:29] } d5 { [%clk 1:24] } 4. d4 { [%clk 1:29] } Bb4+ {
+[%clk 1:24] } 5. Bd2 { [%clk 1:29] } Be7 { [%clk 1:24] } 6. Bg2 { [%clk 1:29]
+} O-O { [%clk 1:24] } 7. O-O { [%clk 1:29] } c6 { [%clk 1:24] } 8. Nc3 { [%clk
+1:21] } Nbd7 { [%clk 1:18] } 9. Bf4 { [%clk 1:21] } dxc4 { [%clk 1:10] } 10. e4
+{ [%clk 1:21] } b5 { [%clk 1:00] } 11. d5 { [%clk 1:20] } exd5 { [%clk 1:00] }
+12. exd5 { [%clk 1:16] } Nxd5 { [%clk 0:59] } 13. Nxd5 { [%clk 1:14] } cxd5 {
+[%clk 0:59] } 14. Qxd5 { [%clk 1:14] } Ba6 { [%clk 0:55] } 15. Nd4 { [%clk
+1:13] } Bf6 { [%clk 0:52] } 16. Nc6 { [%clk 1:03] } Bb7 { [%clk 0:39] } 17.
+Rad1 { [%clk 0:49] } Nb6 { [%clk 0:38] } 18. Qf5 { [%clk 0:47] } Qc8 { [%clk
+0:31] } 19. Qxf6 { [%clk 0:47] } gxf6 { [%clk 0:31] } 20. Ne7+ { [%clk 0:47] }
+Kg7 { [%clk 0:31] } 21. Nxc8 { [%clk 0:47] } Bxg2 { [%clk 0:30] } 22. Nxb6 {
+[%clk 0:47] } axb6 { [%clk 0:30] } 23. Kxg2 { [%clk 0:47] } Rxa2 { [%clk 0:30]
+} 24. Rb1 { [%clk 0:41] } Re8 { [%clk 0:24] } 25. Be3 { [%clk 0:33] } Rd8 {
+[%clk 0:24] } 26. Rfc1 { [%clk 0:31] } Rd6 { [%clk 0:21] } 27. Rc3 { [%clk
+0:27] } Rc6 { [%clk 0:20] } 28. Ra3 { [%clk 0:27] } Rxa3 { [%clk 0:19.26] } 29.
+bxa3 { [%clk 0:27] } c3 { [%clk 0:19.14] } 30. Kf3 { [%clk 0:26] } Rc5 { [%clk
+0:18.47] } 1-0
+
+[Event "NC Open 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.09.03"]
+[Round "3"]
+[White "GM ALEXANDER SHABALOV"]
+[Black "IM MARC R ESSERMAN"]
+[Result "1/2-1/2"]
+[Board "2"]
+[Input "DGT9599"]
+[Owner "South Carolina Chess Association"]
+[WhiteClock "1:28"]
+[BlackClock "1:30"]
+[Clock "W/0:36"]
+
+1. e4 { [%clk 1:28] } c5 { [%clk 1:29] } 2. Nf3 { [%clk 1:28] } d6 { [%clk
+1:29] } 3. d4 { [%clk 1:28] } cxd4 { [%clk 1:29] } 4. Nxd4 { [%clk 1:28] } Nf6
+{ [%clk 1:29] } 5. Nc3 { [%clk 1:28] } a6 { [%clk 1:29] } 6. Bg5 { [%clk 1:27]
+} Nbd7 { [%clk 1:28] } 7. Bc4 { [%clk 1:25] } Qb6 { [%clk 1:27] } 8. Bb3 {
+[%clk 1:25] } e6 { [%clk 1:26] } 9. O-O { [%clk 1:16] } Be7 { [%clk 1:24] } 10.
+Qd2 { [%clk 1:12] } O-O { [%clk 1:18] } 11. Rae1 { [%clk 1:01] } h6 { [%clk
+1:06] } 12. Be3 { [%clk 0:47] } Nc5 { [%clk 1:02] } 13. f3 { [%clk 0:46] } Qc7
+{ [%clk 1:00] } 14. a4 { [%clk 0:46] } e5 { [%clk 0:49] } 15. Nf5 { [%clk
+0:41] } Bxf5 { [%clk 0:47] } 16. exf5 { [%clk 0:41] } Nxb3 { [%clk 0:46] } 17.
+cxb3 { [%clk 0:41] } Qd7 { [%clk 0:42] } 18. g4 { [%clk 0:38] } d5 { [%clk
+0:41] } 19. Bf2 { [%clk 0:30] } d4 { [%clk 0:39] } 20. Rxe5 { [%clk 0:23] } Bd6
+{ [%clk 0:38] } 21. Qxd4 { [%clk 0:23] } Bxe5 { [%clk 0:38] } 22. Qxe5 { [%clk
+0:23] } Qd2 { [%clk 0:31] } 23. Bd4 { [%clk 0:09.33] } Rfe8 { [%clk 0:29] } 24.
+Ne4 { [%clk 0:08.50] } Rxe5 { [%clk 0:27] } 25. Nxd2 { [%clk 0:08.50] } Rd5 {
+[%clk 0:21] } 26. Bc3 { [%clk 0:06.53] } Re8 { [%clk 0:18.47] } 27. Kf2 {
+[%clk 0:05.09] } Nd7 { [%clk 0:06.45] } 28. Re1 { [%clk 0:02.36] } Nc5 { [%clk
+0:34] } 1/2-1/2
+
+[Event "NC Open 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.09.03"]
+[Round "3"]
+[White "IM JOHN BARTHOLOMEW"]
+[Black "GM LUBOMIR FTACNIK"]
+[Result "0-1"]
+[Board "1"]
+[Input "DGT9616"]
+[Owner "South Carolina Chess Association"]
+[WhiteClock "1:26"]
+[BlackClock "1:30"]
+[Clock "W/0:03.42"]
+
+1. d4 { [%clk 1:26] } Nf6 { [%clk 1:30] } 2. c4 { [%clk 1:26] } g6 { [%clk
+1:29] } 3. Nc3 { [%clk 1:25] } d5 { [%clk 1:29] } 4. cxd5 { [%clk 1:25] } Nxd5
+{ [%clk 1:29] } 5. e4 { [%clk 1:25] } Nxc3 { [%clk 1:29] } 6. bxc3 { [%clk
+1:25] } Bg7 { [%clk 1:29] } 7. Bc4 { [%clk 1:24] } c5 { [%clk 1:27] } 8. Ne2 {
+[%clk 1:24] } O-O { [%clk 1:27] } 9. O-O { [%clk 1:24] } Nc6 { [%clk 1:27] }
+10. Be3 { [%clk 1:24] } Bd7 { [%clk 1:27] } 11. Rb1 { [%clk 1:22] } Qc7 {
+[%clk 1:25] } 12. Qc1 { [%clk 1:15] } Rac8 { [%clk 1:21] } 13. d5 { [%clk
+0:56] } Ne5 { [%clk 1:15] } 14. Bb3 { [%clk 0:55] } b5 { [%clk 1:11] } 15. h3
+{ [%clk 0:50] } a5 { [%clk 0:58] } 16. Bh6 { [%clk 0:36] } a4 { [%clk 0:49] }
+17. Bc2 { [%clk 0:31] } b4 { [%clk 0:43] } 18. Bxg7 { [%clk 0:21] } Kxg7 {
+[%clk 0:43] } 19. Qd1 { [%clk 0:19.16] } a3 { [%clk 0:40] } 20. cxb4 { [%clk
+0:14.57] } cxb4 { [%clk 0:38] } 21. Bb3 { [%clk 0:13.41] } Bb5 { [%clk 0:36] }
+22. Qd2 { [%clk 0:11.29] } Qa7 { [%clk 0:34] } 23. Rfd1 { [%clk 0:08.51] } Nd3
+{ [%clk 0:28] } 24. Rf1 { [%clk 0:04.02] } Rc7 { [%clk 0:22] } 25. Bc2 { [%clk
+0:02.58] } Nb2 { [%clk 0:19.18] } 26. Bb3 { [%clk 0:01.54] } Rfc8 { [%clk
+0:16.53] } 27. Rfe1 { [%clk 0:00.35] } Nd3 { [%clk 0:15.18] } 28. Rf1 { [%clk
+0:00.35] } Kg8 { [%clk 0:13.30] } 29. Qe3 { [%clk 0:00.13] } Qxe3 { [%clk
+0:11.59] } 30. fxe3 { [%clk 0:00.13] } Nc5 { [%clk 1:10] } 31. Bd1 { [%clk
+0:55] } b3 { [%clk 1:07] } 32. axb3 { [%clk 0:54] } Nxe4 { [%clk 1:07] } 33.
+Re1 { [%clk 0:51] } Bxe2 { [%clk 0:52] } 34. Bxe2 { [%clk 0:50] } Nc3 { [%clk
+0:52] } 35. Ra1 { [%clk 0:49] } Nxe2+ { [%clk 0:52] } 36. Rxe2 { [%clk 0:48] }
+Rc1+ { [%clk 0:52] } 37. Re1 { [%clk 0:44] } Rxe1+ { [%clk 0:52] } 38. Rxe1 {
+[%clk 0:44] } Rc3 { [%clk 0:52] } 39. b4 { [%clk 0:43] } Rb3 { [%clk 0:52] }
+40. Ra1 { [%clk 0:42] } Rxe3 { [%clk 0:52] } 41. b5 { [%clk 0:41] } Rb3 {
+[%clk 0:52] } 42. b6 { [%clk 0:41] } f5 { [%clk 0:52] } 43. b7 { [%clk 0:40] }
+Rxb7 { [%clk 0:52] } 44. Rxa3 { [%clk 0:40] } Rd7 { [%clk 0:52] } 45. Ra5 {
+[%clk 0:33] } Kf7 { [%clk 0:51] } 46. h4 { [%clk 0:31] } Kf6 { [%clk 0:42] }
+47. Ra6+ { [%clk 0:29] } Ke5 { [%clk 0:25] } 48. h5 { [%clk 0:28] } gxh5 {
+[%clk 0:24] } 49. Rh6 { [%clk 0:28] } Kxd5 { [%clk 0:24] } 50. Rxh7 { [%clk
+0:26] } Ke4 { [%clk 0:23] } 51. Rxh5 { [%clk 0:25] } f4 { [%clk 0:20] } 52. Kf2
+{ [%clk 0:03.42] } Rd2+ { [%clk 0:09.34] } 53. Kf1 { [%clk 0:03.42] } e5 {
+[%clk 0:09.34] } 54. Rh3 { [%clk 0:03.42] } Kd4 { [%clk 0:09.34] } 55. Ra3 {
+[%clk 0:03.42] } e4 { [%clk 0:09.34] } 56. Rb3 { [%clk 0:03.42] } Rc2 { [%clk
+0:09.34] } 57. Ra3 { [%clk 0:03.42] } Rb2 { [%clk 0:09.34] } 58. Kg1 { [%clk
+0:03.42] } Rb1+ { [%clk 0:09.34] } 59. Kf2 { [%clk 0:03.42] } e3+ { [%clk
+0:09.34] } 60. Ke2 { [%clk 0:03.42] } Rg1 { [%clk 0:09.34] } 61. Ra4+ { [%clk
+0:03.42] } Ke5 { [%clk 0:09.34] } 62. Ra5+ { [%clk 0:03.42] } Ke4 { [%clk
+0:09.34] } 63. Ra4+ { [%clk 0:03.42] } Kf5 { [%clk 0:09.34] } 0-1
+
+
+[Event "NC Open 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.09.04"]
+[Round "4"]
+[White "IM MARC R ESSERMAN"]
+[Black "GM GIORGI KACHEISHVILI"]
+[Result "0-1"]
+[Board "2"]
+[Input "DGT9599"]
+[Owner "South Carolina Chess Association"]
+[WhiteClock "1:30"]
+[BlackClock "1:29"]
+[Clock "W/0:16.52"]
+
+1. e4 { [%clk 1:30] } c6 { [%clk 1:28] } 2. d4 { [%clk 1:27] } d5 { [%clk
+1:28] } 3. exd5 { [%clk 1:25] } cxd5 { [%clk 1:28] } 4. c4 { [%clk 1:25] } Nf6
+{ [%clk 1:28] } 5. Nc3 { [%clk 1:25] } e6 { [%clk 1:28] } 6. Nf3 { [%clk 1:25]
+} Bb4 { [%clk 1:28] } 7. cxd5 { [%clk 1:24] } Nxd5 { [%clk 1:27] } 8. Bd2 {
+[%clk 1:23] } Nc6 { [%clk 1:27] } 9. Bd3 { [%clk 1:23] } Nf6 { [%clk 1:27] }
+10. O-O { [%clk 1:20] } O-O { [%clk 1:27] } 11. Bg5 { [%clk 1:20] } h6 { [%clk
+1:27] } 12. Bh4 { [%clk 1:16] } Be7 { [%clk 1:27] } 13. Re1 { [%clk 1:13] } Nh5
+{ [%clk 1:26] } 14. Bxe7 { [%clk 1:11] } Nxe7 { [%clk 1:26] } 15. Rc1 { [%clk
+1:05] } Nf6 { [%clk 1:20] } 16. Ne5 { [%clk 1:01] } Bd7 { [%clk 1:11] } 17. Ne4
+{ [%clk 0:54] } Ned5 { [%clk 1:10] } 18. Qb3 { [%clk 0:51] } Rb8 { [%clk 1:06]
+} 19. Nxf6+ { [%clk 0:39] } Nxf6 { [%clk 1:06] } 20. Bc4 { [%clk 0:38] } Bc6 {
+[%clk 1:00] } 21. Nxc6 { [%clk 0:22] } bxc6 { [%clk 1:00] } 22. Qc3 { [%clk
+0:22] } Nd5 { [%clk 0:51] } 23. Qd2 { [%clk 0:22] } Qb6 { [%clk 0:51] } 24. Bb3
+{ [%clk 0:22] } Rfd8 { [%clk 0:51] } 25. Rc5 { [%clk 0:17.55] } Ne7 { [%clk
+0:47] } 26. Qc3 { [%clk 0:13.50] } Rd6 { [%clk 0:47] } 27. Re4 { [%clk
+0:08.47] } Rbd8 { [%clk 0:46] } 28. g4 { [%clk 0:08.13] } R8d7 { [%clk 0:45] }
+29. h3 { [%clk 0:06.37] } Qd8 { [%clk 0:45] } 30. Ra5 { [%clk 0:02.38] } g5 {
+[%clk 1:38] } 31. Ra6 { [%clk 0:47] } Ng6 { [%clk 1:34] } 32. Ba4 { [%clk
+0:28] } Rxd4 { [%clk 1:21] } 33. Rxd4 { [%clk 0:19.58] } Rxd4 { [%clk 1:21] }
+34. Rxa7 { [%clk 0:17.31] } Rxa4 { [%clk 1:20] } 0-1
+
+[Event "NC Open 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.09.04"]
+[Round "4"]
+[White "GM LUBOMIR FTACNIK"]
+[Black "IM IRINA KRUSH"]
+[Result "1/2-1/2"]
+[Board "1"]
+[Input "DGT9616"]
+[Owner "South Carolina Chess Association"]
+[WhiteClock "1:30"]
+[BlackClock "1:30"]
+[Clock "B/0:12.55"]
+
+1. c4 { [%clk 1:30] } e5 { [%clk 1:28] } 2. Nc3 { [%clk 1:30] } Nc6 { [%clk
+1:27] } 3. g3 { [%clk 1:29] } Nf6 { [%clk 1:26] } 4. Bg2 { [%clk 1:29] } Bc5 {
+[%clk 1:26] } 5. Nf3 { [%clk 1:26] } d6 { [%clk 1:25] } 6. d3 { [%clk 1:25] }
+a6 { [%clk 1:24] } 7. a3 { [%clk 1:24] } h6 { [%clk 1:23] } 8. b4 { [%clk
+1:18] } Ba7 { [%clk 1:20] } 9. Bb2 { [%clk 1:16] } O-O { [%clk 1:19] } 10. O-O
+{ [%clk 1:15] } Be6 { [%clk 1:12] } 11. Rc1 { [%clk 1:14] } Qd7 { [%clk 1:10]
+} 12. e3 { [%clk 1:07] } Bh3 { [%clk 0:48] } 13. Re1 { [%clk 1:00] } Bxg2 {
+[%clk 0:48] } 14. Kxg2 { [%clk 1:00] } Rfe8 { [%clk 0:43] } 15. Nd5 { [%clk
+0:53] } Nxd5 { [%clk 0:42] } 16. cxd5 { [%clk 0:53] } Ne7 { [%clk 0:42] } 17.
+e4 { [%clk 0:52] } c6 { [%clk 0:37] } 18. dxc6 { [%clk 0:50] } Nxc6 { [%clk
+0:37] } 19. d4 { [%clk 0:49] } Rad8 { [%clk 0:34] } 20. Rc2 { [%clk 0:38] }
+exd4 { [%clk 0:21] } 21. Nxd4 { [%clk 0:38] } Nxd4 { [%clk 0:21] } 22. Bxd4 {
+[%clk 0:38] } Bxd4 { [%clk 0:21] } 23. Qxd4 { [%clk 0:38] } d5 { [%clk 0:21] }
+24. e5 { [%clk 0:34] } f6 { [%clk 0:21] } 25. Rce2 { [%clk 0:27] } fxe5 {
+[%clk 0:20] } 26. Rxe5 { [%clk 0:27] } Rxe5 { [%clk 0:20] } 27. Rxe5 { [%clk
+0:27] } Qd6 { [%clk 0:14.00] } 28. h4 { [%clk 0:26] } 1/2-1/2
+
+[Event "NC OPEN 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.09.04"]
+[Round "5"]
+[White "GM ALEXANDER SHABALOV"]
+[Black "GM LUBOMIR FTACNIK"]
+[Result "1/2-1/2"]
+[Board "2"]
+[Input "DGT9599"]
+[Owner "South Carolina Chess Association"]
+[WhiteClock "1:29"]
+[BlackClock "1:30"]
+[Clock "B/n/a"]
+
+1. e4 { [%clk 1:30] } c5 { [%clk 1:30] } 2. Nf3 { [%clk 1:30] } d6 { [%clk
+1:30] } 3. d4 { [%clk 1:30] } cxd4 { [%clk 1:29] } 4. Nxd4 { [%clk 1:30] } Nf6
+{ [%clk 1:29] } 5. Nc3 { [%clk 1:30] } e6 { [%clk 1:29] } 6. Be3 { [%clk 1:28]
+} a6 { [%clk 1:28] } 7. Be2 { [%clk 1:27] } Be7 { [%clk 1:27] } 8. g4 { [%clk
+1:23] } h6 { [%clk 1:22] } 9. f4 { [%clk 1:21] } Nfd7 { [%clk 1:19] } 10. Qd2
+{ [%clk 1:12] } b5 { [%clk 1:16] } 11. a3 { [%clk 1:08] } Bb7 { [%clk 1:14] }
+12. Bf3 { [%clk 1:04] } g5 { [%clk 1:09] } 13. e5 { [%clk 0:52] } Bxf3 { [%clk
+1:07] } 14. Nxf3 { [%clk 0:52] } gxf4 { [%clk 1:04] } 15. Bxf4 { [%clk 0:52] }
+Nxe5 { [%clk 1:03] } 16. Nxe5 1/2-1/2
+
+[Event "NC OPEN 2011"]
+[Site "Charlotte, NC"]
+[Date "2011.09.04"]
+[Round "5"]
+[White "GM GIORGI KACHEISHVILI"]
+[Black "GM SERGEY KUDRIN"]
+[Result "1/2-1/2"]
+[Board "1"]
+[Input "DGT9616"]
+[Owner "South Carolina Chess Association"]
+[WhiteClock "1:28"]
+[BlackClock "1:30"]
+[Clock "B/n/a"]
+
+1. Nf3 { [%clk 1:28] } g6 { [%clk 1:24] } 2. c4 { [%clk 1:24] } Bg7 { [%clk
+1:23] } 3. Nc3 { [%clk 1:24] } c5 { [%clk 1:23] } 4. g3 { [%clk 1:24] } Nc6 {
+[%clk 1:16] } 5. Bg2 { [%clk 1:24] } e5 { [%clk 1:15] } 6. a3 { [%clk 1:24] }
+Nge7 { [%clk 1:15] } 7. O-O { [%clk 1:23] } O-O { [%clk 1:12] } 8. Rb1 { [%clk
+1:16] } a5 { [%clk 1:12] } 9. d3 { [%clk 1:15] } d6 { [%clk 1:12] } 10. Ne1 {
+[%clk 1:13] } Be6 { [%clk 1:11] } 11. Nc2 { [%clk 1:13] } d5 { [%clk 1:11] }
+12. cxd5 { [%clk 1:13] } Nxd5 { [%clk 1:11] } 13. Ne3 { [%clk 1:13] } Nxe3 {
+[%clk 1:01] } 14. Bxe3 { [%clk 1:12] } Nd4 { [%clk 1:01] } 15. Bxb7 { [%clk
+1:06] } Rb8 { [%clk 1:01] } 16. Bg2 { [%clk 1:06] } c4 { [%clk 0:49] } 17. Re1
+{ [%clk 0:47] } cxd3 { [%clk 0:32] } 18. Qxd3 { [%clk 0:44] } Rb3 { [%clk
+0:26] } 19. Qa6 { [%clk 0:43] } Bf5 { [%clk 0:15.56] } 20. Ne4 { [%clk 0:41] }
+Qb6 { [%clk 0:15.31] } 21. Qxb6 { [%clk 0:39] } Rxb6 { [%clk 0:15.31] } 22. Bd2
+{ [%clk 0:34] } Rfb8 { [%clk 0:14.08] } 23. Bxa5 { [%clk 0:12.33] } Rxb2 {
+[%clk 0:13.55] } 24. Rxb2 { [%clk 0:12.26] } Rxb2 { [%clk 0:13.55] } 25. Nc3 {
+[%clk 0:09.43] } Bf8 { [%clk 0:10.27] } 26. a4 { [%clk 0:08.32] } Rc2 { [%clk
+0:07.40] } 27. Bd5 { [%clk 0:08.28] } h5 { [%clk 0:02.59] } 28. Kg2 { [%clk
+0:05.56] } Be6 { [%clk 0:01.53] } 29. Be4 { [%clk 0:04.58] } Rb2 { [%clk
+0:01.53] } 30. Rb1 { [%clk 0:04.23] } Rxb1 { [%clk 0:01.02] } 31. Bxb1 { [%clk
+1:04] } f5 { [%clk 0:47] } 32. Bb6 { [%clk 0:51] } Bb4 { [%clk 0:42] } 33. Nb5
+{ [%clk 0:40] } Nxe2 { [%clk 0:41] } 34. Nc7 { [%clk 0:40] } Bc4 { [%clk 0:38]
+} 35. a5 { [%clk 0:37] } Bd6 { [%clk 0:38] } 36. Ne8 { [%clk 0:27] } Bb4 {
+[%clk 0:31] } 37. f3 { [%clk 0:26] } Nd4 { [%clk 0:22] } 38. Nc7 { [%clk 0:25]
+} Nc6 { [%clk 0:21] } 39. a6 { [%clk 0:23] } Bd6 { [%clk 0:21] } 40. Bc2
+1/2-1/2
+
+
+
+

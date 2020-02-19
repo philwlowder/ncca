@@ -1,0 +1,84 @@
+
+#menuh { font-size: 14px; font-family: arial, helvetica, sans-serif;
+	width: 800px;  letter-spacing: .6px; margin-left: 110px; }
+		
+#menuh a { text-align: center; display:block; border-width: 0px 1px 1px 1px; border-color: black;
+	border-style: solid; white-space:nowrap;	
+	padding: 8px 12px 6px 12px; }
+	
+#menuh a:link, #menuh a:active	
+	{ color: black;	background-color: #e8c89d; text-decoration: none; } /* menu at rest */
+	
+#menuh a:visited  	
+{	color: purple; 	background-color: #e8c89d; text-decoration: none;} /* menu at rest */
+	
+#menuh a:hover						
+	{ color: white; background-color: #65a8da; text-decoration:none; } /* menu on mouse-over  */	
+
+#menuh a:active						
+	{ color: black; background-color: #65a8da; text-decoration:none; }  /* menu on mouse-over  */
+	
+#menuh a.top_parent { 
+	background-image: url(../media/gif/navdown_blue.gif); background-position: right center; 	
+	background-repeat: no-repeat; padding: 8px 20px 6px 10px; color: black;}
+	/* attaches down-arrow to all top-parents */
+	
+ #menuh a.top_parent:hover  { 
+	background-image: url(../media/gif/navdown_blue.gif); background-position: right center; 	
+	background-repeat: no-repeat; padding: 8px 20px 6px 10px; color: black;} 
+	/* attaches down-arrow to all top-parents */	
+	
+#menuh a.parent, #menuh a.parent:hover 	
+	{ background-image: url(../media/gif/nav_blue.gif); background-position: right center; 
+	background-repeat: no-repeat; } /* attaches side-arrow to all parents */
+
+#menuh ul
+	{ list-style:none; margin:0; padding: 0; float:left;}
+	/* width: 110px;	 width of all menu boxes */
+	/* NOTE: For adjustable menu boxes you can comment out the above width rule.
+	However, you will have to add padding in the "#menh a" rule so that the menu boxes
+	will have space on either side of the text -- try it */
+	
+
+#menuh li
+	{
+	position:relative;
+	min-height: 1px;		/* Sophie Dennis contribution for IE7 */
+	vertical-align: bottom;		/* Sophie Dennis contribution for IE7 */
+	}
+
+#menuh ul ul
+	{
+	position:absolute;
+	z-index:500;
+	top:auto;
+	display:none;
+	padding: 1em;
+	margin: -1em 0 0 -1em;
+	}
+
+#menuh ul ul ul
+	{
+	top:0;
+	left:100%;
+	}
+
+div#menuh li:hover
+	{
+	cursor:pointer;
+	z-index:100;
+	}
+
+div#menuh li:hover ul ul,
+div#menuh li li:hover ul ul,
+div#menuh li li li:hover ul ul,
+div#menuh li li li li:hover ul ul
+{display:none;}
+
+div#menuh li:hover ul,
+div#menuh li li:hover ul,
+div#menuh li li li:hover ul,
+div#menuh li li li li:hover ul
+{display:block;}
+
+/* End CSS Drop Down Menu */

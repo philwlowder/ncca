@@ -1,0 +1,77 @@
+
+
+.middle p {
+font-size: 14px;
+text-indent: 25px;
+color: 8c8c8c;
+margin: 10px 50px 5px 100px;
+border: 0px solid black;
+}
+
+p.noindent {
+text-indent: 0px;
+font-weight: bold;
+}
+
+#columnleft {
+position: relative;
+float: left;
+width: 700px;
+margin: 10px 0px 20px 20px;
+border-width: 0px;
+border-color: black;
+border-style: dotted;
+}
+
+#columnright {
+position: relative;
+float: left;
+width: 445px;
+margin: 10px 0px 20px 20px;
+border-width: 0px 0px 0px 0px;
+border-color: green;
+border-style: dotted;
+}
+
+#contacttable
+{
+border-collapse:collapse;
+margin: 0 auto;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+#contacttable caption 
+{
+background: palegoldenrod;
+border: 1px solid #98bf21;
+font-weight: bold;
+font-size: 16px;
+padding: 10px 8px 10px 8px;
+margin: 50px 0px 0px 0px;
+}
+
+#contacttable tr
+{
+height: 32px;
+}
+
+#contacttable th
+{
+background: #EAF2D3;
+font-size:14px;
+border:1px solid #98bf21;
+padding:5px 8px 5px 8px;
+}
+
+#contacttable td
+{
+font-size:14px;
+border:1px solid #98bf21;
+padding:0px 8px 0px 8px;
+}
+
+#contacttable tr.alt td  {
+color:#000000;
+background-color:#EAF2D3;
+}

@@ -1,0 +1,95 @@
+
+.header {
+background-color: #96CC8A;
+margin-bottom: 25px;
+}
+
+.middle  {
+margin: 0px 0px 0px 0px;
+border: 0px dashed green;
+}
+
+.middle p {
+text-indent: 0px;
+}
+
+.middle ul li {
+list-style: none;
+margin-left: 0px;
+padding: 5px 0px 5px 0px;
+}
+
+#columnleft {
+position: relative;
+float: left;
+width: 445px;
+margin: 25px 0px 10px 20px;
+padding: 5px 5px 5px 5px;
+border-width: 2px 2px 2px 2px;
+border-color: #96CC8A;
+border-style: dotted;
+}
+
+#columnright {
+position: relative;
+float: left;
+width: 445px;
+margin: 25px 0px 10px 10px;
+border-width: 2px 2px 2px 2px;
+border-color: #96CC8A;
+border-style: dotted;
+}
+
+.list{
+position: relative;
+float: left;
+margin: 75px 0px 20px 75px;
+padding: 5px 5px 5px 5px;
+border-width: 2px;
+border-color: #96CC8A;
+border-style: dotted;
+}
+
+.list ul li {
+list-style: none;
+margin-left: 0px;
+padding: 0px 0px 0px 0px;
+}
+
+.simpletable caption {
+font-weight: bold;
+font-size: 18px;
+padding: 10px 8px 10px 8px;
+margin: 0px 0px 0px 0px;
+}
+
+.simpletable {
+position: relative;
+float: left;
+border: 2px solid #96CC8A;
+margin-left: 25px;
+margin-top: 0px;
+margin-bottom: 10px;
+}
+
+.simpletable th {
+font-size: 14px;
+border-width: 0px 0px 0px 0px;
+border-style: solid;
+background-color: #96CC8A;
+padding:5px 8px 5px 8px;
+}
+
+.simpletable tr { height: 35px; }
+
+.simpletable td {
+font-size:14px;
+border-width: 1px 0px 0px 0px;
+border-style: solid;
+border-color: #65BC81;
+padding:0px 8px 0px 8px;
+}
+
+.simpletable tr.alt td  {
+color:#000000;
+}

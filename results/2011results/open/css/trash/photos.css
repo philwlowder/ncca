@@ -1,0 +1,39 @@
+
+h2 {
+margin: 20px 0px 0px 50px;
+}
+
+ul {
+margin: 15px 0px 0px 50px;
+}
+
+li {
+margin: 10px 0px 0px 0px;
+}
+
+.middle  {
+width: 850px;
+line-height: 18px;
+margin: 50px 0px 0px 25px;
+}
+
+.middle p {
+width: 600px;
+margin: 10px 0px 10px 50px;
+}
+                            
+#slide {                    
+position: relative;         
+float: left;                
+width: 450px;               
+border: 4px solid black;    
+margin: 20px 0px 10px 100px;  
+}
+
+#credit {
+position: relative;
+float: left;
+width: 700px;  
+border: 0px solid black;
+margin: 20px 0px 20px 150px;
+}

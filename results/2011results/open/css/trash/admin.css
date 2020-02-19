@@ -1,0 +1,113 @@
+
+.header {
+background-color: #58AE8B;
+margin-bottom: 25px;
+}
+
+.middle  {
+font-size: 14px;
+margin: 0px 0px 0px 0px;
+border: 0px dashed green;
+}
+
+.middle p {
+font-size: 14px;
+text-indent: 0px;
+}
+
+.middle ul li {
+list-style: none;
+margin-left: 0px;
+padding: 5px 0px 5px 0px;
+}
+
+#columnleft {
+position: relative;
+float: left;
+font-size: 14px;
+width: 445px;
+margin: 25px 0px 10px 20px;
+padding: 5px 5px 5px 5px;
+border-width: 0px 0px 0px 0px;
+border-color: #96CC8A;
+border-style: dotted;
+}
+
+#columnright {
+position: relative;
+float: left;
+font-size: 14px;
+width: 445px;
+margin: 25px 0px 10px 10px;
+border-width: 0px 0px 0px 0px;
+border-color: #96CC8A;
+border-style: dotted;
+}
+
+.box {
+position: relative;
+float: left;
+width: 400px;
+}
+
+.list{
+position: relative;
+float: left;
+font-size: 14px;
+margin: 0px 0px 20px 75px;
+padding: 5px 5px 5px 5px;
+border-width: 0px;
+border-color: #96CC8A;
+border-style: dotted;
+}
+
+.list p {
+font-size: 16px;
+font-style: bold;
+}
+
+.list ul li {
+list-style: none;
+margin-left: 0px;
+padding: 0px 0px 0px 0px;
+}
+
+.simpletable caption {
+font-weight: bold;
+font-size: 16px;
+padding: 10px 8px 10px 8px;
+margin: 0px 0px 0px 0px;
+}
+
+.simpletable {
+position: relative;
+float: left;
+border: 2px solid #96CC8A;
+margin-left: 200px;
+margin-top: 0px;
+margin-bottom: 10px;
+}
+
+.simpletable th {
+font-size: 16px;
+border-width: 0px 0px 0px 0px;
+border-style: solid;
+background-color: #d0f0bf;
+padding:5px 8px 5px 8px;
+}
+
+.simpletable tr { height: 32px;
+font-size:14px;
+ }
+
+.simpletable td {
+font-size:14px;
+border-width: 1px 1px 1px 1px;
+border-style: solid;
+border-color: #65BC81;
+padding:0px 8px 0px 8px;
+}
+
+.simpletable tr.alt td  {
+color:#000000;
+}

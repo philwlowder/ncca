@@ -1,0 +1,33 @@
+
+ .header { 
+background-color: palegoldenrod;
+} 
+
+h2 {
+margin: 20px 0px 0px 50px;
+}
+
+ul {
+margin: 15px 0px 0px 50px;
+}
+
+li {
+margin: 10px 0px 0px 0px;
+}
+
+.middle  { 
+position: relative;
+float: left;
+width: 850px;
+line-height: 20px;
+margin: 50px 0px 0px 25px; 
+border: 0px solid green; 
+} 
+
+.middle p {
+font-size: 14px;
+text-indent: 25px;
+width: 600px;
+margin: 10px 0px 10px 50px; 
+border: 0px solid black; 
+}

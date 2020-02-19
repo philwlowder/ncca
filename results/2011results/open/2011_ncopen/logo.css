@@ -1,0 +1,64 @@
+
+.chessboard {
+margin: 10px 0px 0px 10px;
+width: 80px;
+height:80px;
+border: 0px solid black;
+}
+
+.chessboard, .black_square, .white_square {
+position: relative;
+float: left;
+display:block;
+}
+
+.chessboard img {
+position: absolute;
+z-index: 1;
+border: 0px solid black;
+}
+
+
+.black_square, .white_square {
+width:20px;
+height:20px;
+float:left;
+}
+
+.letter_square { 
+width: 16px;
+height: 18px;
+float: left;
+font-size: 14px;
+font-weight: bold;
+padding-left: 4px;
+padding-top: 2px;
+color: black;
+/* color: #d18b47; 	dark tan */
+/* color: #3C7C63;  dark green */
+/* color: #e8c89d;  front page menu brown */
+background-color: #FFF7E6; /* cream */
+}
+
+.black_square {
+background-color: #3C7C63; /* dark green */
+/*  background-color: #d18b47;   dark tan */
+/* background-color: #e8c89d;  front page menu brown*/
+}
+	
+.white_square {
+background-color: #FFF7E6; /* cream */
+
+/* background-color: #ffce9e; light square color from TWIC live game viewer */
+}
+
+.header {
+/* background-color: #9B9B9B;   gray */
+/* background-color: #ffce9e;  light tan */
+ background-color: #79BEA3;   /*light green */
+}
+
+.footer {
+background-color: #79BEA3;   /* light green */
+/* background-color: #ffce9e;   light tan */
+}

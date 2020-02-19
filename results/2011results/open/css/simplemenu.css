@@ -1,0 +1,39 @@
+
+.header { margin-bottom: 0; }
+
+.tmenu {
+height: 40px;
+font-weight: 500;
+letter-spacing: 1px;
+width: 90%;              	/*  makes the width of the menu container 700px */
+border: 0 solid red;     	 /* add a 1px value to see the border for this element */
+}
+
+.tmenu ul{
+margin-top: 4px;
+}
+
+.tmenu ul li {
+display: inline;
+position: relative;
+float: left;
+}
+
+.tmenu ul li a{
+color: black;
+background-color: #FFF7E6; 	   /* cream */
+padding: 5px 12px 5px 12px;	   /* creates space around the menu item */
+border-width: 0px 1px 1px 1px; 	   /* no value for the 1st spot because the top menu supplies the border */
+border-color: black;
+border-style: solid;
+text-decoration: none;
+}
+
+.tmenu ul li a:visited{
+text-decoration: none;
+}
+
+.tmenu ul li a:hover{
+background-color: #79BEA3;   /*light green */
+color: purple;
+}
