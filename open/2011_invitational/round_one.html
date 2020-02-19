@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<title>NCCA Games</title>
+<link rel="stylesheet" type="text/css" href="old_global.css">
+<link rel="shortcut icon" href="favicon.ico">
+
+ <!-- Support libraries from Yahoo YUI project -->
+  <script type="text/javascript"  src="http://chesstempo.com/js/pgnyui.js"></script>
+  <script type="text/javascript" src="http://chesstempo.com/js/pgnviewer.js"></script>
+  <link type="text/css"  rel="stylesheet"  href="http://chesstempo.com/css/board-min.css"></link>
+  <link type="text/css" rel="stylesheet" href="nccaboard.css"></link>
+
+</head>
+
+<body>
+
+<div class="page">
+
+<div class="header">
+
+<div class="logo">
+<a href="../../index.html"><img src="../../media/jpeg/nccaboard.jpg" width="75" height="75" title="Return Home" alt="1/4 chess board that links to home page"></a>
+</div>
+
+<div class="title"><p>Round One - 2011 Invitational</p></div>
+
+</div> <!-- end header -->
+
+<div class="middle">
+
+<div class="nav">
+<p><a href="index.html">Return to coverage by Walter High</a></p>
+</div>
+
+<div class="message">
+<ul>
+<li>Round One</li>
+<li>Game viewer by <a href="http://chesstempo.com">ChessTempo</a>.</li>
+</ul>
+</div>
+
+<div id="chess-container">
+
+<script>
+new PgnViewer(
+{ boardName: "chess",
+pieceSize: 40,
+pieceSet: 'merida',
+pgnFile: 'round_one.pgn',
+pauseBetweenMoves: 800,
+showCoordinates: true,
+addVersion: true,
+autoScrollMoves: true,
+newlineForEachMainMove: false,
+showBracketsOnVariation: false,
+movesFormat: 'main_on_own_line',
+moveAnimationLength: 0.1,
+pollPGNMilliseconds: 90000
+}
+);
+</script>
+
+</div>
+
+<div class="game-title">
+
+</div>
+
+<div id="chess-moves"></div>
+
+</div> <!-- end middle -->
+
+<div class="footer">
+<p>&#169; Copyright 2010 | North Carolina Chess Association</p>
+</div> <!-- end footer -->
+
+</div> <!-- end page -->
+
+</body>
+</html>

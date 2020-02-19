@@ -1,0 +1,99 @@
+body {
+background-color: #f5f6f6;
+color:#000000;
+font-family:Arial,Tahoma,Verdana;
+}
+
+.ct-board-container{padding: 5px;}
+.ct-board{display:block;overflow:hidden;text-align:center;}
+.ct-board-border{border:1px solid black; padding-bottom: 3px; padding-left: 2px; margin-top:25px;}
+.ct-nav-buttons{padding-bottom:7px;padding-top:7px; padding-left: 20px;}
+.ct-white-square{display:block;float:left; background-color: #F9F9ED;}
+.ct-black-square{display:block;float:left; background-color: #7CE5B6;}
+.ct-from-square{background:none;background-color:#9F9FFF;}
+.ct-to-square{background:none;background-color:#557FFF;}
+.ct-over-valid-square{background:none;background-color:green;}
+.ct-over-invalid-square{background:none;background-color:red;}
+.ct-back{vertical-align:middle; padding-left: 25px;}
+.ct-forward{vertical-align:middle; padding-left: 25px;}
+.ct-start{vertical-align:middle; padding-left: 25px;}
+.ct-end{vertical-align:middle; padding-left: 25px;}
+.ct-play{vertical-align:middle; padding-left: 25px;}
+.ct-stop{vertical-align:middle; padding-left: 25px;}
+.ct-mainline-commentary{padding:5px; color: black; font-size: 12px;}
+.ct-board-move-variation{cursor:pointer; color: green;}
+.ct-board-move-mainline{font-weight:600; cursor:pointer; font-family:Arial,Tahoma,Verdana; font-size: 14px; line-height: 16px; word-spacing: 2px;}
+.ct-board-move-comment{color: black; font-size: 12px; line-height: 16px; word-spacing: 120%; }
+.ct-board-move-current{color:red;}
+.ct-bad-move-score{color:#FF2020;}
+.ct-subopt-move-score,
+.ct-opt-move-score{color:#7CFFB6;}
+
+/*.ct-opt-move-score{color:#ADFFC3;}*/
+
+#chess-problemSelector {
+background-color: #f5f6f6;
+}
+
+
+.nav {
+width: 800px;
+position: relative;
+float: left;
+margin-left: 0px;
+line-height: 20px;
+padding-left: 5px;
+font-size: 16px;
+border: 0px solid black;
+}
+
+
+#chess-container {
+position: relative;
+float: left;
+width: 350px;
+height: 400px;
+margin-top: 20px;
+margin-left: 25px;
+margin-right: 5px;
+padding-top: 0px;
+border: 0px solid black;
+}
+
+#chess-moves{
+position: relative;
+float: left;
+width: 500px;
+height: 400px;
+line-height: 16px;
+background-color: #f5f6f6;
+margin-top: 10px;
+margin-left: 15px;
+margin-right: 0px;
+border: 1px solid black;
+overflow: auto;
+padding: 5px;
+}
+
+.game-title {
+position: relative;
+float: left;
+width: 300px;
+height: 20px;
+font-size: 16px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 25px;
+border: 0px solid black;
+}
+       
+#chess-whitePlayer
+{
+font-size: 18px;
+}
+
+#chess-blackPlayer
+{
+font-size: 18px;
+}
+

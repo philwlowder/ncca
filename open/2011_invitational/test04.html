@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<title>NCCA Games</title>
+<link rel="stylesheet" type="text/css" href="../../css/main.css">
+<link rel="stylesheet" type="text/css" href="../../css/logo.css">
+
+<link rel="shortcut icon" href="favicon.ico">
+
+ <!-- Support libraries from Yahoo YUI project -->  
+  <script type="text/javascript"  src="http://chesstempo.com/js/pgnyui.js"></script>   
+  <script type="text/javascript" src="http://chesstempo.com/js/pgnviewer.js"></script> 
+  <link type="text/css"  rel="stylesheet"  href="http://chesstempo.com/css/board-min.css"></link>  
+  <link type="text/css" rel="stylesheet" href="testboard.css"></link> 
+
+</head>
+
+<body>
+
+<div class="page">
+
+<div class="header">
+	<div class="chessboard">
+		<a href="../index.html"><img src="../../media/gif/web.gif" width="100%" height="100%" alt=""></a>
+		<div><div class="letter_square">N</div><div class="black_square"></div><div class="white_square"></div><div class="black_square"></div>	</div>
+		<div><div class="black_square"></div><div class="letter_square">C</div><div class="black_square"></div><div class="white_square"></div>	</div>
+		<div><div class="white_square"></div><div class="black_square"></div><div class="letter_square">C</div><div class="black_square"></div>	</div>
+		<div><div class="black_square"></div><div class="white_square"></div><div class="black_square"></div><div class="letter_square">A</div>	</div>
+	</div> <!-- end chessboard -->
+	<h1 class="title">2011 NC Invitational - Round Four</h1>
+</div> <!-- end header -->
+
+<div class="css_box left_25">
+<p><a href="index.html">Return to coverage by Walter High</a></p>
+<p>Game Viewer by <a href="http://chesstempo.com/">Chess Tempo</a></p>
+</div>
+
+<div class="line size100">
+
+<div id="chess-container">
+
+<script>
+new PgnViewer(
+{ boardName: "chess",
+pieceSize: 35,
+pieceSet: 'merida',
+pgnFile: 'test04.pgn', 
+pauseBetweenMoves: 800,
+showCoordinates: true,
+addVersion: true,
+autoScrollMoves: true,
+newlineForEachMainMove: false,
+showBracketsOnVariation: false,
+movesFormat: 'main_on_own_line',
+moveAnimationLength: 0.1,
+pollPGNMilliseconds: 90000
+}
+);
+</script>
+
+</div>  
+
+<div id="chess-moves"></div>  
+
+
+</div> 
+
+
+
+<div class="footer">
+<p>&#169; Copyright 2011 | North Carolina Chess Association</p>
+</div> <!-- end footer -->
+
+</div> <!-- end page -->
+                                     
+
+</body>
+</html>
