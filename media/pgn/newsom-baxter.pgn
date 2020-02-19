@@ -1,0 +1,125 @@
+
+[Event "Reverse Angle 24"]
+[Site "Cone Center"]
+[Date "2011.11.19"]
+[Round "2"]
+[White "Newsom, Gary"]
+[Black "Baxter, Ken"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[WhiteElo "2020"]
+[BlackElo "1929"]
+[PlyCount "89"]
+[EventDate "2011.11.19"]
+
+1. c4 c6 2. d4 d5 {When you are playing a student of Chris Mabe (or Chris
+himself for that matter), there is a good possibility you will see a Slav.
+It's a tough nut to crack and may yet drive me to start playing 1.e4 } 3.
+Nf3 { I have played it all in this position...the Exchange, 3.e3, 3.Nc3 (which
+has independent significance if Black takes immediately) and this, the most
+popular move. This game steers into the "Dutch variation" after 6.e3, which
+usually features a struggle around White expanding in the center with e4 and
+Black attempting to prevent it or be ready to strike back with a counter shot
+when White achieves it. Overall, as in many variations of the Slav, a complex
+positional battle ensues in which Black's solid structure makes White's task
+difficult. Yes the Slav is tough...for both sides.} Nf6 4. Nc3 dxc4 5. a4 Bf5
+6. e3 e6 7. Bxc4 Bb4 8. O-O O-O 9. Qe2 Nbd7 10. e4 Bg6 { Now Black threatens ...
+Bxc3 followed by ...Nxe4. White has to deal with the threat. } 11. Bd3 Qa5 $5 {
+This move is OK and has been played a few times at the GM level, most notably
+by Short in his World Championship match against Kasparov in 1993. I don't
+think it is the most challenging. To my mind, it seems funny that Black has
+two pieces which could be stranded "offside" (the B on b4 and the Q on a5) and
+White's task is to find a way to shift play over to the king side where those
+pieces will not be effective. Hence my attempt to close things up in the
+center and thus divide the board. I think the most challenging move is 11...
+Bh5, which threatens ...e5, immediately equalizing. (or better) Let's take a
+quick glance a game from another Reverse Angle in which the maestro himself,
+NM Mabe, is allowed to carry out just this plan against me. } (11... Bh5 12. Bg5
+$2 {White simply must play 12.e5. Here is a model game for White:} (12. e5 Nd5
+13. Nxd5 cxd5 14. Qe3 h6 15. Ne1 Bg6 16. Bxg6 fxg6 17. Nc2 Ba5 18. Qd3 Kh7 19.
+f4 a6 20. b4 Bb6 21. g4 Qh4 22. Ne3 Rac8 23. Bd2 h5 24. Rae1 hxg4 25. Re2 Rf7
+26. Rg2 Nf8 27. Rxg4 Qe7 28. a5 Ba7 29. Rf3 Kg8 30. Rh3 Qe8 31. Rgh4 Rfc7 32.
+f5 Kf7 33. Rh8 Qb5 34. fxg6+ Ke7 35. Rf3 Rc1+ 36. Kg2 {
+1-0  Bacrot,E (2664)-Gustafsson,J (2571)/Germany 2004/CBM 100}) 12... e5 13. Qe3
+Bxf3 14. gxf3 exd4 15. Qxd4 Bc5 16. Qc4 h6 17. Bh4 Ne5 18. Qxc5 Nxf3+ 19. Kh1
+Nxh4 20. Rad1 Qc8 21. Qe3 Qg4 22. Rg1 Qf3+ 23. Qxf3 Nxf3 24. Rg3 Ne5 25. f4 Ng6
+26. Ne2 Rfd8 27. Rf1 Nf8 28. Rfg1 g6 29. e5 N6d7 30. h4 h5 31. e6 Nxe6 32. f5
+Ne5 33. Bb1 Nd4 34. Nf4 Ndf3 35. Ba2 Nxg1 36. fxg6 Ngf3 37. gxf7+ Kf8 {
+0-1 Newsom,G (1998)-Mabe,C (2252)/Reverse Angle 9 2008}) 12. e5 Nd5 13. Ne4 ({
+In the aforementioned game against Short, Kasparov played} 13. Bxg6 {
+and their game continued} fxg6 14. Ne4 c5 15. Nd6 Qa6 16. Qxa6 bxa6 17. Ng5
+cxd4 18. Nxe6 Rfb8 19. Rd1 Nxe5 20. Rxd4 Rb6 21. Rxd5 Rxd6 22. Rxd6 Bxd6 23.
+Bf4 Re8 24. Nd4 Bc5 25. Nb3 Bb4 26. Be3 Nd3 27. Rb1 Rc8 28. Bxa7 Rc2 29. Bd4
+Kf7 30. h3 Be7 31. Rd1 Nxb2 32. Na1 Nxd1 33. Nxc2 Bf6 34. Bxf6 {
+1/2-1/2 Kasparov,G (2805)-Short,N (2655)/London 1993/CBM 036}) 13... c5 14. Bb5
+Qc7 15. Bxd7 Bxe4 $2 {This move is clearly an error. This is Black's only
+defensive piece on the K side and he risks falling into a mating attack
+without it. He is ok after} (15... Qxd7 16. Nxc5 Bxc5 17. dxc5 Rac8 {
+as White cannot hold onto the pawn.}) 16. Qxe4 Qxd7 17. Ng5 f5 $2 {Black panics
+. This just loses material and gives White a great chance to win. It looked
+scary, but there seems to be no forced win after} (17... g6 {
+for instance, the most forcing idea} 18. Nxh7 Kxh7 19. Qh4+ Kg8 20. Bg5 {
+fails to} f5 $1 {If White builds his position more slowly, it seems that Black
+has sufficient defensive resources to hold the k-side.}) 18. exf6 Nxf6 19.
+Qxe6+ Kh8 20. Qxd7 Nxd7 21. Be3 {More exact I think was} (21. d5 $1 {immediatel
+y creating a passed pawn and requiring the Black B to scramble a bit to get
+back into the game (reference my note from 11...Qa5.)}) 21... Rae8 {
+Conversely, Black should take this opportunity to exchange the pawns.} 22. d5
+Rf5 23. Rad1 {Played with confidence knowing that Black's attempt to win two
+minors for the rook fails tactically:} Nb6 (23... Rxe3 $4 24. fxe3 Rxg5 25. Rf7
+$1 {and Black is in a pickle}) 24. d6 Nd7 25. Nf3 h6 26. Nd2 $5 {Inaccurate, I
+think. This is an instructive moment for me personally. I see two of my old
+bad habits reappearing for the umpteenth time that can explain why I didn't
+play the more straight forward and obvious Bd2. First is that I am still
+operating on the preconceived notion that the black B on b4 is "stuck". As you
+remember one of my thoughts early in the game was that I might be able to take
+advantage of this B if I can "play around it" Well, chess positions change and
+this one has. The bishop is performing an important task in the present
+position that is hindering the realization of my advantage; namely it its
+keeping a rook off of e1. Misplaced pieces are almost always "dynamic"
+advantages that are correctable, either by re-deploying the misplaced piece,
+or, as here, sometimes the game just "comes around" to that piece. Each
+position should be evaluated on its own merit and preconceived notions from
+past moves must be critically evaluated. Things change and they did here. I
+always seem to play with this utopian notion that I can play this perfect game
+using a minor positional theme such as an offside piece and ride it to victory.
+Create a positional master piece for the ages every time I sit down! Reality
+is that those kind of games don't happen very often. The second flaw is that I
+was enamored with the tactical idea associated with my next move, namely 27.d7
+Nxd7 28.Nc4 and I considered Black to be in trouble. Fact is, this idea is
+easily thwarted by Black. So to summarize, I was again afflicted with the
+problem of not being objective. I've got to evaluate each position properly and
+play to the demands of the position.} ({Better was} 26. Bd2 Bxd2 27. Nxd2 {
+and White is on the road to realizing his advantage.}) 26... Nb6 27. d7 $2 {
+Continuing with my mistaken idea.} Rd8 28. Ne4 Rxd7 $2 {
+Ken hands me back my advantage. Better was} ({Better was} 28... Re5) 29. Rxd7
+Nxd7 30. Nd6 $6 { This move puts the Knight in peril. Better was first } (30. Rd1
+Nb6 31. b3 {and Black still has a lot of pawns to defend.}) 30... Rd5 31. Nxb7
+Ne5 32. b3 $2 {This move is clearly a mistake, giving another pawn target to
+Black. I should just make a useful move, such as 32.g3. Black can't quite
+muster the resources to win the knight. due to the possible escape via c5. I
+remember being afraid of 32...c4 (if White plays a move other than 32.b3)
+thinking that this move would seal the fate of the knight if allowed, since it
+"shielded" the c5 square, but in retrospect, ...c4 really doesn't do much.
+Black still has to cover c5 with another piece in order to play an effective ..
+.Rd7 and if Rc1 black can't cover c5 again with Nd3 as c4 hangs.} (32. g3 Nc6
+33. Rc1 Nd4 34. Rc4 {And Black cannot further improve his position in relation
+to the knight on b7. White has "consolidated" and has the advantage. If here,
+for instance, Black tries} a5 {to prevent a5 and a6, White has} 35. Bxd4 cxd4
+36. Rc8+ Kh7 37. Rd8 {With good winning chances.}) 32... c4 $2 {
+Now Black misses his shot. Better was} (32... Nc6 $1 33. Rc1 Nd4 $1 {Where, wit
+h no luft for the king, the line that worked for White in the last note fails
+here:} 34. Bxd4 cxd4 35. Rc8+ Kh7 36. Rd8 Re5 $1 37. g3 ({Or} 37. h4 Re1+ 38.
+Kh2 Re7 39. Nd6 Ba5 {and ...Bc7 pinning the knight.}) 37... Re7 38. Nd6 Ba5 39.
+Rc8 (39. Re8 d3 40. Rxe7 d2 $19) 39... d3 40. Nc4 d2 $19 {
+Thanks to Rybka for some help with this part of the analysis.}) 33. bxc4 Nxc4
+34. Rc1 ({Here's a funny line:} 34. Bxa7 $2 Rd7 35. Bc5 {
+White apparently has a tricky way to extricate himself...but wait...} Rxb7 36.
+Rb1 {And while White attempts not to break his own arm patting himself on the
+back for his resourceful play, black uncorks} Nb2 $1 $17) 34... a5 35. g3 Nxe3
+36. fxe3 Rd7 37. Nc5 {The game now petered out into a draw after} (37. Rc8+ Kh7
+38. Nd8 {Also does not lead to anything for White.}) 37... Rd2 38. e4 Ra2 39.
+e5 Bd2 40. Rc4 Be3+ 41. Kf1 Bxc5 42. Rxc5 Rxa4 43. Kg2 Kg8 44. Kf3 Kf7 45. Rc7+
+1/2-1/2
+
+
