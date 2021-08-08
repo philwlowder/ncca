@@ -8,10 +8,10 @@
 <link rel="shortcut icon" href="favicon.ico">
 
  <!-- Support libraries from Yahoo YUI project -->
-  <script type="text/javascript"  src="https://chesstempo.com/js/pgnyui.js"></script>
-  <script type="text/javascript" src="https://chesstempo.com/js/pgnviewer.js"></script>
-  <link type="text/css"  rel="stylesheet"  href="https://chesstempo.com/css/board-min.css">
-  <link type="text/css" rel="stylesheet" href="../css/nccaboard.css">
+  <script type="text/javascript"  src="http://chesstempo.com/js/pgnyui.js"></script>
+  <script type="text/javascript" src="http://chesstempo.com/js/pgnviewer.js"></script>
+  <link type="text/css"  rel="stylesheet"  href="http://chesstempo.com/css/board-min.css"></link>
+  <link type="text/css" rel="stylesheet" href="../css/nccaboard.css"></link>
 
 </head>
 
@@ -28,8 +28,8 @@
 <div class="title"><p>NCCA Games</p></div>
 
 </div> <!-- end header -->
-<div class="middle">
 
+<div class="middle">
 
 <div class="nav">
 <p><a href="../">Table of Contents</a></p>
@@ -37,23 +37,22 @@
 
 <div class="message">
 <ul>
-<li>Asheboro 39-40</li>
-<li>9 Games</li>
+<li>Ron Simpson's Games</li>
 <li>PGN compiled by Tom Hales</li>
+<li>16 Games</li>
 <li>Game viewer by <a href="http://chesstempo.com">ChessTempo</a>.</li>
-<li><a href="http://www.jwinslow.org/">Jeremy Winslow</a> added 'white vs black' label</li>
+<li><a href="http://www.jwinslow.org/">Jeremy Winslow</a>  added 'white vs black' label</li>
 </ul>
 </div>
-
 
 <div id="chess-container">
 
 <script>
 new PgnViewer(
 { boardName: "chess",
-pgnFile: '../pgn/tao39_40.pgn',
 pieceSize: 40,
 pieceSet: 'merida',
+pgnFile: '../pgn/ron_simpson.pgn',
 pauseBetweenMoves: 800,
 showCoordinates: true,
 addVersion: true,
@@ -69,8 +68,6 @@ pollPGNMilliseconds: 90000
 
 </div>
 
-
-
 <div class="game-title">
 
 <span id="chess-whitePlayer"></span>
@@ -81,23 +78,13 @@ pollPGNMilliseconds: 90000
 
 <div id="chess-moves"></div>
 
-
 </div> <!-- end middle -->
 
-
 <div class="footer">
-
-<div class="footermenutop">
-
-</div>
-
-<div class="footermenubottom">
-</div>
-
+<div class="footermenutop"></div>
+<div class="footermenubottom"></div>
 <p>&#169; Copyright 2010 | North Carolina Chess Association</p>
-
 </div> <!-- end footer -->
-
 
 </div> <!-- end page -->
 

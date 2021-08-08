@@ -17,8 +17,8 @@
 <!-- Support libraries from Yahoo YUI project -->
 <script type="text/javascript"  src="https://chesstempo.com/js/pgnyui.js"></script>
 <script type="text/javascript" src="https://chesstempo.com/js/pgnviewer.js"></script>
-<link type="text/css"  rel="stylesheet"  href="https://chesstempo.com/css/board-min.css">
-<link type="text/css" rel="stylesheet" href="css/nccaboard.css">
+<link type="text/css"  rel="stylesheet"  href="https://chesstempo.com/css/board-min.css"></link>
+<link type="text/css" rel="stylesheet" href="css/nccaboard.css"></link>
 
 <style type="text/css">
 .nested_list li ul li  {
